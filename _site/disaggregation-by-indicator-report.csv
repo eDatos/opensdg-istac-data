@@ -1,0 +1,143 @@
+Indicator,Disaggregations,Number of disaggregations
+#1-2-1,"Territorio, Serie, Serie temporal, Umbral de pobreza",4
+#1-2-1-SERIE-A,Territorio,1
+#1-2-1-SERIE-B,Territorio,1
+#1-2-1-SERIE-C,Territorio,1
+#1-2-1-SERIE-D,Territorio,1
+#1-2-2,"Territorio, Serie, Serie temporal, Umbral de pobreza",4
+#1-2-2-SERIE-A,Territorio,1
+#1-2-2-SERIE-B,Territorio,1
+#1-2-2-SERIE-C,Territorio,1
+#1-2-2-SERIE-D,Territorio,1
+#1-5-1,Territorio,1
+#1-5-1-SERIE-A,Territorio,1
+#10-1-1,"Territorio, Serie, Serie temporal, Grupo de población",4
+#10-1-1-SERIE-A,Territorio,1
+#10-1-1-SERIE-B,Territorio,1
+#10-1-1-SERIE-C,Territorio,1
+#10-1-1-SERIE-D,Territorio,1
+#10-2-1,"Territorio, Serie, Mediana de ingresos",3
+#10-2-1-SERIE-A,Territorio,1
+#10-2-1-SERIE-B,Territorio,1
+#10-4-1,Territorio,1
+#10-4-1-SERIE-A,Territorio,1
+#11-1-1,Territorio,1
+#11-1-1-SERIE-A,Territorio,1
+#11-5-1,Territorio,1
+#11-5-1-SERIE-A,Territorio,1
+#11-6-1,"Territorio, Serie, Serie temporal, Tipo de tratamiento",4
+#11-6-1-SERIE-A,Territorio,1
+#11-6-1-SERIE-B,Territorio,1
+#11-6-1-SERIE-C,Territorio,1
+#11-6-1-SERIE-D,Territorio,1
+#12-5-1,Territorio,1
+#12-5-1-SERIE-A,Territorio,1
+#13-1-1,Territorio,1
+#13-1-1-SERIE-A,Territorio,1
+#13-2-2,"Territorio, Serie, Serie temporal",3
+#13-2-2-SERIE-A,Territorio,1
+#13-2-2-SERIE-B,Territorio,1
+#16-1-4,Territorio,1
+#16-1-4-SERIE-A,Territorio,1
+#17-1-1,Territorio,1
+#17-1-1-SERIE-A,Territorio,1
+#17-8-1,Territorio,1
+#17-8-1-SERIE-A,Territorio,1
+#2-2-2,Territorio,1
+#2-2-2-SERIE-A,Territorio,1
+#2-4-1,Territorio,1
+#2-4-1-SERIE-A,Territorio,1
+#3-1-1,Territorio,1
+#3-1-1-SERIE-A,Territorio,1
+#3-1-2,Territorio,1
+#3-1-2-SERIE-A,Territorio,1
+#3-2-1,Territorio,1
+#3-2-1-SERIE-A,Territorio,1
+#3-2-2,Territorio,1
+#3-2-2-SERIE-A,Territorio,1
+#3-4-1,"Territorio, Serie, Tipo de enfermedad",3
+#3-4-1-SERIE-A,Territorio,1
+#3-4-1-SERIE-B,Territorio,1
+#3-4-1-SERIE-C,Territorio,1
+#3-4-1-SERIE-D,Territorio,1
+#3-4-2,Territorio,1
+#3-4-2-SERIE-A,Territorio,1
+#3-6-1,Territorio,1
+#3-6-1-SERIE-A,Territorio,1
+#3-7-2,"Territorio, Serie, Edad",3
+#3-7-2-SERIE-A,Territorio,1
+#3-7-2-SERIE-B,Territorio,1
+#3-8-1,Territorio,1
+#3-8-1-SERIE-A,Territorio,1
+#3-9-3,Territorio,1
+#3-9-3-SERIE-A,Territorio,1
+#3-a-1,Territorio,1
+#3-a-1-SERIE-A,Territorio,1
+#3-c-1,"Territorio, Serie, Ocupación sanitaria",3
+#3-c-1-SERIE-A,Territorio,1
+#3-c-1-SERIE-B,Territorio,1
+#3-c-1-SERIE-C,Territorio,1
+#3-c-1-SERIE-D,Territorio,1
+#4-3-1,"Territorio, Serie, Serie temporal, Edad",4
+#4-3-1-SERIE-A,Territorio,1
+#4-3-1-SERIE-B,Territorio,1
+#4-3-1-SERIE-C,Territorio,1
+#4-3-1-SERIE-D,Territorio,1
+#4-4-1,"Territorio, Serie, Edad",3
+#4-4-1-SERIE-A,Territorio,1
+#4-4-1-SERIE-B,Territorio,1
+#4-4-1-SERIE-C,Territorio,1
+#4-5-1,"Territorio, Serie, Serie temporal",3
+#4-5-1-SERIE-A,Territorio,1
+#4-5-1-SERIE-B,Territorio,1
+#4-5-1-SERIE-C,Territorio,1
+#4-5-1-SERIE-D,Territorio,1
+#4-5-1-SERIE-E,Territorio,1
+#5-4-1,"Territorio, Serie, Sexo",3
+#5-4-1-SERIE-A,Territorio,1
+#5-4-1-SERIE-B,Territorio,1
+#5-4-1-SERIE-C,Territorio,1
+#5-5-2,"Territorio, Serie, Serie temporal",3
+#5-5-2-SERIE-A,Territorio,1
+#5-5-2-SERIE-B,Territorio,1
+#5-a-1a,"Territorio, Serie, Sexo",3
+#5-a-1a-SERIE-A,Territorio,1
+#5-a-1a-SERIE-B,Territorio,1
+#5-a-1a-SERIE-C,Territorio,1
+#5-a-1b,"Territorio, Serie, Tipo de tenencia",3
+#5-a-1b-SERIE-A,Territorio,1
+#5-a-1b-SERIE-B,Territorio,1
+#5-a-1b-SERIE-C,Territorio,1
+#5-b-1,"Territorio, Serie, Sexo",3
+#5-b-1-SERIE-A,Territorio,1
+#5-b-1-SERIE-B,Territorio,1
+#5-b-1-SERIE-C,Territorio,1
+#8-1-1,Territorio,1
+#8-1-1-SERIE-A,Territorio,1
+#8-2-1,"Territorio, Serie, Forma de medir el empleo",3
+#8-2-1-SERIE-A,Territorio,1
+#8-2-1-SERIE-B,Territorio,1
+#8-5-1,"Territorio, Serie, Sexo",3
+#8-5-1-SERIE-A,Territorio,1
+#8-5-1-SERIE-B,Territorio,1
+#8-5-1-SERIE-C,Territorio,1
+#8-5-2,"Territorio, Serie, Sexo",3
+#8-5-2-SERIE-A,Territorio,1
+#8-5-2-SERIE-B,Territorio,1
+#8-5-2-SERIE-C,Territorio,1
+#8-6-1,Territorio,1
+#8-6-1-SERIE-A,Territorio,1
+#9-2-1,"Territorio, Serie, Serie temporal",3
+#9-2-1-SERIE-A,Territorio,1
+#9-2-1-SERIE-B,Territorio,1
+#9-2-2,"Territorio, Serie, Serie temporal, Forma de medir el empleo",4
+#9-2-2-SERIE-A,Territorio,1
+#9-2-2-SERIE-B,Territorio,1
+#9-2-2-SERIE-C,Territorio,1
+#9-4-1,"Territorio, Serie, Saldo contable",3
+#9-4-1-SERIE-A,Territorio,1
+#9-4-1-SERIE-B,Territorio,1
+#9-5-1,Territorio,1
+#9-5-1-SERIE-A,Territorio,1
+#9-5-2,Territorio,1
+#9-5-2-SERIE-A,Territorio,1

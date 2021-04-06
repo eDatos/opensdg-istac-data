@@ -1,0 +1,176 @@
+ES: Spain
+ES70: Canary Islands
+ES701: Las Palmas
+ES708: Lanzarote
+_35004: Arrecife
+_35010: Haría
+_35018: San Bartolomé
+_35024: Teguise
+_35024_UP002500: La Graciosa
+_35028: Tías
+_35029: Tinajo
+_35034: Yaiza
+ES704: Fuerteventura
+_35003: Antigua
+_35007: Betancuria
+_35014: La Oliva
+_35015: Pájara
+_35017: Puerto del Rosario
+_35030: Tuineje
+ES705: Gran Canaria
+_35001: Agaete
+_35002: Agüimes
+_35005: Artenara
+_35006: Arucas
+_35008: Firgas
+_35009: Gáldar
+_35011: Ingenio
+_35012: Mogán
+_35013: Moya
+_35016: Las Palmas de Gran Canaria
+_35019: San Bartolomé de Tirajana
+_35020: La Aldea de San Nicolás
+_35021: Santa Brígida
+_35022: Santa Lucía de Tirajana
+_35023: Santa María de Guía de Gran Canaria
+_35025: Tejeda
+_35026: Telde
+_35027: Teror
+_35031: Valsequillo de Gran Canaria
+_35032: Valleseco
+_35033: Vega de San Mateo
+ES702: Santa Cruz de Tenerife
+ES709: Tenerife
+_38001: Adeje
+_38004: Arafo
+_38005: Arico
+_38006: Arona
+_38010: Buenavista del Norte
+_38011: Candelaria
+_38012: Fasnia
+_38015: Garachico
+_38017: Granadilla de Abona
+_38018: La Guancha
+_38019: Guía de Isora
+_38020: Güímar
+_38022: Icod de los Vinos
+_38023: San Cristóbal de La Laguna
+_38025: La Matanza de Acentejo
+_38026: La Orotava
+_38028: Puerto de la Cruz
+_38031: Los Realejos
+_38032: El Rosario
+_38034: San Juan de la Rambla
+_38035: San Miguel de Abona
+_38038: Santa Cruz de Tenerife
+_38039: Santa Úrsula
+_38040: Santiago del Teide
+_38041: El Sauzal
+_38042: Los Silos
+_38043: Tacoronte
+_38044: El Tanque
+_38046: Tegueste
+_38051: La Victoria de Acentejo
+_38052: Vilaflor de Chasna
+ES706: La Gomera
+_38002: Agulo
+_38003: Alajeró
+_38021: Hermigua
+_38036: San Sebastián de La Gomera
+_38049: Valle Gran Rey
+_38050: Vallehermoso
+ES707: La Palma
+_38007: Barlovento
+_38008: Breña Alta
+_38009: Breña Baja
+_38014: Fuencaliente de La Palma
+_38016: Garafía
+_38024: Los Llanos de Aridane
+_38027: El Paso
+_38029: Puntagorda
+_38030: Puntallana
+_38033: San Andrés y Sauces
+_38037: Santa Cruz de La Palma
+_38045: Tazacorte
+_38047: Tijarafe
+_38053: Villa de Mazo
+ES703: El Hierro
+_38013_1912: Frontera (to 2007)
+_38013_2007: Frontera
+_38048: Valverde
+_38901: El Pinar de El Hierro
+ES706_ES703: La Gomera and El Hierro
+ES706_ES709: La Gomera and Tenerife
+ES11: Galicia
+ES111: Corunna
+ES112: Lugo
+ES113: Ourense
+ES114: Pontevedra
+ES12: Asturias
+ES120: Asturias
+ES13: Cantabria
+ES130: Cantabria
+ES21: Basque Country
+ES211: Araba / Álava
+ES212: Gipuzkoa
+ES213: Biscay
+ES22: Navarre
+ES220: Navarre
+ES23: La Rioja
+ES230: La Rioja
+ES24: Aragon
+ES241: Huesca
+ES242: Teruel
+ES243: Saragossa
+ES30: Madrid
+ES300: Madrid
+ES41: Castile and Leon
+ES411: Ávila
+ES412: Burgos
+ES413: León
+ES414: Palencia
+ES415: Salamanca
+ES416: Segovia
+ES417: Soria
+ES418: Valladolid
+ES419: Zamora
+ES42: Castile-La Mancha
+ES421: Albacete
+ES422: Ciudad Real
+ES423: Cuenca
+ES424: Guadalajara
+ES425: Toledo
+ES43: Extremadura
+ES431: Badajoz
+ES432: Cáceres
+ES51: Catalonia
+ES511: Barcelona
+ES512: Girona
+ES513: Lleida
+ES514: Tarragona
+ES52: Valencia
+ES521: Alacant / Alicante
+ES522: Castelló / Castellón
+ES523: València / Valencia
+ES53: Balearic Islands
+ES530: Balearic Islands
+ES531: Ibiza y Formentera
+ES532: Majorca
+ES533: Minorca
+ES61: Andalusia
+ES611: Almería
+ES612: Cádiz
+ES613: Cordova
+ES614: Granada
+ES615: Huelva
+ES616: Jaén
+ES617: Málaga
+ES618: Seville
+ES62: Murcia
+ES620: Murcia
+ES63_ES64: Ceuta y Melilla
+ES630_ES640: Ceuta y Melilla
+ES63: Ceuta
+ES630: Ceuta
+ES64: Melilla
+ES640: Melilla
