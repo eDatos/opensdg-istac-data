@@ -1,0 +1,7 @@
+_site
+opensdg-datos
+scripts/__pycache__
+metadata_generated
+__pycache__
+data/indice.csv
+node_modules
