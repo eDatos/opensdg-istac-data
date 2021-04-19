@@ -101,3 +101,12 @@ graph_title|Similar a graph_title para el indicador|Texto
 graph_type|Similar a graph_type para el indicador.<br>Para las series se recomienda utilizar *bar*|Texto
 sort_order|Orden en que se mostrará la pestaña de este indicador en la agrupación de pestañas|Número natural mayor que 0
 tab_name|Nombre que se le dará a la pestaña que representa esta serie|Texto
+show_map|Metadato que se utiliza para mostrar o no el mapa|Valores booleanos (true, fals
+### Mostrar la información en mapas
+
+Para poder mostrar la información de un subindicador en un mapa será necesario realizar una serie de pasos:
+
+1) En los archivos de datos se debe incluir una columna de nombre `GeoCode`. Bajo esta columna irán los códigos de regiones (`geocodes`) que mapearán los datos a las regiones del mapa.
+2) En los metadatos del subindicador se deberá añadir un nuevo metadato: [**`show_map`**](#metadatos-de-serie) y establecerlo a `true` si se desea mostrar el mapa. Se puede establecer a `false` para ocultarlo.
+3) Añadir configuraciones de mapa al archivo `config_data.yml`. Existen ejemplos de esto en el propio archivo. Para más información consultar la [documentación de OpenSDG](https://open-sdg.readthedocs.io/en/latest/maps/)
+4) Esta configuración de los mapas se deberá añadir tal cual está en `config_data.yml` en la configuración de la web [`opensdg-web/src/_config.yml`](https://git.arte-consultores.com/istac/edatos-opensdg-web/blob/develop/opensdg-web/src/_config.yml).
