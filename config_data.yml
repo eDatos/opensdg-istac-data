@@ -9,7 +9,6 @@
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - es
-  - ca
 
 # Destination directory
 # ---------------------
@@ -96,12 +95,12 @@ map_options:
 # below and adjust if you would like to use the Open SDG mapping functionality.
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
-map_layers:
- - geojson_file: https://datos.canarias.es/catalogos/estadisticas/dataset/6dd8baf4-14f4-43a3-88b2-984d034c965c/resource/d31b5422-df3b-4eae-b0eb-b4acbecb8ef0/download/municipios_20170101_generalizado.json
-   name_property: etiqueta
-   id_property: geocode
-   output_subfolder: regions
-   filename_prefix: indicator_
+# map_layers:
+#  - geojson_file: https://datos.canarias.es/catalogos/estadisticas/dataset/6dd8baf4-14f4-43a3-88b2-984d034c965c/resource/d31b5422-df3b-4eae-b0eb-b4acbecb8ef0/download/municipios_20170101_generalizado.json
+#    name_property: etiqueta
+#    id_property: geocode
+#    output_subfolder: regions
+#    filename_prefix: indicator_
    
 
 # Documentation settings
