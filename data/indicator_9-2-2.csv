@@ -15,8 +15,8 @@ Year,Units,Territorio,Serie,Serie temporal,Forma de medir el empleo,Value
 2014,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.21
 2015,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.17
 2016,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.13
-2017,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.24
-2018,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.21
+2017,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.2
+2018,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.12
 2010,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.97
 2011,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.90
 2012,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.71
@@ -24,8 +24,8 @@ Year,Units,Territorio,Serie,Serie temporal,Forma de medir el empleo,Value
 2014,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.42
 2015,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.38
 2016,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.24
-2017,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.38
-2018,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.41
+2017,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.39
+2018,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.23
 2010,Porcentaje,ES,Serie A,Proporción de personas ocupadas en el sector manufacturero,,12.85
 2011,Porcentaje,ES,Serie A,Proporción de personas ocupadas en el sector manufacturero,,12.76
 2012,Porcentaje,ES,Serie A,Proporción de personas ocupadas en el sector manufacturero,,12.61
@@ -57,3 +57,7 @@ Year,Units,Territorio,Serie,Serie temporal,Forma de medir el empleo,Value
 2018,Porcentaje,ES,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,10.05
 2019,Porcentaje,ES,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,10.01
 2019,Porcentaje,ES70,Serie A,Proporción de personas ocupadas en el sector manufacturero,,3.47
+2020,Porcentaje,ES,Serie A,Proporción de personas ocupadas en el sector manufacturero,,12.66
+2020,Porcentaje,ES70,Serie A,Proporción de personas ocupadas en el sector manufacturero,,3.27
+2019,Porcentaje,ES70,Serie B,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Personas empleadas,3.16
+2019,Porcentaje,ES70,Serie C,Empleo del sector manufacturero en proporción al empleo total según forma de medir el empleo,Horas trabajadas,3.31

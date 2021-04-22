@@ -26,7 +26,7 @@ Year,Units,Territorio,Serie,Edad,Value
 2016,Por 1.000 habitantes,ES,Serie A,Entre 10 y 14 años,0.10
 2017,Por 1.000 habitantes,ES,Serie A,Entre 10 y 14 años,0.10
 2018,Por 1.000 habitantes,ES,Serie A,Entre 10 y 14 años,0.06
-2019,Por 1.000 habitantes,ES,Serie A,Entre 10 y 14 años,0.06
+2019,Por 1.000 habitantes,ES,Serie A,Entre 10 y 14 años,0.07
 2010,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,10.61
 2011,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,9.51
 2012,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,8.98
@@ -36,4 +36,6 @@ Year,Units,Territorio,Serie,Edad,Value
 2016,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,7.34
 2017,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,7.04
 2018,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,6.23
-2019,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,6.07
+2019,Por 1.000 habitantes,ES,Serie B,Entre 15 y 19 años,5.96
+2019,Por 1.000 habitantes,ES70,Serie A,Entre 10 y 14 años,0.04
+2019,Por 1.000 habitantes,ES70,Serie B,Entre 15 y 19 años,5.07
