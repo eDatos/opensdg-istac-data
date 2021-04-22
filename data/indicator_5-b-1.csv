@@ -29,7 +29,7 @@ Year,Units,Territorio,Serie,Sexo,Value
 2015,Porcentaje,ES,Serie A,Ambos sexos,95.45
 2017,Porcentaje,ES,Serie A,Ambos sexos,96.16
 2019,Porcentaje,ES,Serie A,Ambos sexos,96.92
-2012,Porcentaje,ES,Serie C,Mujeres,94.10
+2012,Porcentaje,ES,Serie C,Mujeres,94.1
 2013,Porcentaje,ES,Serie C,Mujeres,94.35
 2014,Porcentaje,ES,Serie C,Mujeres,95.33
 2015,Porcentaje,ES,Serie C,Mujeres,95.52
@@ -41,3 +41,9 @@ Year,Units,Territorio,Serie,Sexo,Value
 2015,Porcentaje,ES,Serie B,Hombres,95.38
 2017,Porcentaje,ES,Serie B,Hombres,96.21
 2019,Porcentaje,ES,Serie B,Hombres,96.73
+2020,Porcentaje,ES70,Serie A,Ambos sexos,97.26
+2020,Porcentaje,ES,Serie A,Ambos sexos,98.89
+2020,Porcentaje,ES70,Serie B,Hombres,96.59
+2020,Porcentaje,ES,Serie C,Mujeres,98.91
+2020,Porcentaje,ES70,Serie C,Mujeres,97.92
+2020,Porcentaje,ES,Serie B,Hombres,98.86
