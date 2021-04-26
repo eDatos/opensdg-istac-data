@@ -6,8 +6,8 @@ Year,Units,Territorio,Value
 2014,Porcentaje,ES70,45.51
 2015,Porcentaje,ES70,45.73
 2016,Porcentaje,ES70,45.00
-2017,Porcentaje,ES70,44.85
-2018,Porcentaje,ES70,45.76
+2017,Porcentaje,ES70,44.93
+2018,Porcentaje,ES70,45.28
 2010,Porcentaje,ES,49.11
 2011,Porcentaje,ES,48.26
 2012,Porcentaje,ES,46.69
@@ -18,3 +18,5 @@ Year,Units,Territorio,Value
 2017,Porcentaje,ES,45.07
 2018,Porcentaje,ES,45.25
 2019,Porcentaje,ES,45.87
+2019,Porcentaje,ES70,46.09
+2020,Porcentaje,ES,48.15
