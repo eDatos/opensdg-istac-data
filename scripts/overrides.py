@@ -234,6 +234,7 @@ def ovr_open_sdg_prep(options):
             'output_folder': options['site_dir'],
             'translations': options['translations'],
             'indicator_options': options['indicator_options'],
+            'id_column': options['geo_code_column'],
         }
         for key in map_layer:
             geojson_kwargs[key] = map_layer[key]
@@ -245,5 +246,6 @@ def ovr_open_sdg_prep(options):
         outputs.append(sdg.outputs.OutputGeoJson(**geojson_kwargs))
 
     return outputs
+
 
 open_sdg.open_sdg_prep = ovr_open_sdg_prep
