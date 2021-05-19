@@ -17,8 +17,7 @@ definicion: subindicator.9-4-1-SERIE-B-definicion
 formula_teorica: '$$PVABECO2_{manufacturero}^{t} = \frac{ECO2_{manufacturero}^{t}}{VAB_{manufacturero,2015}^{t}} $$ <br>
 donde: <br>
 $ECO2_{manufacturero}^{t} =$ emisiones de CO2 de las unidades económicas residentes del sector manufacturer en el año $t$ (se distribuye el total nacional de emisiones de CO2 de la Cuenta de emisiones a la atmósfera en función de las emisiones de CO2 por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
-$VAB_{manufacturero,2015}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$ <br>
-teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año'
+$VAB_{manufacturero,2015}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$ '
 unidad_medida: "Kilogramos"
 fuentes_informacion: "Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico<br>
 Cuenta de emisiones a la atmósfera, Instituto Nacional de Estadística (INE)<br>
