@@ -87,7 +87,7 @@ map_options:
     accessToken: pk.eyJ1IjoianJvZGNvciIsImEiOiJja240bjEwdjMwa3EwMnZvMDdjejF6MXQ3In0.rwgQT9lyjU77AT7fSJD2vw
     attribution: <p>Attribution Example</p>
 
-geo_code_column: Territorio
+geo_code_column: general.territorio
 
 # Map layers
 # ----------
