@@ -1,21 +1,25 @@
-goal: Objetivo
+goal: Objectiu
 goals: legendCallback
-home: Inicio
+home: Inici
 indicator: Indicador
-indicators: Indicadores
-loading: Cargando resultados de búsqueda
-opens_new_window: Se abre en una nueva ventana
-hide: ocultar
-sdg: Objetivos de Desarrollo Sostenible
+indicators: Indicadors
+loading: S'estan carregant resultats de cerca
+opens_new_window: S’obre en una finestra nova
+hide: oculta
+sdg: Objectius de Desenvolupament Sostenible
 target: Meta
-targets: Metas
+targets: Metes
 twitter: Twitter
 facebook: Facebook
-built_using_open_sdg: Construido usando Open SDG
-page: página web
-pages: páginas web
+built_using_open_sdg: Creat amb Open SDG
+page: pàgina web
+pages: pàgines web
 indicador_siguiente: Indicador Següent
 indicador_anterior: Indicador Anterior
 media: Mitjana
 espana: Espanya
+year: Any
+value: Valor
+serie: Sèrie
 texto_serie_ocecas: Indicador calculat utilitzant una metodologia harmonitzada entre els òrgans centrals d'estadística de les comunitats autònomes
+territorio: Territori
