@@ -11,7 +11,7 @@
 1-3-1-graph-title: 
 1-3-1-definition:
 1-4-1-title: "Proporción de la población que vive en hogares con acceso a los servicios básicos"
-1-4-1-graph-title: 
+1-4-1-graph-title: "Proporción de la población que vive en hogares con acceso a los servicios básicos"
 1-4-1-definition:
 1-4-2-title: "Proporción del total de la población adulta con derechos seguros de tenencia de la tierra: a) que posee documentación reconocida legalmente al respecto y b) considera seguros sus derechos, desglosada por sexo y tipo de tenencia"
 1-4-2-graph-title: 
@@ -83,7 +83,7 @@
 10-c-1-graph-title: 
 10-c-1-definition:
 11-1-1-title: "Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas"
-11-1-1-graph-title: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda"
+11-1-1-graph-title: "Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda o que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior"
 11-1-1-definition:
 11-2-1-title: "Proporción de la población que tiene fácil acceso al transporte público, desglosada por sexo, edad y personas con discapacidad"
 11-2-1-graph-title: 
@@ -163,7 +163,7 @@
 12-b-1-title: "Aplicación de instrumentos normalizados de contabilidad para hacer un seguimiento de los aspectos económicos y ambientales de la sostenibilidad del turismo"
 12-b-1-graph-title: 
 12-b-1-definition:
-12-c-1-title: "Cantidad de subsidios a los combustibles fósiles por unidad de PIB (producción y consumo)"
+12-c-1-title: "Cuantía de los subsidios a los combustibles fósiles (producción y consumo) por unidad del PIB"
 12-c-1-graph-title: 
 12-c-1-definition:
 13-1-1-title: "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas"
@@ -175,7 +175,7 @@
 13-1-3-title: "Proporción de gobiernos locales que adoptan y aplican estrategias locales de reducción del riesgo de desastres en consonancia con las estrategias nacionales de reducción del riesgo de desastres"
 13-1-3-graph-title: 
 13-1-3-definition:
-13-2-1-title: "Número de países con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes y estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales"
+13-2-1-title: "Número de países con contribuciones determinadas a nivel nacional, estrategias a largo plazo, planes nacionales de adaptación y comunicaciones sobre la adaptación, notificadas a la secretaría de la Convención Marco de las Naciones Unidas sobre el Cambio Climático"
 13-2-1-graph-title: 
 13-2-1-definition:
 13-2-2-title: "Emisiones totales de gases de efecto invernadero por año"
@@ -187,10 +187,10 @@
 13-a-1-title: "Cantidades proporcionadas y movilizadas en dólares de los Estados Unidos al año en relación con el objetivo actual mantenido de movilización colectiva de 100.000 millones de dólares de aquí a 2025"
 13-a-1-graph-title: 
 13-a-1-definition:
-13-b-1-title: "Número de países menos adelantados y pequeños Estados insulares en desarrollo con contribuciones determinadas a nivel nacional, estrategias a largo plazo y planes, estrategias nacionales de adaptación y estrategias indicadas en comunicaciones sobre la adaptación y comunicaciones nacionales"
+13-b-1-title: "Número de países menos adelantados y pequeños Estados insulares en desarrollo con contribuciones determinadas a nivel nacional, estrategias a largo plazo, planes nacionales de adaptación y comunicaciones sobre la adaptación, notificadas a la secretaría de la Convención Marco de las Naciones Unidas sobre el Cambio Climático"
 13-b-1-graph-title: 
 13-b-1-definition:
-14-1-1-title: "Ia) Índice de eutrofización costera; y b) densidad de detritos plásticos"
+14-1-1-title: "a) Índice de eutrofización costera; y b) densidad de detritos plásticos"
 14-1-1-graph-title: 
 14-1-1-definition:
 14-2-1-title: "Número de países que aplican enfoques basados en los ecosistemas para gestionar las zonas marinas"
@@ -376,9 +376,12 @@
 17-19-1-title: "Valor en dólares de todos los recursos proporcionados para fortalecer la capacidad estadística de los países en desarrollo"
 17-19-1-graph-title: 
 17-19-1-definition:
-17-19-2-title: "Proporción de países que a) han realizado al menos un censo de población y vivienda en los últimos diez años; y b) han registrado el 100% de los nacimientos y el 80% de las defunciones"
-17-19-2-graph-title: 
-17-19-2-definition:
+17-19-2a-title: "Proporción de países que han realizado al menos un censo de población y vivienda en los últimos diez años"
+17-19-2a-graph-title: "Se ha realizado al menos un censo de población y vivienda en los últimos diez años  (1 = Sí; 0 = No)" 
+17-19-2a-definition:
+17-19-2b-title: "Proporción de países que han registrado el 100% de los nacimientos y el 80% de las defunciones"
+17-19-2b-graph-title: 
+17-19-2b-definition:
 17-2-1-title: "Asistencia oficial para el desarrollo neta, total y para los países menos adelantados en proporción al ingreso nacional bruto (INB) de los donantes del Comité de Asistencia para el Desarrollo de la Organización de Cooperación y Desarrollo Económicos (OCDE)"
 17-2-1-graph-title: 
 17-2-1-definition:
@@ -430,7 +433,7 @@
 2-4-1-title: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
 2-4-1-graph-title: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
 2-4-1-definition:
-2-5-1-title: "Número de recursos genéticos vegetales y animales para la alimentación y la agricultura preservados en instalaciones de conservación a medio y largo plazo"
+2-5-1-title: "Número de: a) recursos genéticos vegetales y b) animales para la alimentación y la agricultura preservados en instalaciones de conservación a medio y largo plazo"
 2-5-1-graph-title: 
 2-5-1-definition:
 2-5-2-title: "Proporción de razas y variedades locales consideradas en riesgo de extinción"
@@ -491,7 +494,7 @@
 3-6-1-graph-title: "Tasa de mortalidad por lesiones debidas a accidentes de tráfico"
 3-6-1-definition:
 3-7-1-title: "Proporción de mujeres en edad de procrear (entre 15 y 49 años) que cubren sus necesidades de planificación familiar con métodos modernos"
-3-7-1-graph-title: 
+3-7-1-graph-title: "Proporción de mujeres, entre 18 y 49 años, casadas con un hombre o con pareja masculina, que cubren sus necesidades de planificación familiar con métodos modernos"
 3-7-1-definition:
 3-7-2-title: "Tasa de fecundidad de las adolescentes (entre 10 y 14 años y entre 15 y 19 años) por cada 1.000 mujeres de ese grupo de edad"
 3-7-2-graph-title: "Tasa de fecundidad de las adolescentes según grupo de edad por cada 1.000 mujeres de ese grupo de edad"
@@ -500,7 +503,7 @@
 3-8-1-graph-title: "Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica"
 3-8-1-definition:
 3-8-2-title: "Proporción de la población con grandes gastos sanitarios por hogar como porcentaje del total de gastos o ingresos de los hogares"
-3-8-2-graph-title: 
+3-8-2-graph-title: "Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar"
 3-8-2-definition:
 3-9-1-title: "Tasa de mortalidad atribuida a la contaminación de los hogares y del aire ambiente"
 3-9-1-graph-title: 
@@ -565,7 +568,7 @@
 4-b-1-title: "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
 4-b-1-graph-title: 
 4-b-1-definition:
-4-c-1-title: "Proporción de docentes con las calificaciones mínimas requeridas, por nivel educativo"
+4-c-1-title: "Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo"
 4-c-1-graph-title: 
 4-c-1-definition:
 5-1-1-title: "Determinar si existen o no marcos jurídicos para promover, hacer cumplir y supervisar la igualdad y la no discriminación por razón de sexo"
@@ -578,7 +581,7 @@
 5-2-2-graph-title: 
 5-2-2-definition:
 5-3-1-title: "Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años"
-5-3-1-graph-title: 
+5-3-1-graph-title: "Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre"
 5-3-1-definition:
 5-3-2-title: "Proporción de niñas y mujeres de entre 15 y 49 años que han sufrido mutilación o ablación genital femenina, desglosada por edad"
 5-3-2-graph-title: 
@@ -686,10 +689,10 @@
 8-4-2-graph-title: 
 8-4-2-definition:
 8-5-1-title: "Ingreso medio por hora de empleadas y empleados, desglosado por ocupación, edad y personas con discapacidad"
-8-5-1-graph-title: "Ingreso medio por hora de trabajo según sexo"
+8-5-1-graph-title: "Ingreso medio por hora de trabajo según sexo y personas con discapacidad"
 8-5-1-definition:
 8-5-2-title: "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
-8-5-2-graph-title: "Tasa de desempleo según sexo"
+8-5-2-graph-title: "Tasa de desempleo según sexo o personas con discapacidad"
 8-5-2-definition:
 8-6-1-title: "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
 8-6-1-graph-title: "Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación"
@@ -704,7 +707,7 @@
 8-8-2-graph-title: 
 8-8-2-definition:
 8-9-1-title: "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
-8-9-1-graph-title: 
+8-9-1-graph-title: "Pernoctaciones en alojamientos turísticos"
 8-9-1-definition:
 8-a-1-title: "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio"
 8-a-1-graph-title: 
@@ -725,7 +728,7 @@
 9-2-2-graph-title: "Proporción de personas ocupadas en el sector manufacturero y empleo del sector manufacturero en proporción al empleo total"
 9-2-2-definition:
 9-3-1-title: "Proporción del valor añadido total del sector industrial correspondiente a las pequeñas industrias"
-9-3-1-graph-title: 
+9-3-1-graph-title: "Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas"
 9-3-1-definition:
 9-3-2-title: "Proporción de las pequeñas industrias que han obtenido un préstamo o una línea de crédito"
 9-3-2-graph-title: 
