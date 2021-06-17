@@ -5,3 +5,5 @@ __pycache__
 data/indice.csv
 node_modules
 *.pyc
+.idea
+venv
