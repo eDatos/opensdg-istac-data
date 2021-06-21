@@ -1,34 +1,59 @@
-Year,Units,general.territorio,Serie,Sexo,Value
-2010,Porcentaje,ES70,Serie B,Hombres,29.15
-2011,Porcentaje,ES70,Serie B,Hombres,29.40
+Year,Units,Territorio,Serie,Sexo o personas con discapacidad,Value
+2016,Porcentaje,ES,Serie A,Ambos sexos,19.63
+2019,Porcentaje,ES70,Serie A,Ambos sexos,20.49
+2015,Porcentaje,ES,Serie A,Ambos sexos,22.06
+2017,Porcentaje,ES,Serie A,Ambos sexos,17.22
+2016,Porcentaje,ES70,Serie A,Ambos sexos,26.06
+2018,Porcentaje,ES70,Serie A,Ambos sexos,20.08
+2014,Porcentaje,ES,Serie A,Ambos sexos,24.44
+2018,Porcentaje,ES,Serie A,Ambos sexos,15.25
+2015,Porcentaje,ES70,Serie A,Ambos sexos,29.10
+2013,Porcentaje,ES,Serie A,Ambos sexos,26.09
+2019,Porcentaje,ES,Serie A,Ambos sexos,14.10
+2017,Porcentaje,ES70,Serie A,Ambos sexos,23.47
+2010,Porcentaje,ES,Serie A,Ambos sexos,19.86
+2011,Porcentaje,ES,Serie A,Ambos sexos,21.39
+2012,Porcentaje,ES70,Serie A,Ambos sexos,32.57
+2013,Porcentaje,ES70,Serie A,Ambos sexos,33.73
+2011,Porcentaje,ES70,Serie A,Ambos sexos,29.28
+2020,Porcentaje,ES,Serie A,Ambos sexos,15.53
+2020,Porcentaje,ES70,Serie A,Ambos sexos,22.62
+2010,Porcentaje,ES70,Serie A,Ambos sexos,28.60
+2012,Porcentaje,ES,Serie A,Ambos sexos,24.79
+2014,Porcentaje,ES70,Serie A,Ambos sexos,32.42
+2018,Euros,ES70,Serie E,Personas entre 16 y 64 años con discapacidad,26.32
+2014,Euros,ES70,Serie E,Personas entre 16 y 64 años con discapacidad,37.27
+2014,Euros,ES,Serie E,Personas entre 16 y 64 años con discapacidad,32.70
+2015,Euros,ES,Serie E,Personas entre 16 y 64 años con discapacidad,31.00
+2016,Euros,ES,Serie E,Personas entre 16 y 64 años con discapacidad,28.60
+2017,Euros,ES,Serie E,Personas entre 16 y 64 años con discapacidad,26.20
+2018,Euros,ES,Serie E,Personas entre 16 y 64 años con discapacidad,25.20
+2015,Euros,ES70,Serie E,Personas entre 16 y 64 años con discapacidad,37.85
+2016,Euros,ES70,Serie E,Personas entre 16 y 64 años con discapacidad,44.82
+2017,Euros,ES70,Serie E,Personas entre 16 y 64 años con discapacidad,35.29
 2012,Porcentaje,ES70,Serie B,Hombres,31.94
 2013,Porcentaje,ES70,Serie B,Hombres,34.35
 2014,Porcentaje,ES70,Serie B,Hombres,31.81
+2011,Porcentaje,ES,Serie B,Hombres,21.04
+2012,Porcentaje,ES,Serie B,Hombres,24.58
+2013,Porcentaje,ES,Serie B,Hombres,25.60
+2014,Porcentaje,ES,Serie B,Hombres,23.60
+2015,Porcentaje,ES,Serie B,Hombres,20.77
+2016,Porcentaje,ES,Serie B,Hombres,18.12
+2017,Porcentaje,ES,Serie B,Hombres,15.66
+2010,Porcentaje,ES,Serie B,Hombres,19.57
+2018,Porcentaje,ES,Serie B,Hombres,13.72
+2019,Porcentaje,ES,Serie B,Hombres,12.45
 2015,Porcentaje,ES70,Serie B,Hombres,27.88
 2016,Porcentaje,ES70,Serie B,Hombres,24.38
 2017,Porcentaje,ES70,Serie B,Hombres,21.23
 2018,Porcentaje,ES70,Serie B,Hombres,18.90
-2010,Porcentaje,ES70,Serie C,Mujeres,27.91
-2011,Porcentaje,ES70,Serie C,Mujeres,29.13
-2012,Porcentaje,ES70,Serie C,Mujeres,33.32
-2013,Porcentaje,ES70,Serie C,Mujeres,33.01
-2014,Porcentaje,ES70,Serie C,Mujeres,33.12
-2015,Porcentaje,ES70,Serie C,Mujeres,30.56
-2016,Porcentaje,ES70,Serie C,Mujeres,28.00
-2017,Porcentaje,ES70,Serie C,Mujeres,25.97
-2018,Porcentaje,ES70,Serie C,Mujeres,21.42
-2010,Porcentaje,ES,Serie B,Hombres,19.57
-2011,Porcentaje,ES,Serie B,Hombres,21.04
-2012,Porcentaje,ES,Serie B,Hombres,24.58
-2013,Porcentaje,ES,Serie B,Hombres,25.6
-2014,Porcentaje,ES,Serie B,Hombres,23.6
-2015,Porcentaje,ES,Serie B,Hombres,20.77
-2016,Porcentaje,ES,Serie B,Hombres,18.12
-2017,Porcentaje,ES,Serie B,Hombres,15.66
-2018,Porcentaje,ES,Serie B,Hombres,13.72
-2019,Porcentaje,ES,Serie B,Hombres,12.45
+2019,Porcentaje,ES70,Serie B,Hombres,19.30
+2020,Porcentaje,ES,Serie B,Hombres,13.87
+2020,Porcentaje,ES70,Serie B,Hombres,21.45
+2010,Porcentaje,ES70,Serie B,Hombres,29.15
+2011,Porcentaje,ES70,Serie B,Hombres,29.40
 2010,Porcentaje,ES,Serie C,Mujeres,20.22
-2011,Porcentaje,ES,Serie C,Mujeres,21.81
 2012,Porcentaje,ES,Serie C,Mujeres,25.03
 2013,Porcentaje,ES,Serie C,Mujeres,26.67
 2014,Porcentaje,ES,Serie C,Mujeres,25.43
@@ -37,31 +62,38 @@ Year,Units,general.territorio,Serie,Sexo,Value
 2017,Porcentaje,ES,Serie C,Mujeres,19.03
 2018,Porcentaje,ES,Serie C,Mujeres,17.02
 2019,Porcentaje,ES,Serie C,Mujeres,15.99
-2010,Porcentaje,ES70,Serie A,Ambos sexos,28.6
-2011,Porcentaje,ES70,Serie A,Ambos sexos,29.28
-2012,Porcentaje,ES70,Serie A,Ambos sexos,32.57
-2013,Porcentaje,ES70,Serie A,Ambos sexos,33.73
-2014,Porcentaje,ES70,Serie A,Ambos sexos,32.42
-2015,Porcentaje,ES70,Serie A,Ambos sexos,29.1
-2016,Porcentaje,ES70,Serie A,Ambos sexos,26.06
-2017,Porcentaje,ES70,Serie A,Ambos sexos,23.47
-2018,Porcentaje,ES70,Serie A,Ambos sexos,20.08
-2019,Porcentaje,ES70,Serie A,Ambos sexos,20.49
-2010,Porcentaje,ES,Serie A,Ambos sexos,19.86
-2011,Porcentaje,ES,Serie A,Ambos sexos,21.39
-2012,Porcentaje,ES,Serie A,Ambos sexos,24.79
-2013,Porcentaje,ES,Serie A,Ambos sexos,26.09
-2014,Porcentaje,ES,Serie A,Ambos sexos,24.44
-2015,Porcentaje,ES,Serie A,Ambos sexos,22.06
-2016,Porcentaje,ES,Serie A,Ambos sexos,19.63
-2017,Porcentaje,ES,Serie A,Ambos sexos,17.22
-2018,Porcentaje,ES,Serie A,Ambos sexos,15.25
-2019,Porcentaje,ES,Serie A,Ambos sexos,14.1
-2019,Porcentaje,ES70,Serie B,Hombres,19.3
+2010,Porcentaje,ES70,Serie C,Mujeres,27.91
+2011,Porcentaje,ES,Serie C,Mujeres,21.81
+2011,Porcentaje,ES70,Serie C,Mujeres,29.13
+2012,Porcentaje,ES70,Serie C,Mujeres,33.32
+2013,Porcentaje,ES70,Serie C,Mujeres,33.01
+2014,Porcentaje,ES70,Serie C,Mujeres,33.12
+2015,Porcentaje,ES70,Serie C,Mujeres,30.56
+2016,Porcentaje,ES70,Serie C,Mujeres,28.00
+2017,Porcentaje,ES70,Serie C,Mujeres,25.97
+2018,Porcentaje,ES70,Serie C,Mujeres,21.42
 2019,Porcentaje,ES70,Serie C,Mujeres,21.85
-2020,Porcentaje,ES70,Serie A,Ambos sexos,22.62
-2020,Porcentaje,ES,Serie A,Ambos sexos,15.53
-2020,Porcentaje,ES,Serie B,Hombres,13.87
-2020,Porcentaje,ES70,Serie B,Hombres,21.45
 2020,Porcentaje,ES,Serie C,Mujeres,17.43
 2020,Porcentaje,ES70,Serie C,Mujeres,23.94
+2015,Porcentaje,ES70,Serie F,Personas entre 16 y 64 años sin discapacidad,29.11
+2014,Porcentaje,ES,Serie F,Personas entre 16 y 64 años sin discapacidad,24.30
+2015,Porcentaje,ES,Serie F,Personas entre 16 y 64 años sin discapacidad,21.90
+2016,Porcentaje,ES,Serie F,Personas entre 16 y 64 años sin discapacidad,19.50
+2017,Porcentaje,ES,Serie F,Personas entre 16 y 64 años sin discapacidad,17.10
+2018,Porcentaje,ES,Serie F,Personas entre 16 y 64 años sin discapacidad,15.10
+2019,Porcentaje,ES,Serie F,Personas entre 16 y 64 años sin discapacidad,14.20
+2014,Porcentaje,ES70,Serie F,Personas entre 16 y 64 años sin discapacidad,32.44
+2016,Porcentaje,ES70,Serie F,Personas entre 16 y 64 años sin discapacidad,25.81
+2017,Porcentaje,ES70,Serie F,Personas entre 16 y 64 años sin discapacidad,23.38
+2018,Porcentaje,ES70,Serie F,Personas entre 16 y 64 años sin discapacidad,20.12
+2016,Porcentaje,ES70,Serie D,Personas entre 16 y 64 años,26.22
+2014,Porcentaje,ES,Serie D,Personas entre 16 y 64 años,24.60
+2015,Porcentaje,ES,Serie D,Personas entre 16 y 64 años,22.20
+2016,Porcentaje,ES,Serie D,Personas entre 16 y 64 años,19.70
+2017,Porcentaje,ES,Serie D,Personas entre 16 y 64 años,17.30
+2018,Porcentaje,ES,Serie D,Personas entre 16 y 64 años,15.40
+2019,Porcentaje,ES,Serie D,Personas entre 16 y 64 años,14.20
+2014,Porcentaje,ES70,Serie D,Personas entre 16 y 64 años,32.54
+2015,Porcentaje,ES70,Serie D,Personas entre 16 y 64 años,29.30
+2017,Porcentaje,ES70,Serie D,Personas entre 16 y 64 años,23.62
+2018,Porcentaje,ES70,Serie D,Personas entre 16 y 64 años,20.24
