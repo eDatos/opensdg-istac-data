@@ -15,9 +15,9 @@ definicion: subindicator.3-8-2-SERIE-A-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PPGGS_{\gt 10%}^{t} = \frac{PGGS_{\gt 10%}^{t}}{P^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PPGGS_{\gt 10\%}^{t} = \frac{PGGS_{\gt 10\%}^{t}}{P^{t}} \cdot 100$$ <br>
 donde: <br>
-$PPGGS_{\gt 10%}^{t} =$ población que vive en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar, en el año $t$ <br>
+$PPGGS_{\gt 10\%}^{t} =$ población que vive en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar, en el año $t$ <br>
 $P^{t} =$ población total en el año $t$ <br>'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta de presupuestos familiares, Instituto Nacional de Estadística (INE)"
