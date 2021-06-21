@@ -15,9 +15,9 @@ definicion: subindicator.1-4-1-SERIE-A-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PVP_{agua corriente}^{t} = \frac{VP_{agua corriente}^{t}}{VP^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PVP_{agua\, corriente}^{t} = \frac{VP_{agua\, corriente}^{t}}{VP^{t}} \cdot 100$$ <br>
 donde: <br>
-$VP_{agua corriente}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$ <br>
+$VP_{agua\, corriente}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$ <br>
 $VP^{t} =$ viviendas principales en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Censos de población y viviendas, Instituto Nacional de Estadística (INE)"

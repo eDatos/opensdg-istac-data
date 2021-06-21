@@ -15,9 +15,9 @@ definicion: subindicator.1-4-1-SERIE-C-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PVP_{baño o ducha}^{t} = \frac{VP_{baño o ducha}^{t}}{VP^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PVP_{baño\, o\, ducha}^{t} = \frac{VP_{baño\, o\, ducha}^{t}}{VP^{t}} \cdot 100$$ <br>
 donde: <br>
-$VP_{baño o ducha}^{t} =$ viviendas principales que disponen baño o ducha en el año $t$ <br>
+$VP_{baño\, o\, ducha}^{t} =$ viviendas principales que disponen baño o ducha en el año $t$ <br>
 $VP^{t} =$ viviendas principales en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Censos de población y viviendas, Instituto Nacional de Estadística (INE)"

@@ -14,7 +14,7 @@ meta_global: global_targets.17-19-title
 objetivo_global: global_goals.17-title
 definicion: subindicator.17-19-2a-SERIE-A-definicion
 
-formula_teorica: '$$CPV^{t} = \begin{cases} SÍ, & \text{Se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \\ NO, & \text{No se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \end{case} $$'
+formula_teorica: '$$CPV^{t} = \begin{cases} SÍ, & \text{Se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \\ NO, & \text{No se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \end{cases} $$'
 unidad_medida: "Lógica"
 fuentes_informacion: "Censos de población y viviendas, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"

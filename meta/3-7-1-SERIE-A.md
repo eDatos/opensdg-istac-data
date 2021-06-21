@@ -15,9 +15,9 @@ definicion: subindicator.3-7-1-SERIE-A-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PM_{18-49,anticonceptivos modernos}^{t} = \frac{M_{18-49,anticonceptivos modernos}^{t}}{M_{18-49,anticonceptivos}^{t}+M_{18-49,insatisfecha}^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PM_{18-49,anticonceptivos\, modernos}^{t} = \frac{M_{18-49,anticonceptivos\, modernos}^{t}}{M_{18-49,anticonceptivos}^{t}+M_{18-49,insatisfecha}^{t}} \cdot 100$$ <br>
 donde: <br>
-$M_{18-49,anticonceptivos modernos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos anticonceptivos modernos en el año $t$ <br>
+$M_{18-49,anticonceptivos\, modernos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos anticonceptivos modernos en el año $t$ <br>
 $M_{18-49,anticonceptivos}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que utilizan métodos anticonceptivos en el año $t$ <br>
 $M_{18-49,insatisfecha}^{t} =$ mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que tienen una necesidad insatisfecha de planificación familiar en el año $t$ <br>'
 unidad_medida: "Porcentaje"

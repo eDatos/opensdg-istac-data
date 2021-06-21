@@ -7,6 +7,9 @@ Indicador,Nombre
 1-2-2-SERIE-B,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza"
 1-2-2-SERIE-C,Proporción de personas viviendo en hogares con carencia material severa
 1-2-2-SERIE-D,Proporción de personas viviendo en hogares con baja intensidad de trabajo
+1-4-1-SERIE-A,Proporción de viviendas principales con acceso a agua corriente
+1-4-1-SERIE-B,Proporción de viviendas principales que disponen de cuarto de aseo con inodoro
+1-4-1-SERIE-C,Proporción de viviendas principales que disponen de baño o ducha
 1-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
 2-2-2-SERIE-A,"Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente"
 2-4-1-SERIE-A,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible
@@ -20,9 +23,11 @@ Indicador,Nombre
 3-4-1-SERIE-D,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas
 3-4-2-SERIE-A,Tasa de mortalidad por suicidio
 3-6-1-SERIE-A,Tasa de mortalidad por lesiones debidas a accidentes de tráfico
+3-7-1-SERIE-A,"Proporción de mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que cubren sus necesidades de planificación familiar con métodos modernos"
 3-7-2-SERIE-A,Tasa de fecundidad de las adolescentes entre 10 y 14 años por cada 1.000 mujeres de ese grupo de edad
 3-7-2-SERIE-B,Tasa de fecundidad de las adolescentes entre 15 y 19 años por cada 1.000 mujeres de ese grupo de edad
 3-8-1-SERIE-A,Proporción de personas de 16 y más años con necesidad insatisfecha de atención médica
+3-8-2-SERIE-A,"Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar"
 3-9-3-SERIE-A,Tasa de mortalidad atribuida a intoxicaciones involuntarias
 3-a-1-SERIE-A,Proporción de personas de 15 y más años que fuman a diario
 3-c-1-SERIE-A,Número de personas colegiadas en medicina por cada 10.000 habitantes
@@ -41,6 +46,7 @@ Indicador,Nombre
 4-5-1-SERIE-C,Índice de paridad entre personas con y sin limitaciones por problemas de salud de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses
 4-5-1-SERIE-D,Índice de paridad entre mujeres y hombres de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas 
 4-5-1-SERIE-E,Índice de paridad entre personas residentes en municipios de 10.000 o menos habitantes y residentes en municipios de más de 10.000 habitantes de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas
+5-3-1-SERIE-A,Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre
 5-4-1-SERIE-A,Tiempo dedicado al hogar y familia en un día promedio
 5-4-1-SERIE-B,Tiempo dedicado por los hombres al hogar y familia en un día promedio
 5-4-1-SERIE-C,Tiempo dedicado por las mujeres al hogar y familia en un día promedio
@@ -61,15 +67,23 @@ Indicador,Nombre
 8-5-1-SERIE-A,Ingreso medio por hora de trabajo
 8-5-1-SERIE-B,Ingreso medio por hora de trabajo de los hombres
 8-5-1-SERIE-C,Ingreso medio por hora de trabajo de las mujeres
+8-5-1-SERIE-D,Ingreso medio por hora de trabajo de las personas con discapacidad
+8-5-1-SERIE-E,Ingreso medio por hora de trabajo de las personas sin discapacidad
 8-5-2-SERIE-A,Tasa de desempleo
 8-5-2-SERIE-B,Tasa de desempleo de hombres
 8-5-2-SERIE-C,Tasa de desempleo de mujeres
+8-5-2-SERIE-D,Tasa de desempleo de las personas entre 16 y 64
+8-5-2-SERIE-E,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad
+8-5-2-SERIE-F,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad
 8-6-1-SERIE-A,"Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación"
+8-9-1-SERIE-A,Pernoctaciones en alojamientos turísticos por habitante
+8-9-1-SERIE-B,Proporción de pernoctaciones en alojamientos turísticos en los dos meses de máxima ocupación sobre el total de pernoctaciones
 9-2-1-SERIE-B,Valor añadido del sector manufacturero per cápita
 9-2-1-SERIE-A,Valor añadido del sector manufacturero en proporción al PIB
 9-2-2-SERIE-A,Proporción de personas ocupadas en el sector manufacturero
 9-2-2-SERIE-B,Empleo del sector manufacturero en proporción al empleo total (personas empleadas)
 9-2-2-SERIE-C,Empleo del sector manufacturero en proporción al empleo total (horas trabajadas)
+9-3-1-SERIE-A,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas
 9-4-1-SERIE-A,Emisiones de CO2 de las unidades residentes por unidad de PIB
 9-4-1-SERIE-B,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero
 9-5-1-SERIE-A,Gastos en investigación y desarrollo en proporción al PIB
@@ -82,6 +96,7 @@ Indicador,Nombre
 10-2-1-SERIE-B,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica"
 10-4-1-SERIE-A,Proporción del PIB generada por el trabajo asalariado
 11-1-1-SERIE-A,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda
+11-1-1-SERIE-B,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior
 11-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
 11-6-1-SERIE-A,Residuos urbanos recogidos per cápita
 11-6-1-SERIE-B,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados
@@ -94,3 +109,4 @@ Indicador,Nombre
 16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
 17-1-1-SERIE-A,Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB 
 17-8-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses
+17-19-2a-SERIE-A,Se ha realizado al menos un censo de población y vivienda en los últimos diez años
