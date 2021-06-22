@@ -14,10 +14,10 @@ meta_global: global_targets.8-5-title
 objetivo_global: global_goals.8-title
 definicion: subindicator.8-5-1-SERIE-E-definicion
 
-formula_teorica: '$$GH_{personas sin discapacidad}^{t} = \frac{G_{personas sin discapacidad}^{t}}{H_{personas sin discapacidad}^{t}} $$ <br>
+formula_teorica: '$$GH_{personas\, sin\, discapacidad}^{t} = \frac{G_{personas\, sin\, discapacidad}^{t}}{H_{personas\, sin\, discapacidad}^{t}} $$ <br>
 donde: <br>
-$G_{personas sin discapacidad}^{t} =$ ganancia bruta del personal asalariado sin discapacidad en el año $t$ <br>
-$H_{personas sin discapacidad}^{t} =$ horas normales del personal asalariado sin discapacidad en el año $t$'
+$G_{personas\, sin\, discapacidad}^{t} =$ ganancia bruta del personal asalariado sin discapacidad en el año $t$ <br>
+$H_{personas\, sin\, discapacidad}^{t} =$ horas normales del personal asalariado sin discapacidad en el año $t$'
 unidad_medida: "Euros"
 fuentes_informacion: "Estadística del salario de las personas con discapacidad, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
