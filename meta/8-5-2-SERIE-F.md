@@ -14,10 +14,10 @@ meta_global: global_targets.8-5-title
 objetivo_global: global_goals.8-title
 definicion: subindicator.8-5-2-SERIE-F-definicion
 
-formula_teorica: '$$TD_{16-64,personas sin discapacidad}^{t} = \frac{D_{16-64,personas sin discapacidad}^{t}}{A_{16-64,personas sin discapacidad}^{t}} \cdot 100$$ <br>
+formula_teorica: '$$TD_{16-64,personas\, sin\, discapacidad}^{t} = \frac{D_{16-64,personas\, sin\, discapacidad}^{t}}{A_{16-64,personas\, sin\, discapacidad}^{t}} \cdot 100$$ <br>
 donde: <br>
-$D_{16-64,personas sin discapacidad}^{t} =$ personas desempleadas sin discapacidad en el año $t$ <br>
-$A_{16-64,personas sin discapacidad}^{t} =$ personas económicamente activas sin discapacidad en el año $t$ <br>'
+$D_{16-64,personas\, sin\, discapacidad}^{t} =$ personas desempleadas sin discapacidad en el año $t$ <br>
+$A_{16-64,personas\, sin\, discapacidad}^{t} =$ personas económicamente activas sin discapacidad en el año $t$ <br>'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Estadística del empleo de las personas con discapacidad, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
