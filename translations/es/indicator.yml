@@ -32,6 +32,7 @@ legend_help: Haga clic en la leyenda para eliminar líneas individuales del grá
 loading: Cargando
 loading_map: Cargando mapa
 map: Mapa
+metadata: Metadatos
 national_metadata: Metadatos nacionales
 national_metadata_blurb: Esta tabla proporciona metadatos para el indicador real disponible
   a partir de las estadísticas de %country_name más cercanas al correspondiente indicador
