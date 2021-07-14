@@ -14,7 +14,7 @@ meta_global: global_targets.3-a-title
 objetivo_global: global_goals.3-title
 definicion: subindicator.3-a-1-SERIE-A-definicion
 
-formula_teorica: '$$PPFD_{15+}^{t} = \frac{D_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PPFD_{15+}^{t} = \frac{PFD_{15+}^{t}}{P_{15+}^{t}} \cdot 100$$ <br>
 donde: <br>
 $PFD_{15+}^{t} =$ población de 15 y más años que fuma a diario en el año $t$ <br>
 $P_{15y+}^{t} =$ población de 15 y más años en el año $t$'

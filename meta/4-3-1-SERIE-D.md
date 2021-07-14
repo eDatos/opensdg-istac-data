@@ -17,7 +17,8 @@ definicion: subindicator.4-3-1-SERIE-D-definicion
 formula_teorica: '$$PPE_{25-64}^{t} = \frac{PE_{25-64}^{t}}{P_{25-64}^{t}} \cdot 100$$ <br>
 donde: <br>
 $PE_{25-64}^{t} =$ población entre 25 y 64 años que ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
-$P_{25-64}^{t} =$ población entre 25 y 64 años en el año $t$'
+$P_{25-64}^{t} =$ población entre 25 y 64 años en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta de población activa, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
