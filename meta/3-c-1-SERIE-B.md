@@ -17,7 +17,7 @@ definicion: subindicator.3-c-1-SERIE-B-definicion
 formula_teorica: '$$TPSC_{enfermería}^{t} = \frac{PSC_{enfermería}^{t}}{P^{t+1}} \cdot 10.000$$ <br>
 donde: <br>
 $PSC_{enfermería}^{t} =$ personal sanitario colegiado en enfermería a 31 de diciembre del año $t$ <br>
-$P^{t+1} =$ población a 1 de enero del año $t$'
+$P^{t+1} =$ población a 1 de enero del año $t+1$'
 unidad_medida: "Tanto por 10.000"
 fuentes_informacion: "Estadística de profesionales sanitarios colegiados, Instituto Nacional de Estadística (INE)<br>
 Cifras de población, Instituto Nacional de Estadística (INE)"

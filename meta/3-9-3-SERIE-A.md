@@ -19,7 +19,7 @@ donde: <br>
 $D_{\text{intoxicaciones involuntarias}}^{t} =$ defunciones atribuidas a intoxicaciones involuntarias (códigos X40, X43, X44 y X46-X49 de la CIE-10) en el año $t$ <br>
 $P^{t} =$ población a 1 de julio del año $t$'
 unidad_medida: "Tanto por 100.000"
-fuentes_informacion: "Estadística de defunciones según la causa de muerte, Instituto Nacional de Estadística<br>
+fuentes_informacion: "Estadística de defunciones según la causa de muerte, Instituto Nacional de Estadística (INE)<br>
 Cifras de población, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
 observaciones:

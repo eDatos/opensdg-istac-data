@@ -17,7 +17,7 @@ definicion: subindicator.3-1-2-SERIE-A-definicion
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 formula_teorica: '$$PPAR_{atendidos}^{t} = \frac{PAR_{atendidos}^{t}}{PAR^{t}} \cdot 100$$ <br>
 donde: <br>
-$PPAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$ <br>
+$PAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$ <br>
 $PAR^{t} =$ partos en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Estadística de nacimientos, Instituto Nacional de Estadística (INE)"
