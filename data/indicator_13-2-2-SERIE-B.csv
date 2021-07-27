@@ -1,21 +1,21 @@
 Year,Units,general.territorio,Value
-2010,Toneladas de CO2 equivalente per cápita,ES70,7.6
-2011,Toneladas de CO2 equivalente per cápita,ES70,7.01
-2012,Toneladas de CO2 equivalente per cápita,ES70,6.88
-2013,Toneladas de CO2 equivalente per cápita,ES70,6.38
-2014,Toneladas de CO2 equivalente per cápita,ES70,6.18
-2015,Toneladas de CO2 equivalente per cápita,ES70,6.13
-2016,Toneladas de CO2 equivalente per cápita,ES70,6.33
-2017,Toneladas de CO2 equivalente per cápita,ES70,6.44
-2018,Toneladas de CO2 equivalente per cápita,ES70,6.28
-2010,Toneladas de CO2 equivalente per cápita,ES,7.84
-2011,Toneladas de CO2 equivalente per cápita,ES,7.79
-2012,Toneladas de CO2 equivalente per cápita,ES,7.63
-2013,Toneladas de CO2 equivalente per cápita,ES,7.09
-2014,Toneladas de CO2 equivalente per cápita,ES,7.18
-2015,Toneladas de CO2 equivalente per cápita,ES,7.45
-2016,Toneladas de CO2 equivalente per cápita,ES,7.21
-2017,Toneladas de CO2 equivalente per cápita,ES,7.49
-2018,Toneladas de CO2 equivalente per cápita,ES,7.34
-2019,Toneladas de CO2 equivalente per cápita,ES70,6.03
-2019,Toneladas de CO2 equivalente per cápita,ES,6.86
+2019,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,6.86
+2019,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.03
+2018,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.34
+2017,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.49
+2016,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.21
+2015,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.45
+2014,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.18
+2013,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.09
+2012,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.63
+2011,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.79
+2010,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES,7.84
+2018,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.28
+2017,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.44
+2016,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.33
+2015,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.13
+2014,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.18
+2013,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.38
+2012,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,6.88
+2011,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,7.01
+2010,UNIDAD_MEDIDA.T_CO2_PER_CAPITA,ES70,7.60
