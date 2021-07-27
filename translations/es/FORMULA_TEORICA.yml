@@ -1,0 +1,437 @@
+1-2-1-SERIE-A-formula-teorica: "$$PPRPR_{NAC}^{t} = \\frac{PRPR_{NAC}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PRPR_{NAC}^{t} =$ población en riesgo de pobreza relativa considerando el umbral nacional de pobreza (60% de la mediana nacional de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-1-SERIE-B-formula-teorica: "$$PPRPR_{CCAA}^{t} = \\frac{PRPR_{CCAA}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PRPR_{CCAA}^{t} =$ población en riesgo de pobreza relativa considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$ <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-1-SERIE-C-formula-teorica: "$$PPRPRAI_{NAC}^{t} = \\frac{PRPRAI_{NAC}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PRPRAI_{NAC}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral nacional de pobreza (60% de la mediana nacional de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada)) en el año $t$ <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-1-SERIE-D-formula-teorica: "$$PPRPRAI_{CCAA}^{t} = \\frac{PRPRAI_{CCAA}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PRPRAI_{CCAA}^{t} =$ población en riesgo de pobreza relativa con alquiler imputado considerando el umbral autonómico de pobreza (60% de la mediana autonómica de los ingresos con alquiler imputado por unidad de consumo (escala OCDE modificada)) en el año $t$ <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-2-SERIE-A-formula-teorica: "$$AROPE_{NAC}^{t} = \\frac{PRPES_{NAC}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PRPES_{NAC}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$, considerando el umbral nacional de pobreza <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-2-SERIE-B-formula-teorica: "$$AROPE_{CCAA}^{t} = \\frac{PRPES_{CCAA}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PRPES_{CCAA}^{t} =$ población en riesgo de pobreza o exclusión social el año $t$, considerando el umbral autonómico de pobreza <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-2-SERIE-C-formula-teorica: "$$PPCMS^{t} = \\frac{PCMS^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PCMS^{t} =$ población perteneciente a hogares con carencia material severa en el año $t$ <br>
+$P^{t} =$ población total en el año  $t$"
+1-2-2-SERIE-D-formula-teorica: "$$PPBIT^{t} = \\frac{PBIT_{0-59}^{t}}{P_{0-59}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PBIT_{0-59}^{t} =$ población entre 0 y 59 años perteneciente a hogares sin empleo o con baja intensidad en el empleo en el año $t$ <br>
+$P_{0-59}^{t} =$ población entre 0 y 59 años en el año  $t$"
+1-4-1-SERIE-A-formula-teorica: "$$PVP_{\\text{agua corriente}}^{t} = \\frac{VP_{\\text{agua corriente}}^{t}}{VP^{t}} \\cdot 100$$ <br>
+donde: <br>
+$VP_{\\text{agua corriente}}^{t} =$ viviendas principales con abastecimiento de agua corriente en el año $t$ <br>
+$VP^{t} =$ viviendas principales en el año $t$"
+1-4-1-SERIE-B-formula-teorica: "$$PVP_{aseo}^{t} = \\frac{VP_{aseo}^{t}}{VP^{t}} \\cdot 100$$ <br>
+donde: <br>
+$VP_{aseo}^{t} =$ viviendas principales que disponen de cuarto de aseo con inodoro en el año $t$ <br>
+$VP^{t} =$ viviendas principales en el año $t$"
+1-4-1-SERIE-C-formula-teorica: "$$PVP_{\\text{baño o ducha}}^{t} = \\frac{VP_{\\text{baño o ducha}}^{t}}{VP^{t}} \\cdot 100$$ <br>
+donde: <br>
+$VP_{\\text{baño o ducha}}^{t} =$ viviendas principales que disponen baño o ducha en el año $t$ <br>
+$VP^{t} =$ viviendas principales en el año $t$"
+1-5-1-SERIE-A-formula-teorica: "$$TM_{desastres}^{t} = \\frac{D_{desastres}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{desastres}^{t} =$ defunciones atribuidas a desastres naturales (códigos X30-X39 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año  $t$"
+10-1-1-SERIE-A-formula-teorica: "$$TCGMP_{pobre}^{t} = \\sqrt[5]{\\frac{GMP_{pobre}^{t}-GMP_{pobre}^{t-5}}{GMP_{pobre}^{t-5}}} \\cdot 100 $$ <br>
+donde: <br>
+$GMP_{pobre}^{t} =$ gasto medio por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores gastos por unidad de consumo (escala OCDE modificada)) en el año $t$"
+10-1-1-SERIE-B-formula-teorica: "$$TCGMP^{t} = \\sqrt[5]{\\frac{GMP^{t}-GMP^{t-5}}{GMP^{t-5}}} \\cdot 100 $$<br>
+donde: <br>
+$GMP^{t} =$ gasto medio por persona en el año $t$"
+10-1-1-SERIE-C-formula-teorica: "$$TCIMP_{pobre}^{t} = \\sqrt[5]{\\frac{IMP_{pobre}^{t}-IMP_{pobre}^{t-5}}{IMP_{pobre}^{t-5}}} \\cdot 100 $$ <br>
+donde: <br>
+$IMP_{pobre}^{t} =$ el ingreso medio por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$"
+10-1-1-SERIE-D-formula-teorica: "$$TCIMP^{t} = \\sqrt[5]{\\frac{IMP^{t}-IMP^{t-5}}{IMP^{t-5}}} \\cdot 100 $$<br>
+donde: <br>
+$IMP^{t} =$ ingreso medio por persona en el año $t$"
+10-2-1-SERIE-A-formula-teorica: "$$PP50ME_{NAC}^{t} = \\frac{P50ME_{NAC}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$P50ME_{NAC}^{t} =$ población que vive con unos ingresos por unidad de consumo por debajo del 50% de la mediana nacional de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$ <br>
+$P^{t} =$ población total en el año $t$"
+10-2-1-SERIE-B-formula-teorica: "$$PP50ME_{CCAA}^{t} = \\frac{P50ME_{CCAA}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$P50ME_{CCAA}^{t} =$ población que vive con unos ingresos por unidad de consumo por debajo del 50% de la mediana autonómica de los ingresos por unidad de consumo (escala OCDE modificada) en el año $t$ <br>
+$P^{t} =$ población total en el año $t$"
+10-4-1-SERIE-A-formula-teorica: "$$PPIBRA^{t} = \\frac{RA^{t}}{PIB^{t}} \\cdot 100$$ <br>
+donde: <br>
+$RA^{t} =$ remuneración de personas asalariadas en el año $t$ <br>
+$PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$"
+11-1-1-SERIE-A-formula-teorica: "$$PPDV^{t} = \\frac{PDV^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PDV^{t} =$ población que experimenta al menos uno de los déficits básicos en la condiciones de su vivienda en el año $t$ <br>
+$P^{t} =$ población total en el año $t$"
+11-1-1-SERIE-B-formula-teorica: "$$PPR^{t} = \\frac{PR^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PR^{t} =$ población que en su vivienda sufre problemas de ruidos procedentes del vecindario o del exterior (tráfico, negocios, fábricas, etc.) en el año $t$ <br>
+$P^{t} =$ población total en el año $t$"
+11-5-1-SERIE-A-formula-teorica: "$$TM_{desastres}^{t} = \\frac{D_{desastres}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{desastres}^{t} =$ defunciones atribuidas a desastres naturales (códigos X30-X39 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+11-6-1-SERIE-A-formula-teorica: "$$RURP^{t} = \\frac{RUR^{t}}{P^{t}} $$ <br>
+donde: <br>
+$RUR^{t} =$ cantidad de residuos urbanos recogidos en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+11-6-1-SERIE-B-formula-teorica: "$$PRM_{incinerados}^{t} = \\frac{RM_{incinerados}^{t}}{RM^{t}} \\cdot 100$$ <br>
+donde: <br>
+$RM_{incinerados}^{t} =$ cantidad de residuos municipales incinerados en el año $t$ <br>
+$RM^{t} =$ cantidad total de residuos municipales generados y tratados en el año $t$"
+11-6-1-SERIE-C-formula-teorica: "$$PRM_{vertidos}^{t} = \\frac{RM_{vertidos}^{t}}{RM^{t}} \\cdot 100$$ <br>
+donde: <br>
+$RM_{vertidos}^{t} =$ cantidad de residuos municipales vertidos en el año $t$ <br>
+$RM^{t} =$ cantidad total de residuos municipales generados y tratados en el año $t$"
+11-6-1-SERIE-D-formula-teorica: "$$PRM_{reciclados}^{t} = \\frac{RM_{reciclados}^{t}}{RM^{t}} \\cdot 100$$ <br>
+donde: <br>
+$RM_{reciclados}^{t} =$ cantidad de residuos municipales reciclados en el año $t$ <br>
+$RM^{t} =$ cantidad total de residuos municipales generados y tratados en el año $t$"
+12-5-1-SERIE-A-formula-teorica: "$$RURP^{t} = \\frac{\\frac{RUR^{t}}{P^{t}}}{365} $$ <br>
+donde: <br>
+$RUR^{t} =$ cantidad de residuos urbanos recogidos en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+13-1-1-SERIE-A-formula-teorica: "$$TM_{desastres}^{t} = \\frac{D_{desastres}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{desastres}^{t} =$ defunciones atribuidas a desastres naturales (códigos X30-X39 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+13-2-2-SERIE-A-formula-teorica: "$$PPIBEGEI^{t} = \\frac{EGEI^{t}}{PIB_{2015}^{t}}$$ <br>
+donde: <br>
+$EGEI^{t} =$ emisiones totales de gases de efecto invernadero de las unidades económicas residentes en el año $t$ (se distribuye el total nacional de emisiones totales de gases de efecto invernadero de la Cuenta de emisiones a la atmósfera en función de las emisiones totales de gases de efecto invernadero por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
+$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$"
+13-2-2-SERIE-B-formula-teorica: "$$PPEGEI^{t} = \\frac{EGEI^{t}}{P^{t}}$$ <br>
+donde: <br>
+$EGEI^{t} =$ emisiones totales de gases de efecto invernadero de las unidades económicas residentes en el año $t$ (se distribuye el total nacional de emisiones totales de gases de efecto invernadero de la Cuenta de emisiones a la atmósfera en función de las emisiones totales de gases de efecto invernadero por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
+$P^{t} =$ población a 1 de julio en el año $t$"
+16-1-4-SERIE-A-formula-teorica: "$$PPSSC_{16+}^{t} = \\frac{PSSC_{16+}^{t}}{P_{16+}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PSSC_{16+}^{t} =$ población de 16 y más años que se siente segura (muy o bastante segura) al caminar sola en su zona de residencia en el año $t$ <br>
+$P^{t} =$ población de 16 y más años en el año $t$"
+17-1-1-SERIE-A-formula-teorica: "$$PPIBIAP^{t} = \\frac{I_{CCAA}^{t}+I_{EELL}^{T}-TC_{\\text{CCAA a EELL}}^{t}-TC_{\\text{EELL a CCAA}}^{t}-TK_{\\text{CCAA a EELL}}^{t}-TK_{\\text{EELL a CCAA}}^{t}}{PIB^{t}} \\cdot 100$$ <br>
+donde: <br>
+$I_{CCAA}^{t} =$ ingresos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de la comunidad autónoma en el año $t$ <br>
+$I_{EELL}^{T} =$ ingresos (derechos reconocidos netos) en la liquidación de presupuestos consolidados de las entidades locales de la comunidad autónoma en el año $t$ <br>
+$TC_{\\text{CCAA a EELL}}{t} =$ gastos en transferencias corrientes a las entidades locales (obligaciones reconocidas netas) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ <br>
+$TC_{\\text{EELL a CCAA}}^{t} =$ ingresos en transferencias corrientes de las entidades locales (derechos reconocidos netos) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ <br>
+$TK_{\\text{CCAA a EELL}}^{t} =$ gastos en transferencias de capital a las entidades locales (obligaciones reconocidas netas) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ <br>
+$K_{\\text{EELL a CCAA}}^{t} =$ ingresos en transferencias de capital de las entidades locales (derechos reconocidos netos) en la liquidación de los presupuestos consolidados de la comunidad autónoma en el año $t$ <br>
+$PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$"
+17-8-1-SERIE-A-formula-teorica: "$$PPINT_{16-74}^{t} = \\frac{PINT_{16-74}^{t}}{P_{16-74}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PINT_{16-74}^{t} =$ población entre 16 y 74 años que en los últimos tres meses ha utilizado Internet en el año $t$ <br>
+$P^{t} =$ población entre 16 y 74 años en el año $t$"
+17-19-2a-SERIE-A-formula-teorica: "$$CPV^{t} = \\begin{cases} SÍ, & \\text{Se ha realizado al menos un censo de población y vivienda en [t, t − 9]}\\\\
+NO, & \\text{No se ha realizado al menos un censo de población y vivienda en [t, t − 9]} \\end{cases} $$"
+2-2-2-SERIE-A-formula-teorica: "$$PPM_{2-17}^{t} = \\frac{PM_{2-17}^{t}}{P_{2-17}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PPM_{2-17}^{t} =$ población entre 2 y 17 años con malnutrición en el año $t$ <br>
+$P_{2-17}^{t} =$ población entre 2 y 17 años en el año $t$"
+2-4-1-SERIE-A-formula-teorica: "$$PSA_{ecológica}^{t} = \\frac{SA_{ecológica}^{t}}{SA^{t}} \\cdot 100$$ <br>
+donde: <br>
+$SA_{ecológica}^t =$ superficie agrícola destinada a la producción ecológica en el año $t$ <br>
+$SA^{t} =$ superficie agrícola (cultivos, prados y pastizales) en el año $t$"
+3-1-1-SERIE-A-formula-teorica: "$$TM_{materna}^{t} = \\frac{D_{maternas}^{t}}{N^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{maternas}^{t} =$ defunciones de mujeres atribuidas a embarazo, parto y puerperio (códigos O00-O99 de la CIE-10) en el año $t$ <br>
+$N^{t} =$ nacimientos en el año $t$"
+3-1-2-SERIE-A-formula-teorica: "$$PPAR_{atendidos}^{t} = \\frac{PAR_{atendidos}^{t}}{PAR^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PAR_{atendidos}^{t} =$ partos atendidos por personal sanitario especializado en el año $t$ <br>
+$PAR^{t} =$ partos en el año $t$"
+3-2-1-SERIE-A-formula-teorica: "'$$TM_{0-4}^{t} = \\frac{D_{0-4}^{t}}{N^{t}} \\cdot 1.000$$ <br>
+donde: <br>
+$D_{0-4}^{t} =$ defunciones de menores de 5 años cumplidos de vida en el año $t$ <br>
+$N^{t} =$ nacimientos en el año $t$"
+3-2-2-SERIE-A-formula-teorica: "$$TM_{neonatal}^{t} = \\frac{D_{neonatales}^{t}}{N^{t}} \\cdot 1.000$$ <br>
+donde: <br>
+$D_{neonatales}^{t} =$ defunciones de menores de 28 días cumplidos de vida en el año $t$ <br>
+$N^{t} =$ nacimientos en el año $t$'
+"
+3-4-1-SERIE-A-formula-teorica: "$$TM_{cardiovasculares}^{t} = \\frac{D_{cardiovasculares}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{cardiovasculares}^{t} =$ defunciones atribuidas a enfermedades cardiovasculares (códigos I00-I99 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-4-1-SERIE-B-formula-teorica: "$$TM_{cáncer}^{t} = \\frac{D_{cáncer}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{cáncer}^{t} =$ defunciones atribuidas a cáncer (códigos C00-C97 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-4-1-SERIE-C-formula-teorica: "$$TM_{diabetes}^{t} = \\frac{D_{diabetes}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{diabetes}^{t} =$ defunciones atribuidas a diabetes (códigos E10-E14 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-4-1-SERIE-D-formula-teorica: "$$TM_{\\text{respiratorias crónicas}}^{t} = \\frac{D_{\\text{respiratorias crónicas}}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{\\text{respiratorias crónicas}}^{t} =$ defunciones atribuidas a enfermedades respiratorias crónicas (códigos J30-J98 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-4-2-SERIE-A-formula-teorica: "$$TM_{suicidio }^{t} = \\frac{D_{suicidio }^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{suicidio }^{t} =$ defunciones atribuidas a suicidio (códigos X60-X84 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-6-1-SERIE-A-formula-teorica: "$$TM_{\\text{accidentes tráfico}}^{t} = \\frac{D_{\\text{accidentes tráfico}}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{\\text{accidentes tráfico}}^{t} =$ defunciones atribuidas a accidentes de tráfico (lista extensa de códigos de la CIE-10, que se puede consultar en la metodología de la Estadística de defunciones según la causa de muerte) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-7-2-SERIE-A-formula-teorica: "$$TF_{10-14}^{t} = \\frac{N_{10-14}^{t}}{P_{mujeres,10-14}^{t}} \\cdot 1.000$$ <br>
+donde: <br>
+$N_{10-14}^{t} =$ nacimientos de madres entre 10 y 14 años en el año $t$ <br>
+$P_{mujeres,10-14}^{t} =$ mujeres entre 10 y 14 años a 1 de julio del año $t$"
+3-7-2-SERIE-B-formula-teorica: "$$TF_{15-19}^{t} = \\frac{N_{15-19}^{t}}{P_{mujeres,15-19}^{t}} \\cdot 1.000$$ <br>
+donde: <br>
+$N_{15-19}^{t} =$ nacimientos de madres entre 15 y 19 años en el año $t$ <br>
+$P_{mujeres,15-19}^{t} =$ mujeres entre 15 y 19 años a 1 de julio del año $t$"
+3-8-1-SERIE-A-formula-teorica: "$$PPNIAM_{16+}^{t} = \\frac{PNIAM_{16+}^{t}}{P_{16+}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PPNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$ <br>
+$P_{16+}^{t} =$ población de 16 y más años en el año $t$"
+3-9-3-SERIE-A-formula-teorica: "$$TM_{\\text{intoxicaciones involuntarias}}^{t} = \\frac{D_{\\text{intoxicaciones involuntarias}}^{t}}{P^{t}} \\cdot 100.000$$ <br>
+donde: <br>
+$D_{\\text{intoxicaciones involuntarias}}^{t} =$ defunciones atribuidas a intoxicaciones involuntarias (códigos X40, X43, X44 y X46-X49 de la CIE-10) en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$"
+3-a-1-SERIE-A-formula-teorica: "$$PPFD_{15+}^{t} = \\frac{PFD_{15+}^{t}}{P_{15+}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PFD_{15+}^{t} =$ población de 15 y más años que fuma a diario en el año $t$ <br>
+$P_{15y+}^{t} =$ población de 15 y más años en el año $t$"
+3-c-1-SERIE-A-formula-teorica: "$$TPSC_{medicina}^{t} = \\frac{PSC_{medicina}^{t}}{P^{t+1}} \\cdot 10.000$$ <br>
+donde: <br>
+$PSC_{medicina}^{t} =$ personal sanitario colegiado en medicina a 31 de diciembre del año $t$ <br>
+$P^{t+1} =$ población a 1 de enero del año $t+1$"
+3-c-1-SERIE-B-formula-teorica: "$$TPSC_{enfermería}^{t} = \\frac{PSC_{enfermería}^{t}}{P^{t+1}} \\cdot 10.000$$ <br>
+donde: <br>
+$PSC_{enfermería}^{t} =$ personal sanitario colegiado en enfermería a 31 de diciembre del año $t$ <br>
+$P^{t+1} =$ población a 1 de enero del año $t+1$"
+3-c-1-SERIE-C-formula-teorica: "$$TPSC_{\\text{odontología y estomatología}}^{t} = \\frac{PSC_{\\text{odontología y estomatología}}^{t}}{P^{t+1}} \\cdot 10.000$$ <br>
+donde: <br>
+$PSC_{\\text{odontología y estomatología}}^{t} =$ personal sanitario colegiado en odontología y estomatología a 31 de diciembre del año $t$ <br>
+$P^{t+1} =$ población a 1 de enero del año $t+1$"
+3-c-1-SERIE-D-formula-teorica: "$$TPSC_{farmacia}^{t} = \\frac{PSC_{farmacia}^{t}}{P^{t+1}} \\cdot 10.000$$ <br>
+donde: <br>
+$PSC_{farmacia}^{t} =$ personal sanitario colegiado en farmacia a 31 de diciembre del año $t$ <br>
+$P^{t+1} =$ población a 1 de enero del año $t+1$"
+4-3-1-SERIE-A-formula-teorica: "$$PPE_{18-64}^{t} = \\frac{PE_{18-64}^{t}}{P_{18-64}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PE_{18-64}^{t} =$ población entre 18 y 64 años que ha realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64}^{t} =$ población entre 18 y 64 años en el año $t$"
+4-3-1-SERIE-B-formula-teorica: "$$PPE_{15-64}^{t} = \\frac{PE_{15-64}^{t}}{P_{15-64}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PE_{15-64}^{t} =$ población entre 15 y 64 años que ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{15-64}^{t} =$ población entre 15 y 64 años en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+4-3-1-SERIE-C-formula-teorica: "$$PPE_{15-24}^{t} = \\frac{PE_{15-24}^{t}}{P_{15-24}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PE_{15-24}^{t} =$ población entre 15 y 24 años que ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+4-3-1-SERIE-D-formula-teorica: "$$PPE_{25-64}^{t} = \\frac{PE_{25-64}^{t}}{P_{25-64}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PE_{25-64}^{t} =$ población entre 25 y 64 años que ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{25-64}^{t} =$ población entre 25 y 64 años en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+4-4-1-SERIE-A-formula-teorica: "$$PPHAB_{16-74}^{t} = \\frac{PHAB_{16-74}^{t}}{P_{16-74}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PHAB_{16-74}^{t} =$ población entre 16 y 74 años que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$ <br>
+$P_{16-74}^{t} =$ población entre 16 y 74 años en el año $t$"
+4-4-1-SERIE-B-formula-teorica: "$$PPHAB_{16-24}^{t} = \\frac{PHAB_{16-24}^{t}}{P_{16-24}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PHAB_{16-24}^{t} =$ población entre 16 y 24 años que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$ <br>
+$P_{16-24}^{t} =$ población entre 16 y 24 años en el año $t$"
+4-4-1-SERIE-C-formula-teorica: "$$PPHAB_{25-74}^{t} = \\frac{PHAB_{25-74}^{t}}{P_{25-74}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PHAB_{25-74}^{t} =$ población entre 25 y 74 años que en los últimos 12 meses ha utilizado alguna habilidad informática en el año $t$ <br>
+$P_{25-74}^{t} =$ población entre 25 y 74 años en el año $t$"
+4-5-1-SERIE-A-formula-teorica: "$$IP_{mujeres/hombres}^{t} = \\frac{PPE_{18-64,mujeres}^{t}}{PPE_{18-64,hombres}^{t}} \\cdot 100$$ <br>
+siendo: <br> 
+$$PPE_{18-64,mujeres}^{t} = \\frac{PE_{18-64,mujeres}^{t}}{P_{18-64,mujeres}^{t}} $$ <br>
+$$PPE_{18-64,hombres}^{t} = \\frac{PE_{18-64,hombres}^{t}}{P_{18-64,hombres}^{t}} $$ <br>
+donde: <br>
+$PE_{18-64,mujeres}^{t} =$ mujeres entre 18 y 64 años que han realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64,mujeres}^{t} =$ mujeres entre 18 y 64 años en el año $t$<br>
+$PE_{18-64,hombres}^{t} =$ hombres entre 18 y 64 años que han realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64,hombres}^{t} =$ hombres entre 18 y 64 años en el año $t$<br>"
+4-5-1-SERIE-B-formula-teorica: "$$IP_{\\lt 900/\\ge 2.500}^{t} = \\frac{PPE_{18-64,\\lt 900}^{t}}{PPE_{18-64,\\ge 2.500}^{t}} \\cdot 100$$ <br>
+siendo: <br> 
+$$PPE_{18-64,\\lt 900}^{t} = \\frac{PE_{18-64,\\lt 900}^{t}}{P_{18-64,\\lt 900}^{t}} $$ <br>
+$$PPE_{18-64,\\ge 2.500}^{t} = \\frac{PE_{18-64,\\ge 2.500}^{t}}{P_{18-64,\\ge 2.500}^{t}} $$ <br>
+donde: <br>
+$PE_{18-64,\\lt 900}^{t} =$ población entre 18 y 64 años perteneciente a hogares con ingresos mensuales netos de menos de 900 euros que ha realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64,\\lt 900}^{t} =$ población entre 18 y 64 años perteneciente a hogares con ingresos mensuales netos de menos de 900 euros en el año $t$<br>
+$PE_{18-64,\\ge 2.500}^{t} =$ población entre 18 y 64 años perteneciente a hogares con ingresos mensuales netos de 2.500 o más euros que ha realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64,\\ge 2.500}^{t} =$ población entre 18 y 64 años perteneciente a hogares con ingresos mensuales netos de 2.500 o más euros en el año $t$<br>"
+4-5-1-SERIE-C-formula-teorica: "$$IP_{l/nl}^{t} = \\frac{PPE_{18-64,l}^{t}}{PPE_{18-64,nl}^{t}} \\cdot 100$$ <br>
+siendo: <br> 
+$$PPE_{18-64,l}^{t} = \\frac{PE_{18-64,l}^{t}}{P_{18-64,l}^{t}} $$ <br>
+$$PPE_{18-64,nl}^{t} = \\frac{PE_{18-64,nl}^{t}}{P_{18-64,nl}^{t}} $$ <br>
+donde: <br>
+$PE_{18-64,l}^{t} =$ población entre 18 y 64 años limitada por problemas de salud (graves o no graves) que ha realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64,l}^{t} =$ población entre 18 y 64 años limitada por problemas de salud (graves o no graves) en el año $t$ <br>
+$PE_{18-64,nl}^{t} =$ población entre 18 y 64 años nada limitada por problemas de salud que ha realizado actividades educativas (formales o no formales) en los últimos 12 meses en el año $t$ <br>
+$P_{18-64,nl}^{t} =$ población entre 18 y 64 años nada limitada por problemas de salud en el año $t$<br>"
+4-5-1-SERIE-D-formula-teorica: "$$IP_{mujeres/hombres}^{t} = \\frac{PPE_{15-64,mujeres}^{t}}{PPE_{15-64,hombres}^{t}} \\cdot 100$$ <br>
+siendo: <br> 
+$$PPE_{15-64,mujeres}^{t} = \\frac{PE_{15-64,mujeres}^{t}}{P_{15-64,mujeres}^{t}} $$ <br>
+$$PPE_{15-64,hombres}^{t} = \\frac{PE_{15-64,hombres}^{t}}{P_{15-64,hombres}^{t}} $$ <br>
+donde: <br>
+$PE_{15-64,mujeres}^{t} =$ mujeres entre 15 y 64 años que han realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{15-64,mujeres}^{t} =$ mujeres entre 15 y 64 años en el año $t$<br>
+$PE_{15-64,hombres}^{t} =$ hombres entre 15 y 64 años que han realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{15-64,hombres}^{t} =$ hombres entre 15 y 64 años en el año $t$<br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+4-5-1-SERIE-E-formula-teorica: "$$IP_{\\le 10.000/\\gt 10.000}^{t} = \\frac{PPE_{15-64,\\le 10.000}^{t}}{PPE_{15-64,\\gt 10.000}^{t}} \\cdot 100$$ <br>
+siendo: <br> 
+$$PPE_{15-64,\\le 10.000}^{t} = \\frac{PE_{15-64,\\le 10.000}^{t}}{P_{15-64,\\le 10.000}^{t}} $$ <br>
+$$PPE_{15-64,\\gt 10.000}^{t} = \\frac{PE_{15-64,\\gt 10.000}^{t}}{P_{15-64,\\gt 10.000}^{t}} $$ <br>
+donde: <br>
+$PE_{15-64,\\le 10.000}^{t} =$ población entre 15 y 64 años residente en municipios de 10.000 o menos habitantes que ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{15-64,\\le 10.000}^{t} =$ población entre 15 y 64 años residente en municipios de 10.000 o menos habitantes en el año $t$<br>
+$PE_{15-64,\\gt 10.000}^{t} =$ población entre 15 y 64 años residente en municipios de más de 10.000 habitantes que ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
+$P_{15-64,\\gt 10.000}^{t} =$ población entre 15 y 64 años residente en municipios de más de 10.000 habitantes en el año $t$<br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+5-4-1-SERIE-A-formula-teorica: "$$THFP^{t} = \\frac{THF^{t}}{PHF^{t}}$$ <br>
+donde: <br>
+$THF^{t} =$ minutos dedicados por la población al hogar y la familia en un día promedio en el año $t$ <br>
+$PHF^{t} =$ población que destina tiempo al hogar y la familia en un día promedio en el año $t$"
+5-4-1-SERIE-B-formula-teorica: "$$THFP_{hombres}^{t} = \\frac{THF_{hombres}^{t}}{PHF_{hombres}^{t}}$$ <br>
+donde: <br>
+$THF_{hombres}^{t} =$ minutos dedicados por los hombres al hogar y la familia en un día promedio en el año $t$ <br>
+$PHF_{hombres}^{t} =$ hombres que destinan tiempo al hogar y la familia en un día promedio en el año $t$"
+5-4-1-SERIE-C-formula-teorica: "$$THFP_{mujeres}^{t} = \\frac{THF_{mujeres}^{t}}{PHF_{mujeres}^{t}}$$ <br>
+donde: <br>
+$THF_{mujeres}^{t} =$ minutos dedicados por las mujeres al hogar y la familia en un día promedio en el año $t$ <br>
+$PHF_{mujeres}^{t} =$ mujeres que destinan tiempo al hogar y la familia en un día promedio en el año $t$"
+5-5-2-SERIE-A-formula-teorica: "$$PPCD_{mujeres}^{t} = \\frac{PCD_{mujeres}^{t}}{PCD^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PCD_{mujeres}^{t} =$ mujeres ocupadas en cargos directivos (grupo 1 de la CNO-2011) en el año $t$ <br>
+$PCD^{t} =$ personas ocupadas en cargos directivos (grupo 1 de la CNO-2011) en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+5-5-2-SERIE-B-formula-teorica: "$$PPAD_{mujeres}^{t} = \\frac{PAD_{mujeres}^{t}}{PAD^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PAD_{mujeres}^{t} =$ mujeres ocupadas en alta dirección (subgrupos 11, 12 y 13 de la CNO-2011) en el año $t$ <br>
+$PAD^{t} =$ personas ocupadas en alta dirección (subgrupos 11, 12 y 13 de la CNO-2011) en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+5-a-1a-SERIE-A-formula-teorica: "$$PPOA_{titulares}^{t} = \\frac{TEA^{t}}{POA^{t}} \\cdot 100$$ <br>
+donde: <br>
+$TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$ <br>
+$POA^{t} =$ personas ocupadas en la agricultura en el año $t$"
+5-a-1a-SERIE-B-formula-teorica: "$$PPOA_{hombres, titulares}^{t} = \\frac{TEA_{hombres}^{t}}{POA_{hombres}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$TEA_{hombres}^{t} =$ hombres titulares de explotaciones agrícolas en el año $t$ <br>
+$POA_{hombres}^{t} =$ hombres ocupados en la agricultura en el año $t$"
+5-a-1a-SERIE-C-formula-teorica: "$$PPOA_{mujeres, titulares}^{t} = \\frac{TEA_{mujeres}^{t}}{POA_{mujeres}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$TEA_{mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en el año $t$ <br>
+$POA_{mujeres}^{t} =$ mujeres ocupadas en la agricultura en el año $t$"
+5-a-1b-SERIE-A-formula-teorica: "$$PTEA_{mujeres}^{t} = \\frac{TEA_{mujeres}^{t}}{TEA^{t}} \\cdot 100$$ <br>
+donde: <br>
+$TEA_{mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en el año $t$ <br>
+$TEA^{t} =$ personas titulares de explotaciones agrícolas en el año $t$ "
+5-a-1b-SERIE-B-formula-teorica: "$$PTEA_{propiedad,mujeres}^{t} = \\frac{TEA_{propiedad,mujeres}^{t}}{TEA_{propiedad}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$TEA_{propiedad,mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en propiedad en el año $t$ <br>
+$TEA_{propiedad}^{t} =$ personas titulares de explotaciones agrícolas en propiedad en el año $t$ "
+5-a-1b-SERIE-C-formula-teorica: "$$PTEA_{arrendamiento,mujeres}^{t} = \\frac{TEA_{arrendamiento,mujeres}^{t}}{TEA_{arrendamiento}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$TEA_{arrendamiento,mujeres}^{t} =$ mujeres titulares de explotaciones agrícolas en arrendamiento en el año $t$ <br>
+$TEA_{arrendamiento}^{t} =$ personas titulares de explotaciones agrícolas en arrendamiento en el año $t$ "
+5-b-1-SERIE-A-formula-teorica: "$$PPMOV_{16-74}^{t} = \\frac{PMOV_{16-74}^{t}}{P_{16-74}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PMOV_{16-74}^{t} =$ población entre 16 y 74 años que en los últimos tres meses ha utilizado el móvil en el año $t$ <br>
+$P_{16-74}^{t} =$ población entre 16 y 74 años en el año $t$"
+5-b-1-SERIE-B-formula-teorica: "$$PPMOV_{16-74,hombres}^{t} = \\frac{PMOV_{16-74,hombres}^{t}}{P_{16-74,hombres}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PMOV_{16-74,hombres}^{t} =$ hombres entre 16 y 74 años que en los últimos tres meses ha utilizado el móvil en el año $t$ <br>
+$P_{16-74,hombres}^{t} =$ hombres entre 16 y 74 años en el año $t$"
+5-b-1-SERIE-C-formula-teorica: "$$PPMOV_{16-74,mujeres}^{t} = \\frac{PMOV_{16-74,mujeres}^{t}}{P_{16-74,mujeres}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PMOV_{16-74,mujeres}^{t} =$ mujeres entre 16 y 74 años que en los últimos tres meses ha utilizado el móvil en el año $t$ <br>
+$P_{16-74,mujeres}^{t} =$ mujeres entre 16 y 74 años en el año $t$"
+8-1-1-SERIE-A-formula-teorica: "$$TCPIBP^{t} = \\frac{{\\frac{PIB_{2015}^{t}}{P^t}-\\frac{PIB_{2015}^{t-1}}{P^{t-1}}}}{\\frac{PIB_{2015}^{t-1}}{P^{t-1}}} \\cdot 100$$ <br>
+donde: <br>
+$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$ "
+8-2-1-SERIE-A-formula-teorica: "$$TCPIBEP^{t} = \\frac{{\\frac{PIB_{2015}^{t}}{EP^t}-\\frac{PIB_{2015}^{t-1}}{EP^{t-1}}}}{\\frac{PIB_{2015}^{t-1}}{EP^{t-1}}} \\cdot 100$$ <br>
+donde: <br>
+$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$ <br>
+$EP^{t} =$ empleo (personas) en el año $t$ "
+8-2-1-SERIE-B-formula-teorica: "$$TCPIBEH^{t} = \\frac{{\\frac{PIB_{2015}^{t}}{EH^t}-\\frac{PIB_{2015}^{t-1}}{EH^{t-1}}}}{\\frac{PIB_{2015}^{t-1}}{EH^{t-1}}} \\cdot 100$$ <br>
+donde: <br>
+$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$ <br>
+$EH^{t} =$ empleo (horas) en el año $t$ "
+8-5-1-SERIE-A-formula-teorica: "$$GH^{t} = \\frac{G^{t}}{H^{t}} $$ <br>
+donde: <br>
+$G^{t} =$ ganancia bruta del personal asalariado en el año $t$ <br>
+$H^{t} =$ horas normales de trabajo del personal asalariado en el año $t$"
+8-5-1-SERIE-B-formula-teorica: "$$GH_{hombres}^{t} = \\frac{G_{hombres}^{t}}{H_{hombres}^{t}} $$ <br>
+donde: <br>
+$G_{hombres}^{t} =$ ganancia bruta de los hombres asalariados en el año $t$ <br>
+$H_{hombres}^{t} =$ horas normales de trabajo de los hombres asalariados en el año $t$"
+8-5-1-SERIE-C-formula-teorica: "$$GH_{mujeres}^{t} = \\frac{G_{mujeres}^{t}}{H_{mujeres}^{t}} $$ <br>
+donde: <br>
+$G_{mujeres}^{t} =$ ganancia bruta de las mujeres asalariadas en el año $t$ <br>
+$H_{mujeres}^{t} =$ horas normales de trabajo de las mujeres asalariadas en el año $t$"
+8-5-2-SERIE-A-formula-teorica: "$$TD^{t} = \\frac{D^{t}}{A^{t}} \\cdot 100$$ <br>
+donde: <br>
+$D^{t} =$ personas desempleadas en el año $t$ <br>
+$A^{t} =$ personas económicamente activas en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+8-5-2-SERIE-B-formula-teorica: "$$TD_{hombres}^{t} = \\frac{D_{hombres}^{t}}{A_{hombres}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$D_{hombres}^{t} =$ hombres desempleados en el año $t$ <br>
+$A_{hombres}^{t} =$ hombres económicamente activos en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+8-5-2-SERIE-C-formula-teorica: "$$TD_{mujeres}^{t} = \\frac{D_{mujeres}^{t}}{A_{mujeres}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$D_{mujeres}^{t} =$ mujeres desempleadas en el año $t$ <br>
+$A_{mujeres}^{t} =$ mujeres económicamente activas en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+8-6-1-SERIE-A-formula-teorica: "$$PPNINI_{15-24}^{t} = \\frac{PNINI_{15-24}^{t}}{P_{15-24}^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no tiene empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el añoo $t$ <br>
+$P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+9-2-1-SERIE-A-formula-teorica: "$$PPIBVAB_{manufacturero}^{t} = \\frac{VAB_{manufacturero}^{t}}{PIB^{t}} \\cdot 100$$ <br>
+donde: <br>
+$VAB_{manufacturero}^{t} =$ valor añadido bruto del sector manufacturero a precios corrientes en el año $t$ <br>
+$PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$ "
+9-2-1-SERIE-B-formula-teorica: "$$PPVAB_{manufacturero}^{t} = \\frac{VAB_{manufacturero}^{t}}{P^{t}} \\cdot 100$$ <br>
+donde: <br>
+$VAB_{manufacturero}^{t} =$ valor añadido bruto del sector manufacturero a precios corrientes en el año $t$ <br>
+$P^{t} =$ población a 1 de julio del año $t$ "
+9-2-2-SERIE-A-formula-teorica: "$$PPO_{manufacturero}^{t} = \\frac{PO_{manufacturero}^{t}}{PO^{t}} \\cdot 100$$ <br>
+donde: <br>
+$PO_{manufacturero}^{t} =$ población ocupada en el sector manufacturero (sección C de la CNAE-2009) en el año $t$ <br>
+$PO^{t} =$ población ocupada en el año $t$ <br>
+teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año"
+9-2-2-SERIE-B-formula-teorica: "$$PEP_{manufacturero}^{t} = \\frac{EP_{manufacturero}^{t}}{EP^{t}} \\cdot 100$$ <br>
+donde: <br>
+$EP_{manufacturero}^{t} =$ empleo (personas) del sector manufacturero en el año $t$ <br>
+$EP^{t} =$ empleo (personas) en el año $t$ "
+9-2-2-SERIE-C-formula-teorica: "$$PEH_{manufacturero}^{t} = \\frac{EH_{manufacturero}^{t}}{EH^{t}} \\cdot 100$$ <br>
+donde: <br>
+$EH_{manufacturero}^{t} =$ empleo (horas) del sector manufacturero en el año $t$ <br>
+$EH^{t} =$ empleo (horas) en el año $t$ "
+9-4-1-SERIE-A-formula-teorica: "$$PPIBECO2^{t} = \\frac{ECO2^{t}}{PIB_{2015}^{t}} $$ <br>
+donde: <br>
+$ECO2^{t} =$ emisiones de CO2 de las unidades económicas residentes en el año $t$ (se distribuye el total nacional de emisiones de CO2 de la Cuenta de emisiones a la atmósfera en función de las emisiones de CO2 por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
+$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$"
+9-4-1-SERIE-B-formula-teorica: "$$PVABECO2_{manufacturero}^{t} = \\frac{ECO2_{manufacturero}^{t}}{VAB_{manufacturero,2015}^{t}} $$ <br>
+donde: <br>
+$ECO2_{manufacturero}^{t} =$ emisiones de CO2 de las unidades económicas residentes del sector manufacturer en el año $t$ (se distribuye el total nacional de emisiones de CO2 de la Cuenta de emisiones a la atmósfera en función de las emisiones de CO2 por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
+$VAB_{manufacturero,2015}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$ "
+9-5-1-SERIE-A-formula-teorica: "$$PPIBG_{I+D}^{t} = \\frac{G_{I+D}^{t}}{PIB^{t}}  \\cdot 100$$<br>
+donde: <br>
+$G_{I+D}^{t} =$ gasto en investigación y desarrollo en el año $t$<br>
+$PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$ <br>"
+9-5-2-SERIE-A-formula-teorica: "$$TINV^{t} = \\frac{INV^{t}}{P^{t}} \\cdot 1.000.000$$ <br>
+donde: <br>
+$INV^{t} =$ personas investigadoras en equivalencia a jornada completa en el año $t$<br>
+$P^{t} =$ población a 1 de julio del año $t$ <br>"
