@@ -1,0 +1,8 @@
+_T: "Ambos sexos"
+M: "Hombres"
+F: "Mujeres"
+PD: "Personas con discapacidad"
+PWD: "Personas sin discapacidad"
+Y16T64: "Personas entre 16 y 64 años"
+Y16T64_PD: "Personas entre 16 y 64 años con discapacidad"
+Y16T64_PWD: "Personas entre 16 y 64 años sin discapacidad"
