@@ -11,8 +11,8 @@ import sdg
 from sdg import open_sdg
 from sdg import IndicatorExportService
 from sdg.outputs import OutputOpenSdg
-from sdg.data import write_csv
 from sdg.json import write_json, df_to_list_dict
+from sdg.path import output_path
 
 INDEX_NAME = "indice.csv"
 
@@ -246,6 +246,38 @@ def ovr_open_sdg_prep(options):
         outputs.append(sdg.outputs.OutputGeoJson(**geojson_kwargs))
 
     return outputs
+
+
+def write_csv(inid, df, ftype='data', site_dir=''):
+    """
+    For a given ID and data set, write out as csv
+
+    Args:
+        inid: str. The indicator identifier
+        df: DataFrame. The pandas data frame of the data
+        ftype: Sets directory path
+        site_dir: str. The site directory to build to.
+
+    Returns:
+        bool: Status
+    """
+    status = True
+
+    # If the csv dir isn't there, make it
+    csv_dir = output_path(ftype=ftype, format='csv', site_dir=site_dir)
+    if not os.path.exists(csv_dir):
+        os.makedirs(csv_dir, exist_ok=True)
+
+    # The path within the csv dir
+    out_path = output_path(inid,  ftype=ftype, format='csv', site_dir=site_dir)
+
+    try:
+        df.to_csv(out_path, index=False, float_format='%.2f')
+    except Exception as e:
+        print(inid, e)
+        return False
+
+    return status
 
 
 open_sdg.open_sdg_prep = ovr_open_sdg_prep
