@@ -15,6 +15,8 @@ download_csv: Download CSV
 download_csv_title: Download as CSV
 download_chart_image: Download Chart Image
 download_chart_image_title: Download chart as image
+download_metadata: Download PDF of the metadata
+download_metadata_title: Download metadata as PDF
 download_geojson: Download GeoJSON
 download_geojson_title: Download as GeoJSON
 # A label describing information - where some data originally came from
