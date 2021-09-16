@@ -15,6 +15,8 @@ download_source_sdmx_title: 下载为SDMX格式的资源数据
 download_table: 下载CSV格式的表格
 download_chart_image: 下载图表图像
 download_chart_image_title: 下载图表作为图像
+download_metadata: 下载元数据 PDF
+download_metadata_title: 将元数据下载为 PDF
 download_geojson: 下载GeoJSON
 download_geojson_title: 下载为GeoJSON格式
 edit: 编辑

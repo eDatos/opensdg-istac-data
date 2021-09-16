@@ -16,6 +16,8 @@ download_source_sdmx_title: Descargar los datos fuente como SDMX
 download_table: Descargar la tabla CSV
 download_chart_image: Descargar imagen del gráfico
 download_chart_image_title: Descargar gráfico como imagen
+download_metadata: Descarregar PDF de les metadades
+download_metadata_title: Descarregar metadades com PDF
 download_geojson: Descargar GeoJSON
 download_geojson_title: Descargar como GeoJSON
 edit: Editar
