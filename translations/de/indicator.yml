@@ -16,8 +16,8 @@ download_source_sdmx_title: Daten im SDMX-Format speichern
 download_table: Tabelle im CSV-Format speichern
 download_chart_image: Grafik herunterladen
 download_chart_image_title: Grafik als Bild herunterladen
-download_metadata: PDF der Metadaten herunterladen
-download_metadata_title: Metadaten als PDF herunterladen
+download_metadata: Methodenblatt herunterladen
+download_metadata_title: Methodenblatt als PDF herunterladen
 download_geojson: im GeoJSON-Format speichern
 download_geojson_title: im GeoJSON-Format speichern
 edit: Bearbeiten

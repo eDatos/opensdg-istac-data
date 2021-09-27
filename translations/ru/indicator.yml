@@ -16,8 +16,8 @@ download_source_sdmx_title: Скачать исходные данные в фо
 download_table: Скачать табличные CSV
 download_chart_image: Загрузить изображение диаграммы
 download_chart_image_title: Скачать диаграмму как изображение
-download_metadata: Скачать метаданные PDF
-download_metadata_title: Скачать метаданные в формате PDF
+download_metadata: Скачать методический лист
+download_metadata_title: Скачать методический лист в формате PDF
 download_geojson: Скачать GeoJSON
 download_geojson_title: Скачать в формате GeoJSON
 edit: Редактировать
