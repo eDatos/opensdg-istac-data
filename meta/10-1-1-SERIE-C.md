@@ -14,7 +14,7 @@ meta_global: global_targets.10-1-title
 objetivo_global: global_goals.10-title
 definicion: subindicator.10-1-1-SERIE-C-definicion
 
-formula_teorica: '$$TCGMP_{pobre}^{t} = \left(\left(\frac{IMP^{t}_{pobre}}{IMP^{t-5}_{pobre}} \right)^{\frac{1}{5}} - 1 \right) \cdot 100$$ <br>
+formula_teorica: '$$TCIMP_{pobre}^{t} = \left(\left(\frac{IMP^{t}_{pobre}}{IMP^{t-5}_{pobre}} \right)^{\frac{1}{5}} - 1 \right) \cdot 100$$ <br>
 donde: <br>
 $IMP_{pobre}^{t} =$ el ingreso medio por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$'
 unidad_medida: "Porcentaje"
