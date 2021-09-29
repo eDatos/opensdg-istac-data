@@ -14,14 +14,13 @@ meta_global: global_targets.10-1-title
 objetivo_global: global_goals.10-title
 definicion: subindicator.10-1-1-SERIE-A-definicion
 
-formula_teorica: '$$TCGMP_{pobre}^{t} = \left(\left(\frac{IMP^{t}_{pobre}}{IMP^{t-5}_{pobre}} \right)^{\frac{1}{5}} - 1 \right) \cdot 100$$ <br>
+formula_teorica: '$$TCGMP_{pobre}^{t} = \sqrt[5]{\frac{GMP_{pobre}^{t}-GMP_{pobre}^{t-5}}{GMP_{pobre}^{t-5}}} \cdot 100 $$ <br>
 donde: <br>
-$IMP_{pobre}^{t} =$ el ingreso medio por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores ingresos por unidad de consumo (escala OCDE modificada)) en el año $t$'
+$GMP_{pobre}^{t} =$ gasto medio por persona de los hogares del 40% más pobre de la población de la comunidad autónoma (40% de las personas con menores gastos por unidad de consumo (escala OCDE modificada)) en el año $t$'
 unidad_medida: "Porcentaje"
-fuentes_informacion: "Encuesta de condiciones de vida, Instituto Nacional de Estadística (INE)"
+fuentes_informacion: "Encuesta de presupuestos familiares, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
-observaciones: "El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años. <br>
-El dato nacional se obtiene considerando el ingreso medio por persona de los hogares del 40% más pobre de la población teniendo en cuenta la distribución de la renta nacional (umbral nacional)."
+observaciones: "El número de unidades de consumo de un hogar se calcula utilizando la escala OCDE modificada, que asigna un peso de 1 a la primera persona de 14 o más años, un peso de 0,5 al resto de personas de 14 o más años y un peso de 0,3 a las personas de menos de 14 años"
 
 # Info de Gráficas
 graph_title: subindicator.10-1-1-SERIE-A-graph-title
