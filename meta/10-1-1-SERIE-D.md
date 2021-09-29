@@ -14,7 +14,7 @@ meta_global: global_targets.10-1-title
 objetivo_global: global_goals.10-title
 definicion: subindicator.10-1-1-SERIE-D-definicion
 
-formula_teorica: 'TCIMP^{t} = \left(\left(\frac{IMP^{t}}{IMP^{t-5}} \right)^{\frac{1}{5}} -1 \right) \cdot 100$$<br>
+formula_teorica: '$$TCIMP^{t} = \left(\left(\frac{IMP^{t}}{IMP^{t-5}} \right)^{\frac{1}{5}} -1 \right) \cdot 100$$<br>
 donde: <br>
 $IMP^{t} =$ ingreso medio por persona en el año $t$'
 unidad_medida: "Porcentaje"
