@@ -14,13 +14,13 @@ meta_global: global_targets.10-1-title
 objetivo_global: global_goals.10-title
 definicion: subindicator.10-1-1-SERIE-D-definicion
 
-formula_teorica: '$$TCIMP^{t} = \sqrt[5]{\frac{IMP^{t}-IMP^{t-5}}{IMP^{t-5}}} \cdot 100 $$<br>
+formula_teorica: 'TCIMP^{t} = \left(\left(\frac{IMP^{t}}{IMP^{t-5}} \right)^{\frac{1}{5}} -1 \right) \cdot 100$$<br>
 donde: <br>
 $IMP^{t} =$ ingreso medio por persona en el año $t$'
 unidad_medida: "Porcentaje"
-fuentes_informacion: "Encuesta de presupuestos familiares, Instituto Nacional de Estadística (INE)"
+fuentes_informacion: "Encuesta de condiciones de vida, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
-observaciones: "Los ingresos que se utilizan en el cálculo de este indicador corresponden al año anterior al de la encuesta"
+observaciones:
 
 # Info de Gráficas
 graph_title: subindicator.10-1-1-SERIE-D-graph-title
