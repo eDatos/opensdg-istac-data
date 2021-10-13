@@ -30,7 +30,7 @@ graph_title: subindicator.13-2-2-SERIE-B-graph-title
 graph_type: bar
 
 # Info de navegación
-sort_order: 1
+sort_order: 2
 tab_name: Serie B
 
 #Coordinación con OCECAS
