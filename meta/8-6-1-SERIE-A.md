@@ -17,7 +17,7 @@ definicion: subindicator.8-6-1-SERIE-A-definicion
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 formula_teorica: '$$PPNINI_{15-24}^{t} = \frac{PNINI_{15-24}^{t}}{P_{15-24}^{t}} \cdot 100$$ <br>
 donde: <br>
-$PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no tiene empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el añoo $t$ <br>
+$PNINI_{15-24}^{t} =$ población entre 15 y 24 años que no tiene empleo ni ha realizado estudios o formación (reglada o no reglada) en las últimas cuatro semanas en el año $t$ <br>
 $P_{15-24}^{t} =$ población entre 15 y 24 años en el año $t$ <br>
 teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año'
 unidad_medida: Porcentaje
