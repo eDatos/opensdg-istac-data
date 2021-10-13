@@ -21,7 +21,7 @@ $PF^{cohorte\;t-13} =$ población femenina perteneciente a la cohorte nacida en 
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Estadística de vacunaciones sistemáticas, Ministerio de Sanidad"
 periodicidad: "Anual"
-observaciones:"Los resultados facilitados se obtienen utilizando las definiciones propuestas por la Ponencia de Programa y Registro de Vacunaciones y
+observaciones: "Los resultados facilitados se obtienen utilizando las definiciones propuestas por la Ponencia de Programa y Registro de Vacunaciones y
 acordadas por la Comisión de Salud Pública en octubre de 2017. Desde entonces, las coberturas de vacunación se calculan por cohortes de
 nacimiento de la población.<br>
 No se incluyen las vacunas adquiridas en oficinas de farmacia ni las administradas por el sector sanitario privado."
