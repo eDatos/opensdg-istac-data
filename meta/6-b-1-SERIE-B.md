@@ -13,9 +13,9 @@ meta_global: global_targets.6-b-title
 objetivo_global: global_goals.6-title
 definicion: subindicator.6-b-1-SERIE-B-definicion
 
-formula_teorica: '$$PDAL_{aguas de baño}^{t} = \frac{DAL_{aguas de baño}^{t}}{DAL^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PDAL_{aguas\;de\;baño}^{t} = \frac{DAL_{aguas\;de\;baño}^{t}}{DAL^{t}} \cdot 100$$ <br>
 donde: <br>
-$DAL_{aguas de baño}^{t} =$ dependencias administrativas locales (ayuntamientos) que han establecido políticas y
+$DAL_{aguas\;de\;baño}^{t} =$ dependencias administrativas locales (ayuntamientos) que han establecido políticas y
 procedimientos operacionales para la gestión y el saneamiento de aguas de baño en el año $t$ <br>
 $DAL^{t} =$ dependencias administrativas locales (ayuntamientos) en el año $t$'
 unidad_medida: Porcentaje

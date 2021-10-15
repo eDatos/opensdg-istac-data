@@ -16,8 +16,8 @@ definicion: subindicator.9-4-1-SERIE-D-definicion
 
 formula_teorica: '$$TVECO2_{2005}^{t} = \frac{ECO2^{t}-ECO2^{2005}}{ECO2^{2005}} \cdot 100$$ <br>
 donde: <br>
-$ECO2_^{t} =$ emisiones de CO2 en el año $t$<br>
-$ECO2_^{2005} =$ emisiones de CO2 en el año 2005'
+$ECO2^{t} =$ emisiones de CO2 en el año $t$<br>
+$ECO2^{2005} =$ emisiones de CO2 en el año 2005'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico"
 periodicidad: "Anual"

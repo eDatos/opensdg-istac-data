@@ -16,8 +16,8 @@ definicion: subindicator.9-4-1-SERIE-C-definicion
 
 formula_teorica: '$$TVECO2_{1990}^{t} = \frac{ECO2^{t}-ECO2^{1990}}{ECO2^{1990}} \cdot 100$$ <br>
 donde: <br>
-$ECO2_^{t} =$ emisiones de CO2 en el año $t$<br>
-$ECO2_^{1990} =$ emisiones de CO2 en el año 1990'
+$ECO2^{t} =$ emisiones de CO2 en el año $t$<br>
+$ECO2^{1990} =$ emisiones de CO2 en el año 1990'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico"
 periodicidad: "Anual"

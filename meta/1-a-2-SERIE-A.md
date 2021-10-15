@@ -24,16 +24,16 @@ fuentes_informacion: Contabilidad nacional. Clasificación funcional del gasto d
 periodicidad: Anual
 observaciones: "La Classifications of the Functions of Government (COFOG), desarrollada por la Organización para la Cooperación y el Desarrollo Económicos
 (OCDE) y publicada por la División de Estadística de las Naciones Unidas, estructura el gasto público en 10 grupos funcionales:<br>
-01 Servicios públicos generales<br>
-02 Defensa<br>
-03 Orden público y seguridad<br>
-04 Asuntos económicos<br>
-05 Protección del medio ambiente<br>
-06 Vivienda y servicios comunitarios<br>
-07 Salud<br>
-08 Ocio, cultura y religión<br>
-09 Educación<br>
-10 Protección social"
+&nbsp;&nbsp;01 Servicios públicos generales<br>
+&nbsp;&nbsp;02 Defensa<br>
+&nbsp;&nbsp;03 Orden público y seguridad<br>
+&nbsp;&nbsp;04 Asuntos económicos<br>
+&nbsp;&nbsp;05 Protección del medio ambiente<br>
+&nbsp;&nbsp;06 Vivienda y servicios comunitarios<br>
+&nbsp;&nbsp;07 Salud<br>
+&nbsp;&nbsp;08 Ocio, cultura y religión<br>
+&nbsp;&nbsp;09 Educación<br>
+&nbsp;&nbsp;10 Protección social"
 
 # Info de Gráficas
 graph_title: subindicator.1-a-2-SERIE-A-graph-title

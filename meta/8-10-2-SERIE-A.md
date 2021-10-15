@@ -25,7 +25,7 @@ periodicidad: Irregular
 observaciones: 
 
 # Info de Gráficas
-graph_title: subindicator.8-10-1-SERIE-A-graph-title
+graph_title: subindicator.8-10-2-SERIE-A-graph-title
 graph_type: bar
 
 # Info para las tabs

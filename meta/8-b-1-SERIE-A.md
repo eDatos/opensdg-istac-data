@@ -14,10 +14,9 @@ objetivo_global: global_goals.8-title
 definicion: subindicator.8-b-1-SERIE-A-definicion
 
 # Fórmula teórica escrita en formato MathJax
-formula_teorica: '$$G_{fomento\;del\;empleo}^{t}$$ <br>
+formula_teorica: '$$ G_{fomento\;del\;empleo}^{t} $$ <br>
 donde: <br>
-$G_{fomento\;del\;empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma
-(política de gasto 24 de la clasificación funcional) en el año$t$'
+$G_{fomento\;del\;empleo}^{t} =$ gasto en fomento del empleo en la liquidación de presupuestos consolidados de la comunidad autónoma (política de gasto 24 de la clasificación funcional) en el año $t$'
 unidad_medida: "Millones de euros"
 fuentes_informacion: "Liquidación de los presupuestos de las comunidades autónomas, Ministerio de Hacienda"
 periodicidad: Anual
