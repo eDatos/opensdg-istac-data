@@ -23,12 +23,12 @@ fuentes_informacion: "Programa de evaluación internacional de competencias de a
 periodicidad: "Irregular"
 observaciones: "El Programa de evaluación internacional de competencias de adultos utiliza una escala de 500 puntos para evaluar la comprensión lectora. Para
 ayudar a interpretar esas puntuaciones, la escala se divide en seis categorías de competencia:<br>
-Inferior al nivel 1: puntuación inferior a 176<br>
-- Nivel 1: puntuación entre 176 y 225<br>
-- Nivel 2: puntuación entre 226 y 275<br>
-- Nivel 3: puntuación entre 276 y 325<br>
-- Nivel 4: puntuación entre 326 y 375<br>
-- Nivel 5: puntuación entre 376 y 500<br>
+&nbsp;&nbsp;- Inferior al nivel 1: puntuación inferior a 176<br>
+&nbsp;&nbsp;- Nivel 1: puntuación entre 176 y 225<br>
+&nbsp;&nbsp;- Nivel 2: puntuación entre 226 y 275<br>
+&nbsp;&nbsp;- Nivel 3: puntuación entre 276 y 325<br>
+&nbsp;&nbsp;- Nivel 4: puntuación entre 326 y 375<br>
+&nbsp;&nbsp;- Nivel 5: puntuación entre 376 y 500<br>
 Una persona alcanza al menos el nivel 2 de competencia en la escala de comprensión lectora cuando habitualmente es capaz de entender textos
 sobre temas que no conoce, aunque tenga dificultades ante tareas como comparar y contrastar diferentes textos o buscar textos digitales sobre
 un tema concreto que no conoce.<br>

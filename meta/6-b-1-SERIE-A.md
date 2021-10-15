@@ -13,9 +13,9 @@ meta_global: global_targets.6-b-title
 objetivo_global: global_goals.6-title
 definicion: subindicator.6-b-1-SERIE-A-definicion
 
-formula_teorica: '$$PDAL_{aguas de consumo}^{t} = \frac{DAL_{aguas de consumo}^{t}}{DAL^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PDAL_{aguas\;de\;consumo}^{t} = \frac{DAL_{aguas\;de\;consumo}^{t}}{DAL^{t}} \cdot 100$$ <br>
 donde: <br>
-$DAL_{aguas de consumo}^{t} =$ dependencias administrativas locales (ayuntamientos) que han establecido políticas y
+$DAL_{aguas\;de\;consumo}^{t} =$ dependencias administrativas locales (ayuntamientos) que han establecido políticas y
 procedimientos operacionales para la gestión y el saneamiento de aguas de consumo en el año $t$ <br>
 $DAL^{t} =$ dependencias administrativas locales (ayuntamientos) en el año $t$'
 unidad_medida: Porcentaje

@@ -25,7 +25,7 @@ periodicidad: Anual
 observaciones:
 
 # Info de Gráficas
-graph_title: subindicator.7-1-1-SERIE-A-graph-title
+graph_title: subindicator.7-2-1-SERIE-A-graph-title
 graph_type: bar
 
 # Info para las tabs
