@@ -32,7 +32,7 @@
 1-a-1-graph-title: 
 1-a-1-definition:
 1-a-2-title: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
-1-a-2-graph-title: 
+1-a-2-graph-title: "Proporción del gasto de las administraciones públicas autonómicas que se dedica a servicios esenciales" 
 1-a-2-definition:
 1-a-3-title: "Suma del total de las subvenciones y asignaciones no generadoras de deuda dedicadas directamente a programas de reducción de la pobreza en proporción al PIB"
 1-a-3-graph-title: 
@@ -104,7 +104,7 @@
 11-5-2-graph-title: 
 11-5-2-definition:
 11-6-1-title: "Proporción de desechos sólidos urbanos recogidos periódicamente y con una descarga final adecuada respecto del total de desechos sólidos urbanos generados, desglosada por ciudad"
-11-6-1-graph-title: "Residuos urbanos recogidos per cápita y proporción de residuos urbanos en relación al total de residuos urbanos generados y tratados"
+11-6-1-graph-title: "Residuos urbanos recogidos per cápita y proporción de residuos municipales (incinerados, vertidos y reciclados) en relación al total de residuos municipales generados y tratados"
 11-6-1-definition:
 11-6-2-title: "Niveles medios anuales de partículas finas en suspensión (por ejemplo, PM2.5 y PM10) en las ciudades (ponderados según la población)"
 11-6-2-graph-title: 
@@ -146,7 +146,7 @@
 12-4-2-graph-title: 
 12-4-2-definition:
 12-5-1-title: "Tasa nacional de reciclado, en toneladas de material reciclado"
-12-5-1-graph-title: "Residuos urbanos recogidos per cápita y día"
+12-5-1-graph-title: "Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados"
 12-5-1-definition:
 12-6-1-title: "Número de empresas que publican informes sobre sostenibilidad"
 12-6-1-graph-title: 
@@ -221,13 +221,13 @@
 14-c-1-graph-title: 
 14-c-1-definition:
 15-1-1-title: "Superficie forestal en proporción a la superficie total"
-15-1-1-graph-title: 
+15-1-1-graph-title: "Superficie de bosque en proporción a la superficie total"
 15-1-1-definition:
 15-1-2-title: "Proporción de lugares importantes para la biodiversidad terrestre y del agua dulce incluidos en zonas protegidas, desglosada por tipo de ecosistema"
 15-1-2-graph-title: 
 15-1-2-definition:
 15-2-1-title: "Avances hacia la gestión forestal sostenible"
-15-2-1-graph-title: 
+15-2-1-graph-title: "Superficie forestal con instrumentos de gestión sostenible vigentes"
 15-2-1-definition:
 15-3-1-title: "Proporción de tierras degradadas en comparación con la superficie total"
 15-3-1-graph-title: 
@@ -293,7 +293,7 @@
 16-3-1-graph-title: 
 16-3-1-definition:
 16-3-2-title: "Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total"
-16-3-2-graph-title: 
+16-3-2-graph-title: "Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas"
 16-3-2-definition:
 16-3-3-title: "Proporción de la población que se ha visto implicada en alguna controversia en los dos últimos años y ha accedido a algún mecanismo oficial u oficioso de solución de controversias, desglosada por tipo de mecanismo"
 16-3-3-graph-title: 
@@ -338,7 +338,7 @@
 17-1-1-graph-title: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB "
 17-1-1-definition:
 17-1-2-title: "Proporción del presupuesto nacional financiado por impuestos internos"
-17-1-2-graph-title: 
+17-1-2-graph-title: "Proporción de los ingresos y de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos"
 17-1-2-definition:
 17-10-1-title: "Promedio arancelario mundial ponderado"
 17-10-1-graph-title: 
@@ -386,10 +386,10 @@
 17-2-1-graph-title: 
 17-2-1-definition:
 17-3-1-title: "Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación Sur-Sur en proporción al presupuesto nacional total"
-17-3-1-graph-title: 
+17-3-1-graph-title: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo y Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales"
 17-3-1-definition:
 17-3-2-title: "Volumen de remesas (en dólares de los Estados Unidos) en proporción al PIB total"
-17-3-2-graph-title: 
+17-3-2-graph-title: "Volumen de remesas enviadas al extranjero"
 17-3-2-definition:
 17-4-1-title: "Servicio de la deuda en proporción a las exportaciones de bienes y servicios"
 17-4-1-graph-title: 
@@ -518,7 +518,7 @@
 3-a-1-graph-title: "Proporción de personas de 15 y más años que fuman a diario"
 3-a-1-definition:
 3-b-1-title: "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional"
-3-b-1-graph-title: 
+3-b-1-graph-title: "Proporción de la población inmunizada con todas las vacunas incluidas en cada programa nacional"
 3-b-1-definition:
 3-b-2-title: "Total neto de asistencia oficial para el desarrollo destinado a los sectores de la investigación médica y la atención sanitaria básica"
 3-b-2-graph-title: 
@@ -545,7 +545,7 @@
 4-2-1-graph-title: 
 4-2-1-definition:
 4-2-2-title: "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo"
-4-2-2-graph-title: 
+4-2-2-graph-title: "Tasa neta de escolarización a los 5 años según sexo"
 4-2-2-definition:
 4-3-1-title: "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
 4-3-1-graph-title: "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica"
@@ -557,7 +557,7 @@
 4-5-1-graph-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
 4-5-1-definition:
 4-6-1-title: "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo"
-4-6-1-graph-title: 
+4-6-1-graph-title: "Proporción de personas que han alcanzado al menos el nivel 2 de competencia funcional según sexo, edad y tipo de competencia"
 4-6-1-definition:
 4-7-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible, incluida la igualdad de género y los derechos humanos, se incorporan en todos los niveles de a) las políticas nacionales de educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación de los estudiantes"
 4-7-1-graph-title: 
@@ -569,7 +569,7 @@
 4-b-1-graph-title: 
 4-b-1-definition:
 4-c-1-title: "Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo"
-4-c-1-graph-title: 
+4-c-1-graph-title: "Proporción del profesorado que ha recibido al menos la mínima formación docente exigida para impartir enseñanza según nivel educativo"
 4-c-1-definition:
 5-1-1-title: "Determinar si existen o no marcos jurídicos para promover, hacer cumplir y supervisar la igualdad y la no discriminación por razón de sexo"
 5-1-1-graph-title: 
@@ -593,7 +593,7 @@
 5-5-1-graph-title: 
 5-5-1-definition:
 5-5-2-title: "Proporción de mujeres en cargos directivos"
-5-5-2-graph-title: "Proporción de mujeres en cargos directivos y alta dirección"
+5-5-2-graph-title: "Proporción de mujeres en cargos directivos, alta dirección y empresarias"
 5-5-2-definition:
 5-6-1-title: "Proporción de mujeres de entre 15 y 49 años que toman sus propias decisiones informadas sobre las relaciones sexuales, el uso de anticonceptivos y la atención de la salud reproductiva"
 5-6-1-graph-title: 
@@ -617,7 +617,7 @@
 5-c-1-graph-title: 
 5-c-1-definition:
 6-1-1-title: "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
-6-1-1-graph-title: 
+6-1-1-graph-title: "Proporción de personas que reciben suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo"
 6-1-1-definition:
 6-2-1-title: "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
 6-2-1-graph-title: 
@@ -647,7 +647,7 @@
 6-a-1-graph-title: 
 6-a-1-definition:
 6-b-1-title: "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua y el saneamiento"
-6-b-1-graph-title: 
+6-b-1-graph-title: "Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión del agua de consumo y baño"
 6-b-1-definition:
 7-1-1-title: "Proporción de la población que tiene acceso a la electricidad"
 7-1-1-graph-title: 
@@ -656,10 +656,10 @@
 7-1-2-graph-title: 
 7-1-2-definition:
 7-2-1-title: "Proporción de energía renovable en el consumo final total de energía"
-7-2-1-graph-title: 
+7-2-1-graph-title: "Proporción de energías renovables en la producción de energía eléctrica"
 7-2-1-definition:
 7-3-1-title: "Intensidad energética medida en función de la energía primaria y el PIB"
-7-3-1-graph-title: 
+7-3-1-graph-title: "Consumo de energía eléctrica por unidad de PIB"
 7-3-1-definition:
 7-a-1-title: "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
 7-a-1-graph-title: 
@@ -674,7 +674,7 @@
 8-10-1-graph-title: 
 8-10-1-definition:
 8-10-2-title: "Proporción de adultos (a partir de 15 años de edad) que tienen una cuenta en un banco u otra institución financiera o un proveedor de servicios de dinero móvil"
-8-10-2-graph-title: 
+8-10-2-graph-title: "Proporción de personas entre 18 y 79 años que tienen una cuenta corriente"
 8-10-2-definition:
 8-2-1-title: "Tasa de crecimiento anual del PIB real por persona empleada"
 8-2-1-graph-title: "Tasa de crecimiento anual del PIB real según forma de medir el empleo"
@@ -692,7 +692,7 @@
 8-5-1-graph-title: "Ingreso medio por hora de trabajo según sexo y personas con discapacidad"
 8-5-1-definition:
 8-5-2-title: "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
-8-5-2-graph-title: "Tasa de desempleo según sexo o personas con discapacidad"
+8-5-2-graph-title: "Tasa de desempleo según sexo, edad y personas con discapacidad"
 8-5-2-definition:
 8-6-1-title: "Proporción de jóvenes (entre 15 y 24 años) que no cursan estudios, no están empleados ni reciben capacitación"
 8-6-1-graph-title: "Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación"
@@ -713,7 +713,7 @@
 8-a-1-graph-title: 
 8-a-1-definition:
 8-b-1-title: "Existencia de una estrategia nacional organizada y en marcha para el empleo de los jóvenes, como estrategia independiente o como parte de una estrategia nacional de empleo"
-8-b-1-graph-title: 
+8-b-1-graph-title: "Gasto de las administraciones públicas autonómicas en fomento del empleo"
 8-b-1-definition:
 9-1-1-title: "Proporción de la población rural que vive a menos de 2 km de una carretera transitable todo el año"
 9-1-1-graph-title: 
