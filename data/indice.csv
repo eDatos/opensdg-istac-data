@@ -1,5 +1,5 @@
 Indicador,Nombre
-1-2-1-SERIE-A,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza "
+1-2-1-SERIE-A,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral nacional de pobreza"
 1-2-1-SERIE-B,"Proporción de personas en riesgo de pobreza relativa, considerando el umbral autonómico de pobreza"
 1-2-1-SERIE-C,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza"
 1-2-1-SERIE-D,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza"
@@ -11,6 +11,8 @@ Indicador,Nombre
 1-4-1-SERIE-B,Proporción de viviendas principales que disponen de cuarto de aseo con inodoro
 1-4-1-SERIE-C,Proporción de viviendas principales que disponen de baño o ducha
 1-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
+1-a-2-SERIE-A,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
+1-a-2-SERIE-B,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
 2-2-2-SERIE-A,"Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente"
 2-4-1-SERIE-A,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible
 3-1-1-SERIE-A,Tasa de mortalidad materna
@@ -30,28 +32,46 @@ Indicador,Nombre
 3-8-2-SERIE-A,"Proporción de personas que viven en hogares con grandes gastos sanitarios, superiores al 10% del gasto total del hogar"
 3-9-3-SERIE-A,Tasa de mortalidad atribuida a intoxicaciones involuntarias
 3-a-1-SERIE-A,Proporción de personas de 15 y más años que fuman a diario
+3-b-1-SERIE-A,"Cobertura de vacunación de recuerdo contra difteria, tétanos y tosferina en la población infantil"
+3-b-1-SERIE-B,Cobertura de vacunación de recuerdo contra neumococo en la población infantil
+3-b-1-SERIE-C,"Cobertura de vacunación de segunda dosis contra sarampión, rubeola y parotiditis en la población infantil"
+3-b-1-SERIE-D,Cobertura de vacunación de segunda dosis contra papiloma humano en las adolescentes
 3-c-1-SERIE-A,Número de personas colegiadas en medicina por cada 10.000 habitantes
 3-c-1-SERIE-B,Número de personas colegiadas en enfermería por cada 10.000 habitantes
 3-c-1-SERIE-C,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes
 3-c-1-SERIE-D,Número de personas colegiadas en farmacia por cada 10.000 habitantes
+4-2-2-SERIE-A,Tasa neta de escolarización a los 5 años
+4-2-2-SERIE-B,Tasa neta de escolarización de los niños de 5 años
+4-2-2-SERIE-C,Tasa neta de escolarización de las niñas de 5 años
 4-3-1-SERIE-A,Proporción de personas entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses
 4-3-1-SERIE-B,Proporción de personas entre 15 y 64 años que han realizado estudios o formación en las últimas cuatro semanas
 4-3-1-SERIE-C,Proporción de personas entre 15 y 24 años que han realizado estudios o formación en las últimas cuatro semanas
 4-3-1-SERIE-D,Proporción de personas entre 25 y 64 años que han realizado estudios o formación en las últimas cuatro semanas
 4-4-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses 
 4-4-1-SERIE-B,Proporción de personas entre 16 y 24 años que han utilizado alguna habilidad informática en los últimos 12 meses 
-4-4-1-SERIE-C,Proporción de personas entre 25 y 74 años  que han utilizado alguna habilidad informática en los últimos 12 meses
+4-4-1-SERIE-C,Proporción de personas entre 25 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses
 4-5-1-SERIE-A,Índice de paridad entre mujeres y hombres de la población entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses 
 4-5-1-SERIE-B,Índice de paridad entre personas pertenecientes a hogares que se encuentran en el nivel de ingresos inferior y superior de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses
 4-5-1-SERIE-C,Índice de paridad entre personas con y sin limitaciones por problemas de salud de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses
 4-5-1-SERIE-D,Índice de paridad entre mujeres y hombres de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas 
 4-5-1-SERIE-E,Índice de paridad entre personas residentes en municipios de 10.000 o menos habitantes y residentes en municipios de más de 10.000 habitantes de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas
+4-6-1-SERIE-A,Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora
+4-6-1-SERIE-B,Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora
+4-6-1-SERIE-C,Proporción de mujeres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora
+4-6-1-SERIE-D,Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas
+4-6-1-SERIE-E,Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas
+4-6-1-SERIE-F,Proporción de mujeres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas
+4-c-1-SERIE-A,Proporción del profesorado de educación preescolar que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
+4-c-1-SERIE-B,Proporción del profesorado de educación primaria que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
+4-c-1-SERIE-C,Proporción del profesorado de educación secundaria inferior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
+4-c-1-SERIE-D,Proporción del profesorado de educación secundaria superior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
 5-3-1-SERIE-A,Proporción de mujeres de 16 y 17 años que han contraído matrimonio con un hombre
 5-4-1-SERIE-A,Tiempo dedicado al hogar y familia en un día promedio
 5-4-1-SERIE-B,Tiempo dedicado por los hombres al hogar y familia en un día promedio
 5-4-1-SERIE-C,Tiempo dedicado por las mujeres al hogar y familia en un día promedio
 5-5-2-SERIE-A,Proporción de mujeres en cargos directivos
 5-5-2-SERIE-B,Proporción de mujeres en alta dirección
+5-5-2-SERIE-C,Proporción de mujeres empresarias
 5-a-1a-SERIE-A,"Proporción de titulares de explotaciones agrícolas, respecto al total de personas trabajadoras en la agricultura"
 5-a-1a-SERIE-B,"Proporción de hombres titulares de explotaciones agrícolas, respecto al total de hombres trabajadores en la agricultura"
 5-a-1a-SERIE-C,"Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de mujeres trabajadoras en la agricultura"
@@ -61,6 +81,11 @@ Indicador,Nombre
 5-b-1-SERIE-A,Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses
 5-b-1-SERIE-B,Proporción de hombres entre 16 y 74 años que han usado el móvil en los últimos tres meses
 5-b-1-SERIE-C,Proporción de mujeres entre 16 y 74 años que han usado el móvil en los últimos tres meses
+6-1-1-SERIE-A,Proporción de personas que reciben suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo
+6-b-1-SERIE-A,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión y el saneamiento de aguas de consumo
+6-b-1-SERIE-B,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño
+7-2-1-SERIE-A,Proporción de energías renovables en la producción de energía eléctrica
+7-3-1-SERIE-A,Consumo de energía eléctrica por unidad de PIB
 8-1-1-SERIE-A,Tasa de crecimiento anual del PIB real per cápita
 8-2-1-SERIE-A,Tasa de crecimiento anual del PIB real por persona empleada
 8-2-1-SERIE-B,Tasa de crecimiento anual del PIB real por hora trabajada
@@ -78,6 +103,9 @@ Indicador,Nombre
 8-6-1-SERIE-A,"Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación"
 8-9-1-SERIE-A,Pernoctaciones en alojamientos turísticos por habitante
 8-9-1-SERIE-B,Proporción de pernoctaciones en alojamientos turísticos en los dos meses de máxima ocupación sobre el total de pernoctaciones
+8-10-2-SERIE-A,Proporción de personas entre 18 y 79 años que tienen una cuenta corriente
+8-b-1-SERIE-A,Gasto de las administraciones públicas autonómicas en fomento del empleo
+8-b-1-SERIE-B,Proporción del gasto de las administraciones públicas autonómicas en fomento del empleo
 9-2-1-SERIE-B,Valor añadido del sector manufacturero per cápita
 9-2-1-SERIE-A,Valor añadido del sector manufacturero en proporción al PIB
 9-2-2-SERIE-A,Proporción de personas ocupadas en el sector manufacturero
@@ -86,6 +114,8 @@ Indicador,Nombre
 9-3-1-SERIE-A,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas
 9-4-1-SERIE-A,Emisiones de CO2 de las unidades residentes por unidad de PIB
 9-4-1-SERIE-B,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero
+9-4-1-SERIE-C,Emisiones de CO2 respecto al año 1990
+9-4-1-SERIE-D,Emisiones de CO2 respecto al año 2005
 9-5-1-SERIE-A,Gastos en investigación y desarrollo en proporción al PIB
 9-5-2-SERIE-A,Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes
 10-1-1-SERIE-A,Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población
@@ -102,11 +132,25 @@ Indicador,Nombre
 11-6-1-SERIE-B,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados
 11-6-1-SERIE-C,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados
 11-6-1-SERIE-D,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados
-12-5-1-SERIE-A,Residuos urbanos recogidos per cápita y día
+12-5-1-SERIE-A,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados
 13-1-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
 13-2-2-SERIE-A,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB
 13-2-2-SERIE-B,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita
+13-2-2-SERIE-C,Emisiones de gases de efecto invernadero respecto al año 1990
+13-2-2-SERIE-D,Emisiones de gases de efecto invernadero respecto al año 2005
+15-1-1-SERIE-A,Superficie de bosque en proporción a la superficie total
+15-2-1-SERIE-A,Superficie forestal con instrumentos de gestión sostenible vigentes
+15-2-1-SERIE-B,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes
 16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
+16-3-2-SERIE-A,Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas
 17-1-1-SERIE-A,Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB 
+17-1-2-SERIE-A,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos
+17-1-2-SERIE-B,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos
+17-3-1-SERIE-A,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo
+17-3-1-SERIE-B,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB
+17-3-1-SERIE-C,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales
+17-3-1-SERIE-D,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB
+17-3-2-SERIE-A,Volumen de remesas enviadas al extranjero en proporción al PIB
+17-3-2-SERIE-B,Volumen de remesas enviadas al extranjero
 17-8-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses
 17-19-2a-SERIE-A,Se ha realizado al menos un censo de población y vivienda en los últimos diez años
