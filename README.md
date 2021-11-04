@@ -75,8 +75,49 @@ source_organisation_N|Organización que provee los datos de la fuente N|Texto
 source_url_N|Enlace a la web de la organización de la fuente N|Texto
 source_url_text_N|Texto que aparecerá como enlace para la web de la fuente N|Texto
 computation_units|Unidad de medida del indicador|Texto entre comillas
+preselected_fields|Series que se mostrarán seleccionadas por defecto en el gráfico del indicador|Objeto. Cada indicador puede contar con múltiples dimensiones. Por ejemplo, una de las dimensiones del indicador podría ser "enfermedad". A su vez, cada dimensión puede contar con múltiples campos. Para la dimensión "enfermedad", los campos serían "Cáncer", "Diabetes", etc. Por defecto, se mostrarán todos los campos de la dimensión. Para cada campo, se puede indicar si se mostrará o no preseleccionado en el gráfico. Para saber cómo establecer estos campos, consulte el apartado "[Cómo preseleccionar campos de una dimensión para mostrar en el gráfico](#cómo-preseleccionar-campos-de-una-dimensión-para-mostrar-en-el-gráfico)" más abajo.
 prev_indicator|Indicador previo. Utilizado para la navegación entre indicadores|Número de indicador con el formato [**\$M-\$O-\$I**](#nombre-de-los-metadatos)
 next_indicator|Indicador siguiente. Utilizado para la navegación entre indicadores|Número de indicador con el formato [**\$M-\$O-\$I**](#nombre-de-los-metadatos)
+
+##### Cómo preseleccionar campos de una dimensión para mostrar en el gráfico
+
+Para marcar por defecto ciertos campos de una dimensión de desagregación para un indicador en concreto, 
+primero es necesario acudir a su ficha de metadatos y añadir la propiedad `preselected_fields` de la siguiente 
+manera:
+
+```markdown
+preselected_fields:
+  - dimension: <DIMENSIÓN DE DESAGREGACIÓN A>
+    fields:
+    - <CAMPO 1>
+    - <CAMPO 2>
+  - dimension: <DIMENSIÓN DE DESAGREGACIÓN B>
+    fields: 
+    - <CAMPO 1>
+    - <CAMPO 2>
+    - <CAMPO 3>
+    - <CAMPO 4>
+```
+
+Por ejemplo:
+
+```markdown
+<!-- Ejemplo del indicador 3-4-1 -->
+preselected_fields:
+  - dimension: DIM_DES.TIPO_ENFERMEDAD
+    fields:
+    - TIPO_ENFERMEDAD.NCD_CNCR
+  - dimension: general.territorio
+    fields:
+    - nuts.ES53
+    - nuts.ES532
+    - nuts.ES533
+    - nuts.ES531_072
+    - nuts.ES531_071
+```
+
+Si una dimensión no figura en el campo `preselected_fields`, entonces todos sus campos estarán marcados (este es el comportamiento por defecto). Al añadir una dimensión, solo se preseleccionarán aquellos campos que figuren en el apartado de `fields`.
+
 
 #### Metadatos de Serie
 
