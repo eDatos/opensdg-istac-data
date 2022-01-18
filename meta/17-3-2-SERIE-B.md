@@ -23,7 +23,7 @@ $VR_{España,p}^{t} =$ volumen de remesas enviadas desde España al país $p$<br
 $P_{16-64,España,p}^{t} =$ población extranjera entre 16 y 64 años del país p residente en España a 1 de enero del año $p$<br>
 $P_{16-64,p}^{t} =$ población extranjera entre 16 y 64 años del país p residente en la comunidad autónoma a 1 de enero del año $p$<br>
 Entonces: <br>
-$$ VR^{t} = \displaystyle \sum_{p \epsilon Países} VR_{España,p}^{t} = \frac{\frac{P_{16-64,p}^{t}+P_{16-64,p}^{t+1}}{2}}{\frac{P_{16-64,España,p}^{t}+P_{16-64,España,p}^{t+1}}{2}} $$
+$$ VR^{t} = \displaystyle \sum_{p \epsilon Países} VR_{España,p}^{t} \cdot \frac{\frac{P_{16-64,p}^{t}+P_{16-64,p}^{t+1}}{2}}{\frac{P_{16-64,España,p}^{t}+P_{16-64,España,p}^{t+1}}{2}} $$
 siendo $Países = \{Colombia, Marruecos, Ecuador, República\;Dominicana, Honduras, Bolivia, Senegal, Paraguay,Pakistán, Rumanía, Resto\;de\;países\}$, debiéndose tener en cuenta que en $P_{16-64,España,Resto\;de\;países}$ y $P_{16-64,Resto\;de\;países}$ no se considera a los países pertenecientes a la Unión Europea.'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Balanza de pagos, Banco de España<br>
