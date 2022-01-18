@@ -17,7 +17,7 @@ definicion: subindicator.6-1-1-SERIE-A-definicion
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 formula_teorica: '$$PPC^{t} = \frac{PC^{t}}{P^{t}} \cdot 100$$ <br>
 donde: <br>
-$PC^{t} =$ PCt población que recibe suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo en el año $t$ <br>
+$PC^{t} =$ población que recibe suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo en el año $t$ <br>
 $P{t} =$ población a 1 de enero del año $t$'
 unidad_medida: Porcentaje
 fuentes_informacion: "Calidad de las aguas de consumo humano, Ministerio de Sanidad"
