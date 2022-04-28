@@ -16,12 +16,13 @@ definicion: subindicator.5-b-1-SERIE-A-definicion
 
 formula_teorica: '$$PPMOV_{16-74}^{t} = \frac{PMOV_{16-74}^{t}}{P_{16-74}^{t}} \cdot 100$$ <br>
 donde: <br>
-$PMOV_{16-74}^{t} =$ población entre 16 y 74 años que en los últimos tres meses ha utilizado el móvil en el año $t$ <br>
+$PMOV_{16-74}^{t} =$ población entre 16 y 74 años que ha utilizado el móvil en el año $t$ <br>
 $P_{16-74}^{t} =$ población entre 16 y 74 años en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta sobre equipamiento y uso de tecnologías de información y comunicación en los hogares, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
-observaciones: "En los años en los que no se publica el indicador es porque en dichos años no se realizan las preguntas que permiten su cálculo"
+observaciones: "En los años en los que no se publica el indicador es porque en dichos años no se realizan las preguntas que permiten su cálculo.<br>
+En los años 2010, 2011 y 2021 el indicador se refiere a si ha utilizado el teléfono móvil. En el resto de años se refiere a si ha utilizado el móvil en los últimos 3 meses."
 
 # Info de Gráficas
 graph_title: subindicator.5-b-1-SERIE-A-graph-title
