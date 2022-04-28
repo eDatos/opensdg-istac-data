@@ -14,10 +14,10 @@ meta_global: global_targets.4-a-title
 objetivo_global: global_goals.4-title
 definicion: subindicator.4-a-1-SERIE-F-definicion
 
-formula_teorica: '$$AMOCENU^{t} = \frac{AMCENU^{t}}{OACENU^{t}} $$ <br>
+formula_teorica: '$$AMOCENU^{t} = \frac{AMCENU^{t}}{OCENU^{t}} $$ <br>
 donde: <br>
 $AMCENU^{t} =$ alumnado matriculado en centros educativos no universitarios en el curso escolar $t-1/t$ <br>
-$OACENU^{t} =$ ordenadores destinados a tareas de enseñanza y aprendizaje en centros educativos no universitarios en el curso
+$OCENU^{t} =$ ordenadores destinados a tareas de enseñanza y aprendizaje en centros educativos no universitarios en el curso
 escolar $t-1/t$'
 unidad_medida: "Personas"
 fuentes_informacion: "Estadística de enseñanzas no universitarias, Ministerio de Educación y Formación Profesional"
