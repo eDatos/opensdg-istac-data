@@ -317,7 +317,7 @@
 16-6-2-graph-title: 
 16-6-2-definition:
 16-7-1-title: "Proporciones de plazas en las instituciones nacionales y locales, entre ellas: a) las asambleas legislativas, b) la administración pública y c) el poder judicial, en comparación con la distribución nacional, desglosadas por sexo, edad, personas con discapacidad y grupos de población"
-16-7-1-graph-title: 
+16-7-1-graph-title: "Ratio de la proporción de plazas ocupadas por mujeres respecto a la proporción de mujeres de 16 a 64 años según institución"
 16-7-1-definition:
 16-7-2-title: "Proporción de la población que considera que la adopción de decisiones es inclusiva y responde a sus necesidades, desglosada por sexo, edad, discapacidad y grupo de población"
 16-7-2-graph-title: 
@@ -485,7 +485,7 @@
 3-4-2-graph-title: "Tasa de mortalidad por suicidio"
 3-4-2-definition:
 3-5-1-title: "Cobertura de los tratamientos(farmacológicos y psicosociales y servicios de rehabilitación y postratamiento) de trastornos por abuso de sustancias adictivas"
-3-5-1-graph-title: 
+3-5-1-graph-title: "Número de admisiones a tratamiento por  abuso o dependencia de sustancias adictivas según tipo de sustancia y sexo"
 3-5-1-definition:
 3-5-2-title: "Consumo de alcohol per cápita (a partir de los 15 años de edad) durante un año civil en litros de alcohol puro"
 3-5-2-graph-title: 
@@ -551,7 +551,7 @@
 4-3-1-graph-title: "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica"
 4-3-1-definition:
 4-4-1-title: "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
-4-4-1-graph-title: "Proporción de personas que han utilizado alguna habilidad informática en los últimos 12 meses según grupos de edad"
+4-4-1-graph-title: "Proporción de personas que han utilizado alguna habilidad informática según grupos de edad"
 4-4-1-definition:
 4-5-1-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
 4-5-1-graph-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
@@ -563,7 +563,7 @@
 4-7-1-graph-title: 
 4-7-1-definition:
 4-a-1-title: "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
-4-a-1-graph-title: 
+4-a-1-graph-title: "Proporción de centros educativos no universitarios que ofrecen servicios básicos según tipo de servicio"
 4-a-1-definition:
 4-b-1-title: "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
 4-b-1-graph-title: 
@@ -611,7 +611,7 @@
 5-a-2-graph-title: 
 5-a-2-definition:
 5-b-1-title: "Proporción de personas que poseen un teléfono móvil, desglosada por sexo"
-5-b-1-graph-title: "Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses según sexo"
+5-b-1-graph-title: "Proporción de personas entre 16 y 74 años que utilizan el teléfono móvil según sexo"
 5-b-1-definition:
 5-c-1-title: "Proporción de países con sistemas para el seguimiento de la igualdad de género y el empoderamiento de las mujeres y la asignación de fondos públicos para ese fin"
 5-c-1-graph-title: 
@@ -707,7 +707,7 @@
 8-8-2-graph-title: 
 8-8-2-definition:
 8-9-1-title: "PIB generado directamente por el turismo en proporción al PIB total y a la tasa de crecimiento"
-8-9-1-graph-title: "Pernoctaciones en alojamientos turísticos"
+8-9-1-graph-title: "Pernoctaciones de turistas"
 8-9-1-definition:
 8-a-1-title: "Compromisos y desembolsos en relación con la iniciativa Ayuda para el Comercio"
 8-a-1-graph-title: 

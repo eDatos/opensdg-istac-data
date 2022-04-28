@@ -15,10 +15,10 @@ definicion: subindicator.9-2-1-SERIE-A-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PPIBVAB_{manufacturero}^{t} = \frac{VAB_{manufacturero}^{t}}{PIB^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PPIBVAB_{manufacturero,2015}^{t} = \frac{VAB_{manufacturero,2015}^{t}}{PIB_{2015}^{t}} \cdot 100$$ <br>
 donde: <br>
-$VAB_{manufacturero}^{t} =$ valor añadido bruto del sector manufacturero a precios corrientes en el año $t$ <br>
-$PIB^{t} =$ producto interior bruto a precios corrientes en el año $t$ '
+$VAB_{manufacturero,2015}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$ <br>
+$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año  $t$'
 unidad_medida: Porcentaje
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
 periodicidad: Anual
@@ -29,7 +29,7 @@ graph_title: subindicator.9-2-1-SERIE-A-graph-title
 graph_type: bar
 
 # Info para las tabs
-# Orden en que se mostrará esta tab...
+# Orden en que se mostrará esta tab
 sort_order: 1
 
 # Nombre que tendrá la tab
