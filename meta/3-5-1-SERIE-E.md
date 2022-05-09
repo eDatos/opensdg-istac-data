@@ -24,7 +24,7 @@ Cifras de población, Instituto Nacional de Estadística (INE)"
 periodicidad: Anual
 observaciones: "Debe tenerse en cuenta que parte de los tratamientos por abuso o dependencia de alcohol se realizan en dispositivos diferentes de la red asistencial de drogas, por lo que este indicador informa sólo sobre parte de los tratamientos por consumo de alcohol que se llevan a cabo en el territorio nacional.<br>
 Se puede producir cierta sobrestimación del indicador a nivel estatal, dado que una misma persona ha podido ser notificada en dos o más comunidades diferentes y no es posible su identificación por motivos de confidencialidad.<br>
-Tratamiento: cualquier intervención realizada por profesionales cualificados para eliminar, reducir o controlar el consumo de drogas.
+Tratamiento: cualquier intervención realizada por profesionales cualificados para eliminar, reducir o controlar el consumo de drogas.<br>
 Ambulatorio: la persona no pernocta en el centro. Este criterio no se aplica a los centros penitenciarios."
 
 # Info de Gráficas

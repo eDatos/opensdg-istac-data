@@ -23,8 +23,8 @@ fuentes_informacion: "Indicadores de consumo de sustancias psicoactivas del Obse
 Cifras de población, Instituto Nacional de Estadística (INE)"
 periodicidad: Anual
 observaciones: "Se puede producir cierta sobrestimación del indicador a nivel estatal, dado que una misma persona ha podido ser notificada en dos o más comunidades diferentes y no es posible su identificación por motivos de confidencialidad.<br>
-Tratamiento: cualquier intervención realizada por profesionales cualificados para eliminar, reducir o controlar el consumo de drogas.
-Ambulatorio: la persona no pernocta en el centro. Este criterio no se aplica a los centros penitenciarios.
+Tratamiento: cualquier intervención realizada por profesionales cualificados para eliminar, reducir o controlar el consumo de drogas.<br>
+Ambulatorio: la persona no pernocta en el centro. Este criterio no se aplica a los centros penitenciarios.<br>
 Drogas ilegales: no se consideran drogas ilegales el alcohol y la nicotina (tabaco)."
 
 # Info de Gráficas
