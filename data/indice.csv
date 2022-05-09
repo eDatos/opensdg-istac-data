@@ -24,6 +24,12 @@ Indicador,Nombre
 3-4-1-SERIE-C,Tasa de mortalidad atribuida a la diabetes
 3-4-1-SERIE-D,Tasa de mortalidad atribuida a las enfermedades respiratorias crónicas
 3-4-2-SERIE-A,Tasa de mortalidad por suicidio
+3-5-1-SERIE-A,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales por cada 100.000 habitantes
+3-5-1-SERIE-B,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de hombres por cada 100.000 hombres
+3-5-1-SERIE-C,Número de admisiones a tratamiento por abuso o dependencia de drogas ilegales de mujeres por cada 100.000 mujeres
+3-5-1-SERIE-D,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes
+3-5-1-SERIE-E,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres
+3-5-1-SERIE-F,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres
 3-6-1-SERIE-A,Tasa de mortalidad por lesiones debidas a accidentes de tráfico
 3-7-1-SERIE-A,"Proporción de mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que cubren sus necesidades de planificación familiar con métodos modernos"
 3-7-2-SERIE-A,Tasa de fecundidad de las adolescentes entre 10 y 14 años por cada 1.000 mujeres de ese grupo de edad
@@ -47,20 +53,26 @@ Indicador,Nombre
 4-3-1-SERIE-B,Proporción de personas entre 15 y 64 años que han realizado estudios o formación en las últimas cuatro semanas
 4-3-1-SERIE-C,Proporción de personas entre 15 y 24 años que han realizado estudios o formación en las últimas cuatro semanas
 4-3-1-SERIE-D,Proporción de personas entre 25 y 64 años que han realizado estudios o formación en las últimas cuatro semanas
-4-4-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses 
-4-4-1-SERIE-B,Proporción de personas entre 16 y 24 años que han utilizado alguna habilidad informática en los últimos 12 meses 
-4-4-1-SERIE-C,Proporción de personas entre 25 y 74 años que han utilizado alguna habilidad informática en los últimos 12 meses
+4-4-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado alguna habilidad informática
+4-4-1-SERIE-B,Proporción de personas entre 16 y 24 años que han utilizado alguna habilidad informática
+4-4-1-SERIE-C,Proporción de personas entre 25 y 74 años que han utilizado alguna habilidad informática
 4-5-1-SERIE-A,Índice de paridad entre mujeres y hombres de la población entre 18 y 64 años que han realizado actividades educativas en los últimos 12 meses 
 4-5-1-SERIE-B,Índice de paridad entre personas pertenecientes a hogares que se encuentran en el nivel de ingresos inferior y superior de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses
 4-5-1-SERIE-C,Índice de paridad entre personas con y sin limitaciones por problemas de salud de la población entre 18 y 64 años que ha realizado actividades educativas en los últimos 12 meses
 4-5-1-SERIE-D,Índice de paridad entre mujeres y hombres de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas 
-4-5-1-SERIE-E,Índice de paridad entre personas residentes en municipios de 10.000 o menos habitantes y residentes en municipios de más de 10.000 habitantes de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas
+4-5-1-SERIE-E,Índice de paridad entre personas residentes en municipios de menos de 10.000 habitantes y residentes en municipios de más de 10.000 habitantes de la población entre 15 y 64 años que ha realizado estudios o formación en las últimas cuatro semanas
 4-6-1-SERIE-A,Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora
 4-6-1-SERIE-B,Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora
 4-6-1-SERIE-C,Proporción de mujeres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de comprensión lectora
 4-6-1-SERIE-D,Proporción de personas entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas
 4-6-1-SERIE-E,Proporción de hombres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas
 4-6-1-SERIE-F,Proporción de mujeres entre 16 y 65 años que han alcanzado al menos el nivel 2 de competencia en la escala de matemáticas
+4-a-1-SERIE-A,Proporción de centros educativos no universitarios con acceso a electricidad
+4-a-1-SERIE-B,Proporción de centros educativos no universitarios con acceso a suministro básico de agua potable
+4-a-1-SERIE-C,Proporción de centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo
+4-a-1-SERIE-D,Proporción de centros educativos no universitarios con acceso a instalaciones básicas para el lavado de manos
+4-a-1-SERIE-E,Proporción de aulas habituales de clase con conexión a Internet en centros educativos no universitarios
+4-a-1-SERIE-F,Alumnado medio por ordenador destinado a tareas de enseñanza y aprendizaje en centros educativos no universitarios
 4-c-1-SERIE-A,Proporción del profesorado de educación preescolar que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
 4-c-1-SERIE-B,Proporción del profesorado de educación primaria que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
 4-c-1-SERIE-C,Proporción del profesorado de educación secundaria inferior que ha recibido al menos la mínima formación docente exigida para impartir enseñanza a ese nivel educativo
@@ -78,9 +90,9 @@ Indicador,Nombre
 5-a-1b-SERIE-A,"Proporción de mujeres titulares de explotaciones agrícolas, respecto al total de titulares de explotaciones agrícolas"
 5-a-1b-SERIE-B,"Proporción de mujeres titulares de explotaciones agrícolas en propiedad, respecto al total de titulares de explotaciones agrícolas en propiedad"
 5-a-1b-SERIE-C,"Proporción de mujeres titulares de explotaciones agrícolas en arrendamiento, respecto al total de titulares de explotaciones agrícolas en arrendamiento"
-5-b-1-SERIE-A,Proporción de personas entre 16 y 74 años que han usado el móvil en los últimos tres meses
-5-b-1-SERIE-B,Proporción de hombres entre 16 y 74 años que han usado el móvil en los últimos tres meses
-5-b-1-SERIE-C,Proporción de mujeres entre 16 y 74 años que han usado el móvil en los últimos tres meses
+5-b-1-SERIE-A,Proporción de personas entre 16 y 74 años que utilizan el teléfono móvil
+5-b-1-SERIE-B,Proporción de hombres entre 16 y 74 años que utilizan el teléfono móvil
+5-b-1-SERIE-C,Proporción de mujeres entre 16 y 74 años que utilizan el teléfono móvil
 6-1-1-SERIE-A,Proporción de personas que reciben suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo
 6-b-1-SERIE-A,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión y el saneamiento de aguas de consumo
 6-b-1-SERIE-B,Proporción de dependencias administrativas locales que han establecido políticas y procedimientos operacionales para la participación de las comunidades locales en la gestión de aguas de baño
@@ -101,8 +113,10 @@ Indicador,Nombre
 8-5-2-SERIE-E,Tasa de desempleo de las personas entre 16 y 64 años con discapacidad
 8-5-2-SERIE-F,Tasa de desempleo de las personas entre 16 y 64 años sin discapacidad
 8-6-1-SERIE-A,"Proporción de jóvenes entre 15 y 24 años que no cursan estudios, no están empleados ni reciben formación"
-8-9-1-SERIE-A,Pernoctaciones en alojamientos turísticos por habitante
-8-9-1-SERIE-B,Proporción de pernoctaciones en alojamientos turísticos en los dos meses de máxima ocupación sobre el total de pernoctaciones
+8-9-1-SERIE-A,Pernoctaciones de turistas por habitante
+8-9-1-SERIE-B,Pernoctaciones de turistas no residentes por habitante
+8-9-1-SERIE-C,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas
+8-9-1-SERIE-D,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes
 8-10-2-SERIE-A,Proporción de personas entre 18 y 79 años que tienen una cuenta corriente
 8-b-1-SERIE-A,Gasto de las administraciones públicas autonómicas en fomento del empleo
 8-b-1-SERIE-B,Proporción del gasto de las administraciones públicas autonómicas en fomento del empleo
@@ -143,6 +157,20 @@ Indicador,Nombre
 15-2-1-SERIE-B,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes
 16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
 16-3-2-SERIE-A,Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas
+16-7-1-SERIE-A,Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-B,Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-C,Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-D,Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-E,Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-F,Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-G,Ratio de la proporción de mujeres en los cuerpos de policía autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-H,Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-I,Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-J,Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-K,Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-L,Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-M,"Ratio de la proporción de mujeres en las diputaciones, cabildos y consejos insulares respecto a la proporción de mujeres en la población entre 16 y 64 años"
+16-7-1-SERIE-N,Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años
 17-1-1-SERIE-A,Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB 
 17-1-2-SERIE-A,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos
 17-1-2-SERIE-B,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos
