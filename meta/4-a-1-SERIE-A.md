@@ -17,7 +17,7 @@ definicion: subindicator.4-a-1-SERIE-A-definicion
 formula_teorica: '$$PCENU_{electricidad}^{t} = \frac{CENU_{electricidad}^{t}}{CENU^{t}} \cdot 100$$ <br>
 donde: <br>
 $CENU_{electricidad}^{t} =$ centros educativos no universitarios con acceso a electricidad en el curso escolar $t-1/t$ <br>
-$CENU_{electricidad}^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$'
+$CENU^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: ""
 periodicidad: "Anual"

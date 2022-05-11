@@ -14,13 +14,13 @@ meta_global: global_targets.16-7-title
 objetivo_global: global_goals.16-title
 definicion: subindicator.16-7-1-SERIE-I-definicion
 
-formula_teorica: '$$RM_{CNUA}^{t} = \frac{PM_{CNUA}^{t}}{PM_{16-64}^{t}}$$ <br>
+formula_teorica: '$$RM_{CENUA}^{t} = \frac{PM_{CENUA}^{t}}{PM_{16-64}^{t}}$$ <br>
 siendo: <br>
-$$PM_{CNUA}^{t} = \frac{P_{CNUA,mujeres}^{t}}{P_{CNUA}^{t}} \cdot 100 $$<br>
+$$PM_{CENUA}^{t} = \frac{P_{CENUA,mujeres}^{t}}{P_{CENUA}^{t}} \cdot 100 $$<br>
 $$PM_{16-64}^{t} = \frac{P_{16-64,mujeres}^{t}}{P_{16-64}^{t}} \cdot 100 $$<br>
 donde: <br>
-$P_{CNUA,mujeres}^{t} =$ mujeres al servicio de los centros educativos no universitarios autonómicos a 1 de enero del año $t$<br>
-$P_{CNUA}^{t} =$ personas al servicio de los centros educativos no universitarios autonómicos a 1 de enero del año $t$<br>
+$P_{CENUA,mujeres}^{t} =$ mujeres al servicio de los centros educativos no universitarios autonómicos a 1 de enero del año $t$<br>
+$P_{CENUA}^{t} =$ personas al servicio de los centros educativos no universitarios autonómicos a 1 de enero del año $t$<br>
 $P_{16-64,mujeres}^{t} =$ mujeres entre 16 y 64 años a 1 de enero del año $t$<br>
 $P_{16-64}^{t} =$ personas entre 16 y 64 años a 1 de enero del año $t$'
 unidad_medida: "Índice"

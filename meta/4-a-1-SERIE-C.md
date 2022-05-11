@@ -17,7 +17,7 @@ definicion: subindicator.4-a-1-SERIE-C-definicion
 formula_teorica: '$$PCENU_{saneamiento}^{t} = \frac{CENU_{saneamiento}^{t}}{CENU^{t}} \cdot 100$$ <br>
 donde: <br>
 $CENU_{saneamiento}^{t} =$ centros educativos no universitarios con acceso a instalaciones de saneamiento básicas separadas por sexo en el curso escolar $t-1/t$ <br>
-$CENU_{saneamiento}^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$'
+$CENU^{t} =$ centros educativos no universitarios en el curso escolar $t-1/t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: ""
 periodicidad: "Anual"

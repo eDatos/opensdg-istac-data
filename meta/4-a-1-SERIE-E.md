@@ -17,7 +17,7 @@ definicion: subindicator.4-a-1-SERIE-E-definicion
 formula_teorica: '$$PACENU_{internet}^{t} = \frac{ACENU_{internet}^{t}}{ACENU^{t}} \cdot 100$$ <br>
 donde: <br>
 $ACENU_{internet}^{t} =$ aulas habituales de clase con conexión a Internet en centros educativos no universitarios en el curso escolar $t-1/t$ <br>
-$ACENU_{internet}^{t} =$ aulas habituales de clase en centros educativos no universitarios en el curso escolar $t-1/t$'
+$ACENU^{t} =$ aulas habituales de clase en centros educativos no universitarios en el curso escolar $t-1/t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Estadística de enseñanzas no universitarias, Ministerio de Educación y Formación Profesional"
 periodicidad: "Anual"
