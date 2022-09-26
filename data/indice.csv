@@ -11,14 +11,89 @@ Indicador,Nombre
 1-4-1-SERIE-B,Proporción de viviendas principales que disponen de cuarto de aseo con inodoro
 1-4-1-SERIE-C,Proporción de viviendas principales que disponen de baño o ducha
 1-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
+1-5-2-SERIE-A,"Indemnizaciones por daños personales, perdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
 1-a-2-SERIE-A,Proporción del gasto de las administraciones públicas autonómicas que se dedica a educación
 1-a-2-SERIE-B,Proporción del gasto de las administraciones públicas autonómicas que se dedica a salud
+10-1-1-SERIE-A,Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población
+10-1-1-SERIE-B,Tasa de crecimiento per cápita de los gastos de los hogares de la población total
+10-1-1-SERIE-C,Tasa de crecimiento per cápita de los ingresos de los hogares del 40% más pobre de la población
+10-1-1-SERIE-D,Tasa de crecimiento per cápita de los ingresos de los hogares de la población total
+10-2-1-SERIE-A,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional"
+10-2-1-SERIE-B,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica"
+10-4-1-SERIE-A,Proporción del PIB generada por el trabajo asalariado
+11-1-1-SERIE-A,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda
+11-1-1-SERIE-B,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior
+11-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
+11-5-2-SERIE-A,"Indemnizaciones por daños personales, perdidas pecuniarias y daños de bienes pagadas y/o provisionadas  en proporción al PIB"
+11-6-1-SERIE-A,Residuos urbanos recogidos per cápita
+11-6-1-SERIE-B,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados
+11-6-1-SERIE-C,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados
+11-6-1-SERIE-D,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados
+12-5-1-SERIE-A,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados
+12-6-1-SERIE-A,Número de licencias de Etiqueta Ecológica Europea
+12-6-1-SERIE-B,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental
+13-1-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
+13-2-2-SERIE-A,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB
+13-2-2-SERIE-B,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita
+13-2-2-SERIE-C,Emisiones de gases de efecto invernadero respecto al año 1990
+13-2-2-SERIE-D,Emisiones de gases de efecto invernadero respecto al año 2005
+15-1-1-SERIE-A,Superficie de bosque en proporción a la superficie total
+15-2-1-SERIE-A,Superficie forestal con instrumentos de gestión sostenible vigentes
+15-2-1-SERIE-B,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes
+16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
+16-2-2-SERIE-A,Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes
+16-2-2-SERIE-B,Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes
+16-2-2-SERIE-C,Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes
+16-2-2-SERIE-D,Número de víctimas detectadas de tráfico de personas para la obtención de órganos por cada 100.000 habitantes
+16-2-2-SERIE-E,"Número de víctimas detectadas de tráfico de personas para otros fines (matrimonios forzados, criminalidad forzada o mendicidad) por cada 100.000 habitantes"
+16-3-2-SERIE-A,Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas
+16-7-1-SERIE-A,Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-B,Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-C,Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-D,Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-E,Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-F,Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-G,Ratio de la proporción de mujeres en los cuerpos de policía autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-H,Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-I,Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-J,Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-K,Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-L,Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-7-1-SERIE-M,"Ratio de la proporción de mujeres en las diputaciones, cabildos y consejos insulares respecto a la proporción de mujeres en la población entre 16 y 64 años"
+16-7-1-SERIE-N,Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años
+16-9-1-SERIE-A,Proporción de menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil
+17-1-1-SERIE-A,Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB 
+17-1-2-SERIE-A,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos
+17-1-2-SERIE-B,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos
+17-18-2-SERIE-A,La legislación autonómica sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales
+17-18-3-SERIE-A,"Se dispone de un plan estadístico autonómico, financiado plenamente con cargo a los Presupuestos Generales de la Comunidad Autónoma, y en fase de aplicación"
+17-19-2a-SERIE-A,Se ha realizado al menos un censo de población y vivienda en los últimos diez años
+17-19-2b-SERIE-A,Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones
+17-3-1-SERIE-A,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo
+17-3-1-SERIE-B,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB
+17-3-1-SERIE-C,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales
+17-3-1-SERIE-D,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB
+17-3-2-SERIE-A,Volumen de remesas enviadas al extranjero
+17-3-2-SERIE-B,Volumen de remesas enviadas al extranjero en proporción al PIB
+17-8-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses
 2-2-2-SERIE-A,"Proporción de menores entre 2 y 17 años con obesidad, sobrepeso o peso insuficiente"
 2-4-1-SERIE-A,Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible
 3-1-1-SERIE-A,Tasa de mortalidad materna
 3-1-2-SERIE-A,Proporción de partos atendidos por personal sanitario especializado
 3-2-1-SERIE-A,Tasa de mortalidad de menores de 5 años
 3-2-2-SERIE-A,Tasa de mortalidad neonatal
+3-3-1-SERIE-A,Incidencia de los nuevos diagnósticos de VIH
+3-3-1-SERIE-B,Incidencia de los nuevos diagnósticos de VIH en los hombres
+3-3-1-SERIE-C,Incidencia de los nuevos diagnósticos de VIH en las mujeres
+3-3-2-SERIE-A,Incidencia de la tuberculosis
+3-3-2-SERIE-B,Incidencia de la tuberculosis en los hombres
+3-3-2-SERIE-C,Incidencia de la tuberculosis en las mujeres
+3-3-3-SERIE-A,Incidencia de la malaria
+3-3-3-SERIE-B,Incidencia de la malaria en los hombres
+3-3-3-SERIE-C,Incidencia de la malaria en las mujeres
+3-3-4-SERIE-A,Incidencia de la hepatitis B
+3-3-4-SERIE-B,Incidencia de la hepatitis B en los hombres
+3-3-4-SERIE-C,Incidencia de la hepatitis B en las mujeres
 3-4-1-SERIE-A,Tasa de mortalidad atribuida a las enfermedades cardiovasculares
 3-4-1-SERIE-B,Tasa de mortalidad atribuida al cáncer
 3-4-1-SERIE-C,Tasa de mortalidad atribuida a la diabetes
@@ -81,6 +156,10 @@ Indicador,Nombre
 5-4-1-SERIE-A,Tiempo dedicado al hogar y familia en un día promedio
 5-4-1-SERIE-B,Tiempo dedicado por los hombres al hogar y familia en un día promedio
 5-4-1-SERIE-C,Tiempo dedicado por las mujeres al hogar y familia en un día promedio
+5-5-1-SERIE-A,Proporción de escaños ocupados por mujeres en los parlamentos autonómicos
+5-5-1-SERIE-B,Porcentaje de consejerías ocupadas por mujeres en los gobiernos autonómicos
+5-5-1-SERIE-C,Porcentaje de alcaldías ocupadas por mujeres en los gobiernos locales
+5-5-1-SERIE-D,Porcentaje de concejalías ocupadas por mujeres en los gobiernos locales
 5-5-2-SERIE-A,Proporción de mujeres en cargos directivos
 5-5-2-SERIE-B,Proporción de mujeres en alta dirección
 5-5-2-SERIE-C,Proporción de mujeres empresarias
@@ -99,6 +178,8 @@ Indicador,Nombre
 7-2-1-SERIE-A,Proporción de energías renovables en la producción de energía eléctrica
 7-3-1-SERIE-A,Consumo de energía eléctrica por unidad de PIB
 8-1-1-SERIE-A,Tasa de crecimiento anual del PIB real per cápita
+8-10-1-SERIE-A,Número de sucursales de bancos comerciales por cada 100.000 habitantes de 15 y más años
+8-10-2-SERIE-A,Proporción de personas entre 18 y 79 años que tienen una cuenta corriente
 8-2-1-SERIE-A,Tasa de crecimiento anual del PIB real por persona empleada
 8-2-1-SERIE-B,Tasa de crecimiento anual del PIB real por hora trabajada
 8-5-1-SERIE-A,Ingreso medio por hora de trabajo
@@ -117,11 +198,10 @@ Indicador,Nombre
 8-9-1-SERIE-B,Pernoctaciones de turistas no residentes por habitante
 8-9-1-SERIE-C,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas
 8-9-1-SERIE-D,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes
-8-10-2-SERIE-A,Proporción de personas entre 18 y 79 años que tienen una cuenta corriente
 8-b-1-SERIE-A,Gasto de las administraciones públicas autonómicas en fomento del empleo
 8-b-1-SERIE-B,Proporción del gasto de las administraciones públicas autonómicas en fomento del empleo
-9-2-1-SERIE-B,Valor añadido del sector manufacturero per cápita
 9-2-1-SERIE-A,Valor añadido del sector manufacturero en proporción al PIB
+9-2-1-SERIE-B,Valor añadido del sector manufacturero per cápita
 9-2-2-SERIE-A,Proporción de personas ocupadas en el sector manufacturero
 9-2-2-SERIE-B,Empleo del sector manufacturero en proporción al empleo total (personas empleadas)
 9-2-2-SERIE-C,Empleo del sector manufacturero en proporción al empleo total (horas trabajadas)
@@ -132,53 +212,5 @@ Indicador,Nombre
 9-4-1-SERIE-D,Emisiones de CO2 respecto al año 2005
 9-5-1-SERIE-A,Gastos en investigación y desarrollo en proporción al PIB
 9-5-2-SERIE-A,Número de personas investigadoras (en equivalente a tiempo completo) por cada millón de habitantes
-10-1-1-SERIE-A,Tasa de crecimiento per cápita de los gastos de los hogares del 40% más pobre de la población
-10-1-1-SERIE-B,Tasa de crecimiento per cápita de los gastos de los hogares de la población total
-10-1-1-SERIE-C,Tasa de crecimiento per cápita de los ingresos de los hogares del 40% más pobre de la población
-10-1-1-SERIE-D,Tasa de crecimiento per cápita de los ingresos de los hogares de la población total
-10-2-1-SERIE-A,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana nacional"
-10-2-1-SERIE-B,"Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, considerando la mediana autonómica"
-10-4-1-SERIE-A,Proporción del PIB generada por el trabajo asalariado
-11-1-1-SERIE-A,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda
-11-1-1-SERIE-B,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior
-11-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
-11-6-1-SERIE-A,Residuos urbanos recogidos per cápita
-11-6-1-SERIE-B,Proporción de residuos municipales incinerados en relación al total de residuos municipales generados y tratados
-11-6-1-SERIE-C,Proporción de residuos municipales vertidos en relación al total de residuos municipales generados y tratados
-11-6-1-SERIE-D,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados
-12-5-1-SERIE-A,Proporción de residuos municipales reciclados en relación al total de residuos municipales generados y tratados
-13-1-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
-13-2-2-SERIE-A,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB
-13-2-2-SERIE-B,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita
-13-2-2-SERIE-C,Emisiones de gases de efecto invernadero respecto al año 1990
-13-2-2-SERIE-D,Emisiones de gases de efecto invernadero respecto al año 2005
-15-1-1-SERIE-A,Superficie de bosque en proporción a la superficie total
-15-2-1-SERIE-A,Superficie forestal con instrumentos de gestión sostenible vigentes
-15-2-1-SERIE-B,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes
-16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
-16-3-2-SERIE-A,Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas
-16-7-1-SERIE-A,Ratio de la proporción de mujeres en el sector público respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-B,Ratio de la proporción de mujeres en el sector público estatal respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-C,Ratio de la proporción de mujeres en las Fuerzas y Cuerpos de Seguridad del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-D,Ratio de la proporción de mujeres en las Fuerzas Armadas respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-E,Ratio de la proporción de mujeres en la Administración de Justicia del Estado respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-F,Ratio de la proporción de mujeres en el sector público autonómico respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-G,Ratio de la proporción de mujeres en los cuerpos de policía autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-H,Ratio de la proporción de mujeres en la Administración de Justicia Autonómica respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-I,Ratio de la proporción de mujeres en los centros educativos no universitarios autonómicos respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-J,Ratio de la proporción de mujeres en las instituciones sanitarias autonómicas respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-K,Ratio de la proporción de mujeres en el sector público local respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-L,Ratio de la proporción de mujeres en los ayuntamientos respecto a la proporción de mujeres en la población entre 16 y 64 años
-16-7-1-SERIE-M,"Ratio de la proporción de mujeres en las diputaciones, cabildos y consejos insulares respecto a la proporción de mujeres en la población entre 16 y 64 años"
-16-7-1-SERIE-N,Ratio de la proporción de mujeres en las universidades respecto a la proporción de mujeres en la población entre 16 y 64 años
-17-1-1-SERIE-A,Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB 
-17-1-2-SERIE-A,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos
-17-1-2-SERIE-B,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos
-17-3-1-SERIE-A,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo
-17-3-1-SERIE-B,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo en proporción al PIB
-17-3-1-SERIE-C,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales
-17-3-1-SERIE-D,Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales en proporción al PIB
-17-3-2-SERIE-A,Volumen de remesas enviadas al extranjero
-17-3-2-SERIE-B,Volumen de remesas enviadas al extranjero en proporción al PIB
-17-8-1-SERIE-A,Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses
-17-19-2a-SERIE-A,Se ha realizado al menos un censo de población y vivienda en los últimos diez años
+9-c-1-SERIE-A,"Proporción de hogares cubiertos con redes móviles 3,5G"
+9-c-1-SERIE-B,Proporción de hogares cubiertos con redes móviles 4G
