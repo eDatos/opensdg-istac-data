@@ -1,15 +1,15 @@
 ---
-target_id: 1.5.2
+target_id: 11.5.2
 reporting_status: complete
 data_non_statistical: false
-indicator_sort_order: 01-05-02-aa
+indicator_sort_order: 11-05-02-aa
 national_geographical_coverage: Canarias
 
-nombre: subindicator.1-5-2-SERIE-A-nombre
-indicador_onu_global: global_indicators.1-5-2-title
-meta_global: global_targets.1-5-title
-objetivo_global: global_goals.1-title
-definicion: subindicator.1-5-2-SERIE-A-definicion
+nombre: subindicator.11-5-2-SERIE-A-nombre
+indicador_onu_global: global_indicators.11-5-2-title
+meta_global: global_targets.11-5-title
+objetivo_global: global_goals.11-title
+definicion: subindicator.11-5-2-SERIE-A-definicion
 
 formula_teorica: '$$INDEMPIB^{t} = \frac{(IDP^{t}+IPP^{t}+IDB^{t})/IUIPC_{refT}^{t}}{PIB^{t}} \cdot 100 \quad \mathrm t=1,\dots,\mathrm T$$ <br>
 $$IUIPC_{refT}^{T} = 1$$ <br>
@@ -28,7 +28,7 @@ Contabilidad regional de España, Instituto Nacional de Estadística (INE)<br>
 periodicidad: Anual
 observaciones: "Las indemnizaciones se asignan al lugar y año de ocurrencia del siniestro, no incluyendo los siniestros ocurridos en el extranjero"
 
-graph_title: subindicator.1-5-2-SERIE-A-graph-title
+graph_title: subindicator.11-5-2-SERIE-A-graph-title
 graph_type: bar
 
 sort_order: 1
