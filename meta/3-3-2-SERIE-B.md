@@ -16,7 +16,7 @@ definicion: subindicator.3-3-2-SERIE-B-definicion
 formula_teorica: '$$TCA_{tuberculosis,hombres}^{t} = \frac{CA_{tuberculosis,hombres}^{t}}{P_{hombres}^{t}} \cdot 100.000$$ <br>
 donde: <br>
 $CA_{tuberculosis,hombres}^{t} =$ casos autóctonos de tuberculosis en hombres notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$ <br>
-$P^{t} =$ hombres a 1 de julio del año $t$'
+$P_{hombres}^{t} =$ hombres a 1 de julio del año $t$'
 unidad_medida: "Tanto por 100.000"
 fuentes_informacion: "Estadística de enfermedades de declaración obligatoria, Ministerio de Ciencia e Innovación<br>
 Cifras de población, Instituto Nacional de Estadística (INE)"

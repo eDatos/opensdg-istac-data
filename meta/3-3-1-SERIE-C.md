@@ -16,7 +16,7 @@ definicion: subindicator.3-3-1-SERIE-C-definicion
 formula_teorica: '$$TND_{VIH,mujeres}^{t} = \frac{ND_{VIH,mujeres}^{t}}{P_{mujeres}^{t}} \cdot 1.000$$ <br>
 donde: <br>
 $ND_{VIH,mujeres}^{t} =$ nuevos diagnósticos de VIH en mujeres notificados al Sistema de Información sobre Nuevos Diagnósticos de VIH (SINIVIH) en el año $t$ <br>
-$P^{t} =$ mujeres a 1 de julio del año $t$'
+$P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$'
 unidad_medida: "Tanto por 1.000"
 fuentes_informacion: "Estadística de enfermedades de declaración obligatoria, Ministerio de Ciencia e Innovación<br>
 Cifras de población, Instituto Nacional de Estadística (INE)"

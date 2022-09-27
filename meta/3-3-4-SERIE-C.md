@@ -16,7 +16,7 @@ definicion: subindicator.3-3-4-SERIE-C-definicion
 formula_teorica: '$$TCA_{hepatitis\, B,mujeres}^{t} = \frac{CA_{hepatitis\, B,mujeres}^{t}}{P_{mujeres}^{t}} \cdot 100.000$$ <br>
 donde: <br>
 $CA_{hepatitis\, B,mujeres}^{t} =$ casos autóctonos de hepatitis B en mujeres notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$ <br>
-$P^{t} =$ mujeres a 1 de julio del año $t$'
+$P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$'
 unidad_medida: "Tanto por 100.000"
 fuentes_informacion: "Estadística de enfermedades de declaración obligatoria, Ministerio de Ciencia e Innovación<br>
 Cifras de población, Instituto Nacional de Estadística (INE)"

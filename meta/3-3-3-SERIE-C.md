@@ -13,8 +13,8 @@ definicion: subindicator.3-3-3-SERIE-C-definicion
 
 formula_teorica: '$$TCA_{malaria,mujeres}^{t} = \frac{CA_{malaria,mujeres}^{t}}{P_{mujeres}^{t}} \cdot 1.000$$ <br>
 donde: <br>
-$CA_{malaria,mujeres}^{t} =$ nuevos diagnósticos de VIH en mujeres notificados al Sistema de Información sobre Nuevos Diagnósticos de VIH (SINIVIH) en el año $t$ <br>
-$P^{t} =$ mujeres a 1 de julio del año $t$'
+$CA_{malaria,mujeres}^{t} =$ casos autóctonos de malaria en mujeres notificados a la Red Nacional de Vigilancia Epidemiológica (RENAVE) en el año $t$ <br>
+$P_{mujeres}^{t} =$ mujeres a 1 de julio del año $t$'
 unidad_medida: "Tanto por 1.000"
 fuentes_informacion: "Estadística de enfermedades de declaración obligatoria, Ministerio de Ciencia e Innovación<br>
 Cifras de población, Instituto Nacional de Estadística (INE)"
