@@ -14,7 +14,7 @@ meta_global: global_targets.17-18-title
 objetivo_global: global_goals.18-title
 definicion: subindicator.17-18-2-SERIE-A-definicion
 
-formula_teorica: '$$LAPFEO^{t} = \begin{cases} 1 & \text{Sí cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \\ 2 & \text{No cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \end{cases} $$'
+formula_teorica: '$$LAPFEO^{t} = \begin{cases} 1 & \text{Sí cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \\ 0 & \text{No cumple los Principios Fundamentales de las Estadísticas Oficiales en el año 𝑡} \end{cases} $$'
 unidad_medida: "Lógica"
 fuentes_informacion: ""
 periodicidad: "Anual"

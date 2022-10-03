@@ -14,7 +14,7 @@ meta_global: global_targets.17-19-title
 objetivo_global: global_goals.17-title
 definicion: subindicator.17-19-2b-SERIE-A-definicion
 
-formula_teorica: '$$RND^{t} = \begin{cases} 1 & \text{Sí se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones del año t} \\ 2 & \text{No se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones del año t} \end{cases} $$'
+formula_teorica: '$$RND^{t} = \begin{cases} 1 & \text{Sí se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones del año t} \\ 0 & \text{No se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones del año t} \end{cases} $$'
 unidad_medida: "Lógica"
 fuentes_informacion: ""
 periodicidad: "Anual"
