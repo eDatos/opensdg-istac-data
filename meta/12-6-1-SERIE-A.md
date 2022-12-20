@@ -14,9 +14,9 @@ meta_global: global_targets.12-6-title
 objetivo_global: global_goals.12-title
 definicion: subindicator.12-6-1-SERIE-A-definicion
 
-formula_teorica: '$$NLEEE_{t}$$ <br>
+formula_teorica: '$$NLEEE^{t}$$ <br>
 donde: <br>
-$NLEEE_{t}$ número de licencias de Etiqueta Ecológica Europea en el año $t$'
+$NLEEE^{t}$ número de licencias de Etiqueta Ecológica Europea en el año $t$'
 unidad_medida: "Licencias"
 fuentes_informacion: "Consejería de Medio Ambiente"
 periodicidad: "Anual"

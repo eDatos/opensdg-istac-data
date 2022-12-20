@@ -21,7 +21,7 @@ $H^{t} =$ hogares en el año $t$ <br>'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Cobertura de banda ancha en España, Ministerio de Asuntos Económicos y Transformación Digital"
 periodicidad: "Anual"
-observaciones: 
+observaciones: "La serie no se calcula a partir del año 2021 debido a la amplia implantación de esta tecnología"
 
 # Info de Gráficas
 graph_title: subindicator.9-c-1-SERIE-A-graph-title

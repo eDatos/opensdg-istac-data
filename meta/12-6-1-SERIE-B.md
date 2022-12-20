@@ -14,9 +14,9 @@ meta_global: global_targets.12-6-title
 objetivo_global: global_goals.12-title
 definicion: subindicator.12-6-1-SERIE-B-definicion
 
-formula_teorica: '$$NOEMAS_{t}$$ <br>
+formula_teorica: '$$NOEMAS^{t}$$ <br>
 donde: <br>
-$NOEMAS_{t}$ número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental en el año $t$'
+$NOEMAS^{t}$ número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental en el año $t$'
 unidad_medida: "Organizaciones"
 fuentes_informacion: "Consejería de Medio Ambiente"
 periodicidad: "Anual"
