@@ -15,10 +15,10 @@ definicion: subindicator.1-2-2-SERIE-D-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PPBIT^{t} = \frac{PBIT_{0-59}^{t}}{P_{0-59}^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PPBIT^{t} = \frac{PBIT_{0-64}^{t}}{P_{0-64}^{t}} \cdot 100$$ <br>
 donde: <br>
-$PBIT_{0-59}^{t} =$ población entre 0 y 59 años perteneciente a hogares sin empleo o con baja intensidad en el empleo en el año $t$ <br>
-$P_{0-59}^{t} =$ población entre 0 y 59 años en el año  $t$'
+$PBIT_{0-64}^{t} =$ población entre 0 y 64 años perteneciente a hogares sin empleo o con baja intensidad en el empleo en el año $t$ <br>
+$P_{0-64}^{t} =$ población entre 0 y 64 años en el año  $t$'
 unidad_medida: Porcentaje
 fuentes_informacion: Encuesta de condiciones de vida, Instituto Nacional de Estadística (INE)
 periodicidad: Anual
