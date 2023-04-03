@@ -19,7 +19,7 @@ donde: <br>
 $CAR_{bebidas\, destiladas}^{t} =$ consumo de alcohol registrado en bebidas destiladas en el año $t$ <br>
 $CAR_{vino}^{t} =$ consumo de alcohol registrado en vino en el año $t$ <br>
 $CAR_{cerveza}^{t} =$ consumo de alcohol registrado en cerveza en el año $t$ <br>
-$P_{15+}^{t} =$ población de 25 años en el año $t$'
+$P_{15+}^{t} =$ población de 15 y más años a 1 de julio del año $t$'
 unidad_medida: "Litros de alcohol puro"
 fuentes_informacion: "Informes anuales de recaudación tributaria, Ministerio de Hacienda y Función Pública<br>
 Encuesta de presupuestos familiares, Instituto Nacional de Estadística (INE)<br>

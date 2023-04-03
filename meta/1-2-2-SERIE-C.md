@@ -23,21 +23,23 @@ unidad_medida: Porcentaje
 fuentes_informacion: Encuesta de condiciones de vida, Instituto Nacional de Estadística (INE)
 periodicidad: Anual
 observaciones: "Las limitaciones consideradas en la determinación de la carencia material y social severa (siete definidas a nivel de hogar y seis a nivel de persona) son:<br>
-A nivel de hogar:<br>
-  1. No puede permitirse ir de vacaciones al menos una semana al año.<br>
-  2. No puede permitirse una comida de carne, pollo o pescado al menos cada dos días.<br>
-  3. No puede permitirse mantener la vivienda con una temperatura adecuada.<br>
-  4. No tiene capacidad para afrontar gastos imprevistos.<br>
-  5. Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibos de gas, comunidad...) o en compras a plazos en los últimos 12 meses.
-  6. No puede permitirse disponer de un automóvil.<br>
-  7. No puede sustituir muebles estropeados o viejos.<br>
+<br>
+A nivel de hogar: <br>
+&emsp; 1. No puede permitirse ir de vacaciones al menos una semana al año.<br>
+&emsp; 2. No puede permitirse una comida de carne, pollo o pescado al menos cada dos días.<br>
+&emsp; 3. No puede permitirse mantener la vivienda con una temperatura adecuada.<br>
+&emsp; 4. No tiene capacidad para afrontar gastos imprevistos.<br>
+&emsp; 5. Ha tenido retrasos en el pago de gastos relacionados con la vivienda principal (hipoteca o alquiler, recibos de gas, comunidad...) o en compras a plazos en los últimos 12 meses.
+&emsp; 6. No puede permitirse disponer de un automóvil.<br>
+&emsp; 7. No puede sustituir muebles estropeados o viejos.<br>
+<br>
 A nivel de persona:<br>
-  8. No puede permitirse sustituir ropa estropeada por otra nueva.<br>
-  9. No puede permitirse tener dos pares de zapatos en buenas condiciones.<br>
- 10. No puede permitirse reunirse con amigos/familia para comer o tomar algo al menos una vez al mes.<br>
- 11. No puede permitirse participar regularmente en actividades de ocio.<br>
- 12. No puede permitirse gastar una pequeña cantidad de dinero en sí mismo.<br>
- 13. No puede permitirse conexión a internet.<br>
+&emsp; 8. No puede permitirse sustituir ropa estropeada por otra nueva.<br>
+&emsp; 9. No puede permitirse tener dos pares de zapatos en buenas condiciones.<br>
+&emsp; 10. No puede permitirse reunirse con amigos/familia para comer o tomar algo al menos una vez al mes.<br>
+&emsp; 11. No puede permitirse participar regularmente en actividades de ocio.<br>
+&emsp; 12. No puede permitirse gastar una pequeña cantidad de dinero en sí mismo.<br>
+&emsp; 13. No puede permitirse conexión a internet.<br>
 En el caso de menores de 16 años no se dispone de los seis conceptos enumerados anteriormente a nivel de persona. Para estos menores los valores de esos elementos se imputan a partir de los valores recogidos para los miembros de su hogar con 16 o más años."
 
 # Info de Gráficas
