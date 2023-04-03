@@ -5,7 +5,7 @@ Indicador,Nombre
 1-2-1-SERIE-D,"Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral autonómico de pobreza"
 1-2-2-SERIE-A,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral nacional de pobreza"
 1-2-2-SERIE-B,"Proporción de personas en riesgo de pobreza o exclusión social: indicador AROPE, considerando el umbral autonómico de pobreza"
-1-2-2-SERIE-C,Proporción de personas viviendo en hogares con carencia material severa
+1-2-2-SERIE-C,Proporción de personas en situación de carencia material y social severa
 1-2-2-SERIE-D,Proporción de personas viviendo en hogares con baja intensidad de trabajo
 1-4-1-SERIE-A,Proporción de viviendas principales con acceso a agua corriente
 1-4-1-SERIE-B,Proporción de viviendas principales que disponen de cuarto de aseo con inodoro
@@ -23,6 +23,7 @@ Indicador,Nombre
 10-4-1-SERIE-A,Proporción del PIB generada por el trabajo asalariado
 11-1-1-SERIE-A,Proporción de personas que viven en hogares con determinadas deficiencias en la vivienda
 11-1-1-SERIE-B,Proporción de personas que en su vivienda sufren problemas de ruidos procedentes del vecindario o del exterior
+11-3-2-SERIE-A,Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbana que funcione con regularidad y democráticamente
 11-5-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
 11-5-2-SERIE-A,"Indemnizaciones por daños personales, perdidas pecuniarias y daños de bienes pagadas y/o provisionadas  en proporción al PIB"
 11-6-1-SERIE-A,Residuos urbanos recogidos per cápita
@@ -40,6 +41,7 @@ Indicador,Nombre
 15-1-1-SERIE-A,Superficie de bosque en proporción a la superficie total
 15-2-1-SERIE-A,Superficie forestal con instrumentos de gestión sostenible vigentes
 15-2-1-SERIE-B,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes
+15-8-1-SERIE-A,Se dispone de legislación pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras
 16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
 16-2-2-SERIE-A,Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes
 16-2-2-SERIE-B,Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes
@@ -105,6 +107,7 @@ Indicador,Nombre
 3-5-1-SERIE-D,Número de admisiones a tratamiento por abuso o dependencia de alcohol por cada 100.000 habitantes
 3-5-1-SERIE-E,Número de admisiones a tratamiento por abuso o dependencia de alcohol de hombres por cada 100.000 hombres
 3-5-1-SERIE-F,Número de admisiones a tratamiento por abuso o dependencia de alcohol de mujeres por cada 100.000 mujeres
+3-5-2-SERIE-A,Consumo anual de alcohol registrado en litros de alcohol puro por persona de 15 y más años
 3-6-1-SERIE-A,Tasa de mortalidad por lesiones debidas a accidentes de tráfico
 3-7-1-SERIE-A,"Proporción de mujeres entre 18 y 49 años, casadas con un hombre o con pareja masculina, que cubren sus necesidades de planificación familiar con métodos modernos"
 3-7-2-SERIE-A,Tasa de fecundidad de las adolescentes entre 10 y 14 años por cada 1.000 mujeres de ese grupo de edad
@@ -121,6 +124,12 @@ Indicador,Nombre
 3-c-1-SERIE-B,Número de personas colegiadas en enfermería por cada 10.000 habitantes
 3-c-1-SERIE-C,Número de personas colegiadas en odontología y estomatología por cada 10.000 habitantes
 3-c-1-SERIE-D,Número de personas colegiadas en farmacia por cada 10.000 habitantes
+4-1-1-SERIE-A,Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura
+4-1-1-SERIE-B,Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura
+4-1-1-SERIE-C,Proporción de mujeres de 15 años que han alcanzado al menos el nivel 2 de competencia en lectura
+4-1-1-SERIE-D,Proporción de personas de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas
+4-1-1-SERIE-E,Proporción de hombres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas
+4-1-1-SERIE-F,Proporción de mujeres de 15 años que han alcanzado al menos el nivel 2 de competencia en matemáticas
 4-2-2-SERIE-A,Tasa neta de escolarización a los 5 años
 4-2-2-SERIE-B,Tasa neta de escolarización de los niños de 5 años
 4-2-2-SERIE-C,Tasa neta de escolarización de las niñas de 5 años
