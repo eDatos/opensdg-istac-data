@@ -3,7 +3,7 @@
 target_id: 2.4.1
 reporting_status: complete
 data_non_statistical: false
-indicator_sort_order: 02-04-01-01
+indicator_sort_order: 02-04-01-aa
 national_geographical_coverage: Canarias
 
 # Info de Subindicador
@@ -30,7 +30,7 @@ graph_type: bar
 
 # Info para las tabs
 sort_order: 1
-tab_name: 
+tab_name: Serie A
 
 #Coordinación con OCECAS
 coordinado_con_ocecas: true
