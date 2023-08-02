@@ -24,7 +24,8 @@ $P_{16-64,España,p}^{t} $ población extranjera entre 16 y 64 años del país $
 $P_{16-64,p}^{t} $ población extranjera entre 16 y 64 años del país $p$ residente en la comunidad autónoma a 1 de enero del año $t$ <br>
 entonces: <br>
 $$VR^{t} = \sum_{p \in Países} VR_{España,p}^{t} \cdot \frac{\frac{P_{16-64,p}^{t}+P_{16-64,p}^{t+1}}{2}}{\frac{P_{16-64,España,p}^{t}+P_{16-64,España,p}^{t+1}}{2}}$$ <br>
-siendo $Países = {Rumanía, Marruecos, Senegal, Bolivia, Colombia, Ecuador, Honduras, Nicaragua, Paraguay, Perú, República Dominicana, Pakistán, Resto de países}$, debiéndose tener en cuenta que en $P_{16-64,España,Resto de países}^{t}$ y $P_{16-64,Resto de países}^{t}$ no se considera a los países pertenecientes a la Unión Europea.'
+siendo $Países = {Rumanía, Marruecos, Senegal, Bolivia, Colombia, Ecuador, Honduras,$
+$Nicaragua, Paraguay, Perú, República Dominicana, Pakistán, Resto\, de\, países}$, debiéndose tener en cuenta que en $P_{16-64,España,Resto de países}^{t}$ y $P_{16-64,Resto de países}^{t}$ no se considera a los países pertenecientes a la Unión Europea.'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Balanza de pagos, Banco de España<br>
 Estadística del Padrón continuo, Instituto Nacional de Estadística (INE)<br>
