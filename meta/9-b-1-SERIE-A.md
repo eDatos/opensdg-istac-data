@@ -14,9 +14,9 @@ meta_global: global_targets.9-b-title
 objetivo_global: global_goals.9-title
 definicion: subindicator.9-b-1-SERIE-A-definicion
 
-formula_teorica: '$$PVAB_{manufacturero,media-alta y alta}^{t} = \frac{VAB_{manufacturero,media-alta y alta}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$ <br>
+formula_teorica: '$$PVAB_{manufacturero,media-alta\, y\, alta}^{t} = \frac{VAB_{manufacturero,media-alta\, y\, alta}^{t}}{VAB_{manufacturero}^{t}} \cdot 100$$ <br>
 donde: <br>
-$VAB_{manufacturero,media-alta y alta}^{t} $ valor añadido bruto correspondiente a las actividades manufactureras de media-alta y alta tecnología en el año $t$<br>
+$VAB_{manufacturero,media-alta\, y\, alta}^{t} $ valor añadido bruto correspondiente a las actividades manufactureras de media-alta y alta tecnología en el año $t$<br>
 $VAB_{manufacturero}^{t} $ valor añadido bruto total del sector manufacturero en el año $t$ <br>'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Estadística estructural de empresas: sector industrial, Instituto Nacional de Estadística (INE)"
