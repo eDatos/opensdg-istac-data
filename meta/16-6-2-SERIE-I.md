@@ -1,6 +1,6 @@
 ---
 # Info genérica
-target_id: 16.6.1
+target_id: 16.6.2
 reporting_status: complete
 data_non_statistical: false
 indicator_sort_order: 16-06-02-ii
