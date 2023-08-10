@@ -17,7 +17,7 @@ definicion: subindicator.17-13-1-SERIE-C-definicion
 formula_teorica: '$$TVIPC^{t} = \left(\frac{IPC^{t}}{IPC^{t-1}} - 1 \right) \cdot 100$$ <br>
 donde: <br>
 $IPC^{t} $ indice de precios de consumo del año $t$<br>
-$IPC^{t-1} $ indice de precios de consumo del año $t$'
+$IPC^{t-1} $ indice de precios de consumo del año $t-1$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Índice de precios de consumo, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"

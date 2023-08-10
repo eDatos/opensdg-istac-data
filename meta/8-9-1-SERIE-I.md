@@ -20,7 +20,7 @@ $PO_{cultural,mujeres}^{t}$ mujeres ocupadas en el sector cultural en el año $t
 $PO_{mujeres}^{t}$ mujeres ocupadas en el año $t$ <br>
 teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año.'
 unidad_medida: "Porcentaje"
-fuentes_informacion: "Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE)"
+fuentes_informacion: "Encuesta de población activa, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
 observaciones: "Se considera que una persona está ocupada en el sector cultural si su actividad según la CNAE-2009 corresponde al código 181, 182, 264, 268, 322, 581, 591, 592, 601, 602, 741, 742, 743, 900 o 910 o si su ocupación según la CNO-2011 corresponde al código 245, 248, 291, 292, 293, 373, 383, 421, 761 o 762"
 
