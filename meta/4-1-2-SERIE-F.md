@@ -16,7 +16,7 @@ definicion: subindicator.4-1-2-SERIE-F-definicion
 
 formula_teorica: '$$PPCINE3_{20-22,mujeres}^{t} = \frac{PCINE3_{20-22,mujeres}^{t}}{P_{20-22,mujeres}^{t}} \cdot 100$$ <br>
 donde: <br>
-$PCINE3_{20-22,mujeres}^{t} $ mujeres entre 20 y 22 años que han completado al menos la primera etapa de enseñanza secundaria (CINE 3) en el año $t$<br>
+$PCINE3_{20-22,mujeres}^{t} $ mujeres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria (CINE 3) en el año $t$<br>
 $P_{20-22,mujeres}^{t} $ mujeres entre 20 y 22 años en el año $t$ <br>
 teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año.'
 unidad_medida: "Porcentaje"
