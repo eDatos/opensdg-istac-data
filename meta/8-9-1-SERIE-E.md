@@ -14,10 +14,12 @@ meta_global: global_targets.8-9-title
 objetivo_global: global_goals.8-title
 definicion: subindicator.8-9-1-SERIE-E-definicion
 
-formula_teorica: '$$PPERN_{2\, meses \, max}^{t} = \frac{PERN_{2\, meses \, max}^{t}}{PERN^{t}} \cdot 100 $$ <br>
+formula_teorica: '$$PGVCORV^{t} = \frac{GVC_{nacional}^{t}+GVC_{extranjero}^{t}}{GVORV_{nacional}^{t} + GVORV_{extranjero}^{t}} \cdot 100 $$ <br>
 donde: <br>
-$PERN_{2\, meses \, max}^{t} =$ pernoctaciones de turistas residentes y no residentes en los dos meses de máxima ocupación del año $t$ <br>
-$PERN^{t} =$ pernoctaciones de turistas residentes y no residentes en el año $t$'
+$GVC_{nacional}^{t}$ gasto en viajes realizados por motivos culturales de turistas de origen nacional en el año $t$ <br>
+$GVC_{extranjero}^{t}$ gasto en viajes realizados por motivos culturales de turistas de origen extranjero en el año $t$ <br>
+$GVORV_{nacional}^{t}$ gasto en viajes por ocio, recreo y vacaciones de turistas de origen nacional en el año $t$ <br>
+$GVORV_{extranjero}^{t}$ gasto en viajes por ocio, recreo y vacaciones de turistas de origen extranjero en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta de turismo de residentes, Instituto Nacional de Estadística (INE)<br>
 Encuesta de gasto turístico, Instituto Nacional de Estadística (INE)"

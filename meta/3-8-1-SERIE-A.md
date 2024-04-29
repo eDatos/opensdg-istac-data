@@ -16,7 +16,7 @@ definicion: subindicator.3-8-1-SERIE-A-definicion
 
 formula_teorica: '$$PPNIAM_{16+}^{t} = \frac{PNIAM_{16+}^{t}}{P_{16+}^{t}} \cdot 100$$ <br>
 donde: <br>
-$PPNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$ <br>
+$PNIAM_{16+}^{t} =$ población de 16 y más años que indica necesidades insatisfechas de atención médica en el año $t$ <br>
 $P_{16+}^{t} =$ población de 16 y más años en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta de condiciones de vida, Instituto Nacional de Estadística (INE)"
@@ -29,7 +29,7 @@ graph_type: bar
 
 # Info de navegación
 sort_order: 1
-tab_name: 
+tab_name: Serie A
 
 #Coordinación con OCECAS
 coordinado_con_ocecas: true

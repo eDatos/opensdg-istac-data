@@ -16,8 +16,8 @@ definicion: subindicator.17-13-1-SERIE-A-definicion
 
 formula_teorica: '$$TVPIB^{t} = \left(\frac{PIB_{2015}^{t}}{PIB_{2015}^{t-1}} - 1 \right) \cdot 100$$ <br>
 donde: <br>
-$PIB_{2015}^{t} $ valor añadido bruto correspondiente a las actividades manufactureras de media-alta y alta tecnología en el año $t$<br>
-$PIB_{2015}^{t-1} $ valor añadido bruto total del sector manufacturero en el año $t$'
+$PIB_{2015}^{t} $ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$<br>
+$PIB_{2015}^{t-1} $ producto interior bruto en volumen encadenado con referencia 2015 en el año  $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
