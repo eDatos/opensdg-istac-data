@@ -17,7 +17,7 @@ definicion: subindicator.16-1-4-SERIE-A-definicion
 formula_teorica: '$$PPSSC_{16+}^{t} = \frac{PSSC_{16+}^{t}}{P_{16+}^{t}} \cdot 100$$ <br>
 donde: <br>
 $PSSC_{16+}^{t} =$ población de 16 y más años que se siente segura (muy o bastante segura) al caminar sola en su zona de residencia en el año $t$ <br>
-$P^{t} =$ población de 16 y más años en el año $t$'
+$P_{16+}^{t} =$ población de 16 y más años en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta de condiciones de vida, Instituto Nacional de Estadística (INE)"
 periodicidad: "Irregular"
@@ -29,7 +29,7 @@ graph_type: bar
 
 # Info de navegación
 sort_order: 1
-tab_name:
+tab_name: Serie A
 
 #Coordinación con OCECAS
 coordinado_con_ocecas: true
