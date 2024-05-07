@@ -166,9 +166,9 @@ Indicador,Nombre
 5-4-1-SERIE-B,Tiempo dedicado por los hombres al hogar y familia en un día promedio
 5-4-1-SERIE-C,Tiempo dedicado por las mujeres al hogar y familia en un día promedio
 5-5-1-SERIE-A,Proporción de escaños ocupados por mujeres en los parlamentos autonómicos
-5-5-1-SERIE-B,Porcentaje de consejerías ocupadas por mujeres en los gobiernos autonómicos
-5-5-1-SERIE-C,Porcentaje de alcaldías ocupadas por mujeres en los gobiernos locales
-5-5-1-SERIE-D,Porcentaje de concejalías ocupadas por mujeres en los gobiernos locales
+5-5-1-SERIE-B,Proporción de consejerías ocupadas por mujeres en los gobiernos autonómicos
+5-5-1-SERIE-C,Proporción de alcaldías ocupadas por mujeres en los gobiernos locales
+5-5-1-SERIE-D,Proporción de concejalías ocupadas por mujeres en los gobiernos locales
 5-5-2-SERIE-A,Proporción de mujeres en cargos directivos
 5-5-2-SERIE-B,Proporción de mujeres en alta dirección
 5-5-2-SERIE-C,Proporción de mujeres empresarias
@@ -235,8 +235,8 @@ Indicador,Nombre
 4-1-2-SERIE-D,Proporción de personas entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria
 4-1-2-SERIE-E,Proporción de hombres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria
 4-1-2-SERIE-F,Proporción de mujeres entre 20 y 22 años que han completado al menos la segunda etapa de enseñanza secundaria
-8-9-1-SERIE-C,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones"
-8-9-1-SERIE-D,Proporción del gasto en viajes culturales sobre el gasto en viajes
+8-9-1-SERIE-E,"Proporción del gasto en viajes culturales sobre el gasto en viajes por ocio, recreo y vacaciones"
+8-9-1-SERIE-F,Proporción del gasto en viajes culturales sobre el gasto en viajes
 8-9-1-SERIE-E,Proporción de pernoctaciones de turistas en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas
 8-9-1-SERIE-F,Proporción de pernoctaciones de turistas no residentes en los dos meses de máxima ocupación sobre el total de pernoctaciones de turistas no residentes
 8-9-1-SERIE-G,Proporción de personas ocupadas en el sector cultural sobre el total de personas ocupadas
@@ -248,7 +248,7 @@ Indicador,Nombre
 11-4-1-SERIE-C,"Gasto per cápita de las administraciones públicas locales en la preservación, protección y conservación del patrimonio cultural"
 11-6-2-SERIE-A,Nivel medio de PM10 en las ciudades ponderado según la población
 11-6-2-SERIE-B,"Nivel medio de PM2,5 en las ciudades ponderado según la población"
-12-1-1-SERIE-A,"Se elabora, adopta o aplica instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
+12-1-1-SERIE-A,"Se elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
 16-6-2-SERIE-A,Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos
 16-6-2-SERIE-B,Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de enseñanza
 16-6-2-SERIE-C,Proporción de la población que se siente satisfecha con el funcionamiento de los servicios públicos en materia de asistencia sanitaria
@@ -271,3 +271,16 @@ Indicador,Nombre
 17-13-1-SERIE-E,Deuda bruta de las administraciones públicas autonómicas según el protocolo de déficit excesivo en proporción al PIB
 17-13-1-SERIE-F,Ingresos fiscales de las administraciones públicas autonómicas en proporción al PIB
 17-13-1-SERIE-G,Saldo fiscal de las administraciones públicas autonómicas en proporción al PIB
+3-8-1-SERIE-B,Proporción de personas de 16 y más años con estado de salud percibido bueno o muy bueno
+5-1-1-SERIE-A,"Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: marco legal global y vida pública"
+5-1-1-SERIE-B,"Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: violencia contra la mujer"
+5-1-1-SERIE-C,"Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: empleo y subsidios económicos"
+5-1-1-SERIE-D,"Existencia de marcos jurídicos para promover, reforzar y supervisar la igualdad de género: matrimonio y familia"
+5-a-2-SERIE-A,Grado en que el marco jurídico garantiza la igualdad de derechos de la mujer a la propiedad o el control de tierras
+9-4-1-SERIE-E,Emisiones de PM10 por unidad de valor añadido del sector manufacturero
+9-4-1-SERIE-F,"Emisiones de PM2,5 por unidad de valor añadido del sector manufacturero"
+10-7-4-SERIE-A,Número de personas refugiadas por cada 100.000 habitantes
+11-a-1-SERIE-A,Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico
+16-1-4-SERIE-B,Proporción de personas que viven en una zona con problemas de delincuencia o vandalismo
+16-6-1-SERIE-A,Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas autonómicas
+16-6-1-SERIE-B,Gasto liquidado en proporción al gasto inicial de los presupuestos de las administraciones públicas locales
