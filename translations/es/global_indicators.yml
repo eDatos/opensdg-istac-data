@@ -35,9 +35,6 @@
 1-a-2-definition:
 1-a-2-graph-title: "Proporción del gasto de las administraciones públicas autonómicas que se dedica a servicios esenciales" 
 1-a-2-title: "Proporción del gasto público total que se dedica a servicios esenciales (educación, salud y protección social)"
-1-a-3-definition:
-1-a-3-graph-title: 
-1-a-3-title: "Suma del total de las subvenciones y asignaciones no generadoras de deuda dedicadas directamente a programas de reducción de la pobreza en proporción al PIB"
 1-b-1-definition:
 1-b-1-graph-title: 
 1-b-1-title: "Gasto público social en favor de los pobres"
@@ -64,13 +61,13 @@
 10-6-1-title: "Proporción de miembros y derechos de voto de los países en desarrollo en organizaciones internacionales"
 10-7-1-definition:
 10-7-1-graph-title: 
-10-7-1-title: "Costo de la contratación sufragado por el empleado en proporción a los ingresos anuales percibidos en el país de destino"
+10-7-1-title: "Costo de la contratación sufragado por el empleado en proporción a los ingresos mensuales percibidos en el país de destino"
 10-7-2-definition:
 10-7-2-graph-title: 
-10-7-2-title: "Número de países que han aplicado políticas migratorias bien gestionadas que facilitan la migración y la movilidad ordenadas, seguras, regulares y responsables de las personas"
+10-7-2-title: "Proporción de países que han aplicado políticas migratorias bien gestionadas que facilitan la migración y la movilidad ordenadas, seguras, regulares y responsables de las personas"
 10-7-3-definition:
 10-7-3-graph-title: 
-10-7-3-title: "Número de personas que murieron o desaparecieron en el proceso de migración hacia un destino internacional"
+10-7-3-title: "Número de personas muertas o desaparecidas en el proceso de migración hacia un destino internacional"
 10-7-4-definition:
 10-7-4-graph-title: "Número de personas refugiadas por cada 100.000 habitantes"
 10-7-4-title: "Proporción de la población integrada por refugiados, desglosada por país de origen"
@@ -102,12 +99,14 @@
 11-5-1-graph-title: "Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes"
 11-5-1-title: "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas"
 11-5-2-definition:
-11-5-2-graph-title: 
 11-5-2-graph-title: "Indemnizaciones por daños personales, perdidas pecuniarias y daños de bienes pagadas y/o provisionadas en proporción al PIB"
 11-5-2-title: "Pérdidas económicas directas atribuidas a los desastres en relación con el producto interno bruto (PIB) mundial"
+11-5-3-definition:
+11-5-3-graph-title:
+11-5-3-title: "a) Daños en la infraestructura crítica y b) número de interrupciones de los servicios básicos, atribuidos a desastres"
 11-6-1-definition:
 11-6-1-graph-title: "Residuos urbanos recogidos per cápita y proporción de residuos municipales (incinerados, vertidos y reciclados) en relación al total de residuos municipales generados y tratados"
-11-6-1-title: "Proporción de desechos sólidos urbanos recogidos periódicamente y con una descarga final adecuada respecto del total de desechos sólidos urbanos generados, desglosada por ciudad"
+11-6-1-title: "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas con respecto al total de residuos municipales generados, desglosada por ciudad"
 11-6-2-definition:
 11-6-2-graph-title: "Nivel medio de partículas finas en suspensión en las ciudades ponderado según la población"
 11-6-2-title: "Niveles medios anuales de partículas finas en suspensión (por ejemplo, PM2.5 y PM10) en las ciudades (ponderados según la población)"
@@ -116,7 +115,7 @@
 11-7-1-title: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos, desglosada por sexo, edad y personas con discapacidad"
 11-7-2-definition:
 11-7-2-graph-title: 
-11-7-2-title: "Proporción de personas que han sido víctimas de acoso físico o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
+11-7-2-title: "Proporción de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
 11-a-1-definition:
 11-a-1-graph-title: 
 11-a-1-title: "Número de países que cuentan con políticas urbanas nacionales o planes de desarrollo regionales que a) responden a la dinámica de la población, b) garantizan un desarrollo territorial equilibrado y c) aumentan el margen fiscal local"
@@ -131,7 +130,7 @@
 11-c-1-title: "Proporcionar apoyo a los países menos adelantados, incluso mediante asistencia financiera y técnica, para que puedan construir edificios sostenibles y resilientes utilizando materiales locales"
 12-1-1-definition:
 12-1-1-graph-title: "Se elabora, adopta o aplica instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
-12-1-1-title: "Número de países que incluyen como prioridad o meta en las políticas nacionales planes de acción nacionales sobre el consumo y la producción sostenibles"
+12-1-1-title: "Número de países que elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles"
 12-2-1-definition:
 12-2-1-graph-title: 
 12-2-1-title: "Huella material en términos absolutos, huella material per cápita y huella material por PIB"
@@ -155,13 +154,13 @@
 12-6-1-title: "Número de empresas que publican informes sobre sostenibilidad"
 12-7-1-definition:
 12-7-1-graph-title: 
-12-7-1-title: "Grado de aplicación de políticas y planes de acción sostenibles en materia de adquisiciones públicas"
+12-7-1-title: "Número de países que aplican políticas y planes de acción sostenibles en materia de adquisiciones públicas"
 12-8-1-definition:
 12-8-1-graph-title: 
-12-8-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible (incluida la educación sobre el cambio climático) se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación de los estudiantes"
+12-8-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación de docentes y d) la evaluación de los estudiantes"
 12-a-1-definition:
 12-a-1-graph-title: 
-12-a-1-title: "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
+12-a-1-title: "Capacidad instalada de generación de energía renovable en los países en desarrollo y en los países desarrollados (en vatios per cápita)"
 12-b-1-definition:
 12-b-1-graph-title: 
 12-b-1-title: "Aplicación de instrumentos normalizados de contabilidad para hacer un seguimiento de los aspectos económicos y ambientales de la sostenibilidad del turismo"
@@ -185,7 +184,7 @@
 13-2-2-title: "Emisiones totales de gases de efecto invernadero por año"
 13-3-1-definition:
 13-3-1-graph-title: 
-13-3-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación de los estudiantes"
+13-3-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación de docentes y d) la evaluación de los estudiantes"
 13-a-1-definition:
 13-a-1-graph-title: 
 13-a-1-title: "Cantidades proporcionadas y movilizadas en dólares de los Estados Unidos al año en relación con el objetivo actual mantenido de movilización colectiva de 100.000 millones de dólares de aquí a 2025"
@@ -239,7 +238,7 @@
 15-4-1-title: "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
 15-4-2-definition:
 15-4-2-graph-title: 
-15-4-2-title: "Índice de cobertura verde de las montañas"
+15-4-2-title: "a) Índice de cobertura verde de las montañas y b) proporción de terreno montañoso degradado"
 15-5-1-definition:
 15-5-1-graph-title: 
 15-5-1-title: "Índice de la Lista Roja"
@@ -272,10 +271,10 @@
 16-1-2-title: "Muertes relacionadas con conflictos por cada 100.000 habitantes, desglosadas por sexo, edad y causa"
 16-1-3-definition:
 16-1-3-graph-title: 
-16-1-3-title: "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica y c) violencia sexual en los últimos 12 meses"
+16-1-3-title: "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica o c) violencia sexual en los últimos 12 meses"
 16-1-4-definition:
-16-1-4-graph-title: "Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia"
-16-1-4-title: "Proporción de la población que se siente segura al caminar sola en su zona de residencia"
+16-1-4-graph-title: "Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia después de que oscurece"
+16-1-4-title: "Proporción de la población que se siente segura al caminar sola en su zona de residencia después de que oscurece"
 16-10-1-definition:
 16-10-1-graph-title: 
 16-10-1-title: "Número de casos verificados de asesinato, secuestro, desaparición forzada, detención arbitraria y tortura de periodistas, miembros asociados de los medios de comunicación, sindicalistas y defensores de los derechos humanos, en los últimos 12 meses"
@@ -294,7 +293,7 @@
 16-2-3-title: "Proporción de mujeres y hombres jóvenes de entre 18 y 29 años que sufrieron violencia sexual antes de cumplir los 18 años"
 16-3-1-definition:
 16-3-1-graph-title: 
-16-3-1-title: "Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
+16-3-1-title: "Proporción de víctimas de a) violencia física, b) violencia psicológica o c) violencia sexual en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
 16-3-2-definition:
 16-3-2-graph-title: "Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas"
 16-3-2-title: "Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total"
@@ -352,7 +351,7 @@
 17-11-1-title: "Participación de los países en desarrollo y los países menos adelantados en las exportaciones mundiales"
 17-12-1-definition:
 17-12-1-graph-title: 
-17-12-1-title: "Promedio de los aranceles que enfrentan los países en desarrollo, los países menos adelantados y los pequeños Estados insulares en desarrollo"
+17-12-1-title: "Promedio ponderado de los aranceles que enfrentan los países en desarrollo, los países menos adelantados y los pequeños Estados insulares en desarrollo"
 17-13-1-definition:
 17-13-1-graph-title: "Tablero macroeconómico"
 17-13-1-title: "Tablero macroeconómico"
@@ -370,7 +369,7 @@
 17-17-1-title: "Suma en dólares de los Estados Unidos prometida a las alianzas público-privadas centradas en la infraestructura"
 17-18-1-definition:
 17-18-1-graph-title: 
-17-18-1-title: "Indicador de capacidad estadística para el seguimiento de los Objetivos de Desarrollo Sostenible"
+17-18-1-title: "Indicadores de la capacidad estadística"
 17-18-2-definition:
 17-18-2-graph-title: 
 17-18-2-graph-title: "La legislación autonómica sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
@@ -393,7 +392,7 @@
 17-2-1-title: "Asistencia oficial para el desarrollo neta, total y para los países menos adelantados en proporción al ingreso nacional bruto (INB) de los donantes del Comité de Asistencia para el Desarrollo de la Organización de Cooperación y Desarrollo Económicos (OCDE)"
 17-3-1-definition:
 17-3-1-graph-title: "Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo y Ayuda Oficial al Desarrollo neta de las administraciones públicas autonómicas y locales"
-17-3-1-title: "Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación Sur-Sur en proporción al presupuesto nacional total"
+17-3-1-title: "Recursos financieros adicionales movilizados para los países en desarrollo procedentes de múltiples fuentes"
 17-3-2-definition:
 17-3-2-graph-title: "Volumen de remesas enviadas al extranjero"
 17-3-2-title: "Volumen de remesas (en dólares de los Estados Unidos) en proporción al PIB total"
@@ -402,13 +401,13 @@
 17-4-1-title: "Servicio de la deuda en proporción a las exportaciones de bienes y servicios"
 17-5-1-definition:
 17-5-1-graph-title: 
-17-5-1-title: "Número de países que adoptan y aplican sistemas de promoción de las inversiones en favor de los países menos adelantados"
+17-5-1-title: "Número de países que adoptan y aplican sistemas de promoción de las inversiones en favor de los países en desarrollo, entre ellos los países menos adelantados"
 17-6-1-definition:
 17-6-1-graph-title: "Número de líneas de banda ancha fija por cada 100 habitantes según tecnología de acceso"
-17-6-1-title: "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
+17-6-1-title: "Número de abonados a servicios de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
 17-7-1-definition:
 17-7-1-graph-title: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB"
-17-7-1-title: "Total de los fondos aprobados para los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
+17-7-1-title: "Total de los fondos destinados a los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
 17-8-1-definition:
 17-8-1-graph-title: "Proporción de personas entre 16 y 74 años que han utilizado Internet en los últimos tres meses"
 17-8-1-title: "Proporción de personas que utilizan Internet"
@@ -544,34 +543,34 @@
 3-d-1-title: "Capacidad prevista en el Reglamento Sanitario Internacional (RSI) y preparación para emergencias de salud"
 3-d-2-definition:
 3-d-2-graph-title: 
-3-d-2-title: "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos seleccionados"
+3-d-2-title: "Porcentaje de infecciones del torrente sanguíneo debidas a determinados organismos resistentes a los antimicrobianos"
 4-1-1-definition:
 4-1-1-graph-title: "Proporción de personas de que han alcanzado al menos el nivel 2 de competencia según sexo, edad y tipo de competencia"
-4-1-1-title: "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
+4-1-1-title: "Proporción de niños, niñas y adolescentes que, a) en los grados 2 o 3, b) al final de la educación primaria y c) al final de la educación secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo"
 4-1-2-definition:
-4-1-2-graph-title: "Proporción de personas que han completado al menos la primera o segunda etapa de enseñanza secundaria según sexo y edad"
-4-1-2-title: "Índice de finalización (enseñanza primaria, primer ciclo de enseñanza secundaria y segundo ciclo de enseñanza secundaria)"
+4-1-2-graph-title: "Proporción de personas que han completado al menos la primera o segunda etapa de educación secundaria según sexo y edad"
+4-1-2-title: "Tasa de finalización (educación primaria, educación secundaria inferior y educación secundaria superior)"
 4-2-1-definition:
 4-2-1-graph-title: 
 4-2-1-title: "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo"
 4-2-2-definition:
 4-2-2-graph-title: "Tasa neta de escolarización a los 5 años según sexo"
-4-2-2-title: "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo"
+4-2-2-title: "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la educación primaria), desglosada por sexo"
 4-3-1-definition:
 4-3-1-graph-title: "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica"
-4-3-1-title: "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
+4-3-1-title: "Tasa de participación de jóvenes y adultos en la educación y formación académica y no académica en los últimos 12 meses, desglosada por sexo"
 4-4-1-definition:
 4-4-1-graph-title: "Proporción de personas que han utilizado alguna habilidad informática según grupos de edad"
-4-4-1-title: "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica"
+4-4-1-title: "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia"
 4-5-1-definition:
-4-5-1-graph-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
-4-5-1-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse"
+4-5-1-graph-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores de educación de esta lista que puedan desglosarse"
+4-5-1-title: "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores de educación de esta lista que puedan desglosarse"
 4-6-1-definition:
 4-6-1-graph-title: "Proporción de personas que han alcanzado al menos el nivel 2 de competencia funcional según sexo, edad y tipo de competencia"
-4-6-1-title: "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo"
+4-6-1-title: "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) aritmética, desglosada por sexo"
 4-7-1-definition:
 4-7-1-graph-title: 
-4-7-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible, incluida la igualdad de género y los derechos humanos, se incorporan en todos los niveles de a) las políticas nacionales de educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación de los estudiantes"
+4-7-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación de docentes y d) la evaluación de los estudiantes"
 4-a-1-definition:
 4-a-1-graph-title: "Proporción de centros educativos no universitarios que ofrecen servicios básicos según tipo de servicio"
 4-a-1-title: "Proporción de escuelas que ofrecen servicios básicos, desglosada por tipo de servicio"
@@ -595,7 +594,7 @@
 5-3-1-title: "Proporción de mujeres de entre 20 y 24 años que estaban casadas o mantenían una unión estable antes de cumplir los 15 años y antes de cumplir los 18 años"
 5-3-2-definition:
 5-3-2-graph-title: 
-5-3-2-title: "Proporción de niñas y mujeres de entre 15 y 49 años que han sufrido mutilación o ablación genital femenina, desglosada por edad"
+5-3-2-title: "Proporción de niñas y mujeres de entre 15 y 49 años que han sufrido mutilación genital femenina, desglosada por edad"
 5-4-1-definition:
 5-4-1-graph-title: "Tiempo dedicado al hogar y familia en un día promedio según sexo"
 5-4-1-title: "Proporción de tiempo dedicado al trabajo doméstico y asistencial no remunerado, desglosada por sexo, edad y ubicación"
@@ -677,7 +676,7 @@
 7-a-1-title: "Corrientes financieras internacionales hacia los países en desarrollo para apoyar la investigación y el desarrollo de energías limpias y la producción de energía renovable, incluidos los sistemas híbridos"
 7-b-1-definition:
 7-b-1-graph-title: 
-7-b-1-title: "Capacidad instalada de generación de energía renovable en los países en desarrollo (expresada en vatios per cápita)"
+7-b-1-title: "Capacidad instalada de generación de energía renovable en los países en desarrollo y en los países desarrollados (en vatios per cápita)"
 8-1-1-definition:
 8-1-1-graph-title: "Tasa de crecimiento anual del PIB real per cápita"
 8-1-1-title: "Tasa de crecimiento anual del PIB real per cápita"
@@ -702,7 +701,7 @@
 8-4-2-title: "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB"
 8-5-1-definition:
 8-5-1-graph-title: "Ingreso medio por hora de trabajo según sexo o personas con discapacidad"
-8-5-1-title: "Ingreso medio por hora de empleadas y empleados, desglosado por ocupación, edad y personas con discapacidad"
+8-5-1-title: "Ingreso medio por hora de las personas empleadas, desglosado por sexo, edad, ocupación y personas con discapacidad"
 8-5-2-definition:
 8-5-2-graph-title: "Tasa de desempleo según sexo o personas con discapacidad"
 8-5-2-title: "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
