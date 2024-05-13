@@ -15,8 +15,8 @@ definicion: subindicator.5-1-1-SERIE-A-definicion
 
 formula_teorica: '$$MJML^{t} = \frac{NSI_{1-12}^{t}}{NSI_{1-12}^{t}+NNO_{1-12}^{t}} \cdot 100$$ <br>
 donde: <br>
-$NSI_{1-12}^{t} =$ número de respuestas "SÍ" a las preguntas 1-12 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$ <br>
-$NNO_{1-12}^{t} =$ número de respuestas "NO" a las preguntas 1-12 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$'
+$NSI_{1-12}^{t} =$ número de respuestas \"SÍ\" a las preguntas 1-12 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$ <br>
+$NNO_{1-12}^{t} =$ número de respuestas \"NO\" a las preguntas 1-12 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: ""
 periodicidad: "Bienal"

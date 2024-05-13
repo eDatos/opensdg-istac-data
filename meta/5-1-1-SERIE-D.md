@@ -15,8 +15,8 @@ definicion: subindicator.5-1-1-SERIE-D-definicion
 
 formula_teorica: '$$MJVM^{t} = \frac{NSI_{32-42}^{t}}{NSI_{32-42}^{t}+NNO_{32-42}^{t}} \cdot 100$$ <br>
 donde: <br>
-$NSI_{32-42}^{t} =$ número de respuestas "SÍ" a las preguntas 32-42 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$ <br>
-$NNO_{32-42}^{t} =$ número de respuestas "NO" a las preguntas 32-42 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$'
+$NSI_{32-42}^{t} =$ número de respuestas \"SÍ\" a las preguntas 32-42 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$ <br>
+$NNO_{32-42}^{t} =$ número de respuestas \"NO\" a las preguntas 32-42 del cuestionario específico diseñado para el indicador 5.1.1 por Naciones Unidas en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: ""
 periodicidad: "Bienal"
