@@ -14,7 +14,7 @@ meta_global: global_targets.11-a-title
 objetivo_global: global_goals.11-title
 definicion: subindicator.11-a-1-SERIE-A-definicion
 
-formula_teorica: '$$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}}$$ \cdot 100<br>
+formula_teorica: '$$PPPGNS^{t} = \frac{PPG^{t}+PNS^{t}}{P^{t}} \cdot 100$$<br>
 donde: <br>
 $PPG^{t} =$ población residente en municipios que disponen de plan general el 1 de enero del año $t$<br>
 $PNS^{t} =$ población residente en municipios que disponen de normas subsidiarias el 1 de enero del año $t$<br>
