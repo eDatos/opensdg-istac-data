@@ -1,7 +1,6 @@
 ---
-
 # Info genérica
-target_id: '5.1.1'
+target_id: 5.1.1
 reporting_status: complete
 data_non_statistical: false
 indicator_sort_order: 05-01-01-dd
