@@ -26,12 +26,12 @@ unidad_medida: "Rango"
 fuentes_informacion: ""
 periodicidad: "Anual"
 observaciones: "El indicador mide el nivel en el que el marco normativo garantiza la igualdad de derechos de la mujer a la propiedad y el control de tierras, contrastando el marco legal frente a seis proxies aceptados internacionalmente, en concreto en la Convención sobre la eliminación de todas las formas de discriminación contra la mujer (CEDAW) y las Directrices voluntarias sobre la gobernanza responsable de la tenencia de la tierra (VGGT):<br>
-&nbsp;&nbsp;&nbsp; Proxy A: Registro conjunto de tierras obligatorio o incentivado<br>
-&nbsp;&nbsp;&nbsp; Proxy B: Obligación del consentimiento conyugal para transacciones de tierras<br>
-&nbsp;&nbsp;&nbsp; Proxy C: Igualdad de derechos de herencia<br>
-&nbsp;&nbsp;&nbsp; Proxy D: Asignación de recursos financieros para incrementar la tenencia y control de tierras por parte de la mujer<br>
-&nbsp;&nbsp;&nbsp; Proxy E: En sistemas legales que reconocen el derecho consuetudinario, existencia de protección explícita sobre los derechos de la mujer a la propiedad<br>
-&nbsp;&nbsp;&nbsp; Proxy F: Cuotas obligatorias en la gestión y administración de tierras"
+ &emsp;Proxy A: Registro conjunto de tierras obligatorio o incentivado<br>
+ &emsp;Proxy B: Obligación del consentimiento conyugal para transacciones de tierras<br>
+ &emsp;Proxy C: Igualdad de derechos de herencia<br>
+ &emsp;Proxy D: Asignación de recursos financieros para incrementar la tenencia y control de tierras por parte de la mujer<br>
+ &emsp;Proxy E: En sistemas legales que reconocen el derecho consuetudinario, existencia de protección explícita sobre los derechos de la mujer a la propiedad<br>
+ &emsp;Proxy F: Cuotas obligatorias en la gestión y administración de tierras"
 
 # Info de Gráficas
 graph_title: subindicator.5-a-2-SERIE-A-graph-title
