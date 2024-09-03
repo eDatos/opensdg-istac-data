@@ -115,7 +115,7 @@
 11-7-1-title: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos, desglosada por sexo, edad y personas con discapacidad"
 11-7-2-definition:
 11-7-2-graph-title: 
-11-7-2-title: "Proporción de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
+11-7-2-title: "Proporción de personas que han sido víctimas de acoso físico o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
 11-a-1-definition:
 11-a-1-graph-title: "Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico"
 11-a-1-title: "Número de países que cuentan con políticas urbanas nacionales o planes de desarrollo regionales que a) responden a la dinámica de la población, b) garantizan un desarrollo territorial equilibrado y c) aumentan el margen fiscal local"
@@ -160,7 +160,7 @@
 12-8-1-title: "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación de docentes y d) la evaluación de los estudiantes"
 12-a-1-definition:
 12-a-1-graph-title: 
-12-a-1-title: "Capacidad instalada de generación de energía renovable en los países en desarrollo y en los países desarrollados (en vatios per cápita)"
+12-a-1-title: "Capacidad instalada de generación de energía renovable en los países en desarrollo (en vatios per cápita)"
 12-b-1-definition:
 12-b-1-graph-title: 
 12-b-1-title: "Aplicación de instrumentos normalizados de contabilidad para hacer un seguimiento de los aspectos económicos y ambientales de la sostenibilidad del turismo"
@@ -271,7 +271,7 @@
 16-1-2-title: "Muertes relacionadas con conflictos por cada 100.000 habitantes, desglosadas por sexo, edad y causa"
 16-1-3-definition:
 16-1-3-graph-title: 
-16-1-3-title: "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica o c) violencia sexual en los últimos 12 meses"
+16-1-3-title: "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica y c) violencia sexual en los últimos 12 meses"
 16-1-4-definition:
 16-1-4-graph-title: "Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia y proporción de personas que viven en una zona con problemas de delincuencia o vandalismo"
 16-1-4-title: "Proporción de la población que se siente segura al caminar sola en su zona de residencia después de que oscurece"
@@ -293,7 +293,7 @@
 16-2-3-title: "Proporción de mujeres y hombres jóvenes de entre 18 y 29 años que sufrieron violencia sexual antes de cumplir los 18 años"
 16-3-1-definition:
 16-3-1-graph-title: 
-16-3-1-title: "Proporción de víctimas de a) violencia física, b) violencia psicológica o c) violencia sexual en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
+16-3-1-title: "Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente"
 16-3-2-definition:
 16-3-2-graph-title: "Proporción de personas detenidas que no han sido condenadas respecto al total de personas reclusas"
 16-3-2-title: "Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total"
@@ -369,7 +369,7 @@
 17-17-1-title: "Suma en dólares de los Estados Unidos prometida a las alianzas público-privadas centradas en la infraestructura"
 17-18-1-definition:
 17-18-1-graph-title: 
-17-18-1-title: "Indicadores de la capacidad estadística"
+17-18-1-title: "Indicadores de la capacidad estadística para el seguimiento de los Objetivos de Desarrollo Sostenible"
 17-18-2-definition:
 17-18-2-graph-title: 
 17-18-2-graph-title: "La legislación autonómica sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales"
@@ -404,7 +404,7 @@
 17-5-1-title: "Número de países que adoptan y aplican sistemas de promoción de las inversiones en favor de los países en desarrollo, entre ellos los países menos adelantados"
 17-6-1-definition:
 17-6-1-graph-title: "Número de líneas de banda ancha fija por cada 100 habitantes según tecnología de acceso"
-17-6-1-title: "Número de abonados a servicios de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
+17-6-1-title: "Número de abonados a Internet de banda ancha fija por cada 100 habitantes, desglosado por velocidad"
 17-7-1-definition:
 17-7-1-graph-title: "Total de ingresos de las Administraciones Públicas Autonómicas y Locales en proporción al PIB"
 17-7-1-title: "Total de los fondos destinados a los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
