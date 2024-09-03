@@ -17,7 +17,7 @@ definicion: subindicator.8-5-2-SERIE-H-definicion
 formula_teorica: '$$TE_{20-64}^{t} = \frac{E_{20-64}^{t}}{P_{20-64}^{t}} \cdot 100$$ <br>
 donde: <br>
 $E_{20-64}^{t} =$ personas empleadas entre 20 y 64 años en el año $t$ <br>
-$A_{20-64}^{t} =$ personas entre 20 y 64 años en el año $t$ <br>
+$P_{20-64}^{t} =$ personas entre 20 y 64 años en el año $t$ <br>
 teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Encuesta de población activa, Instituto Nacional de Estadística (INE)"
