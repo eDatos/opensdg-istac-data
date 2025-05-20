@@ -16,9 +16,9 @@ definicion: subindicator.11-7-1-SERIE-A-definicion
 
 formula_teorica: '$$PSC_{espacios\, públicos\, abiertos\, y\, calles}^{t} = \frac{SC_{espacios\, públicos\, abiertos}^{t}+SC_{calles}^{t}}{SC^{t}} \cdot 100$$ <br>
 donde: <br>
-$SC_{espacios\, públicos\, abiertos}^{t} =$ superficie contruida destinada a espacios públicos abiertos en el año $t$ <br>
-$SC_{calles}^{t} =$ superficie contruida destinada a calles en el año $t$ <br>
-$SC^{t} =$ superficie total construida en el año $t$'
+$SC_{espacios\, públicos\, abiertos}^{t} $ superficie contruida destinada a espacios públicos abiertos en el año $t$ <br>
+$SC_{calles}^{t} $ superficie contruida destinada a calles en el año $t$ <br>
+$SC^{t} $ superficie total construida en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Instituto Geográfico Nacional e Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"

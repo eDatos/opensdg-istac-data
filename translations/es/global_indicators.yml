@@ -8,7 +8,7 @@
 1-2-2-graph-title: "Proporción de personas que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales"
 1-2-2-title: "Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza, en todas sus dimensiones, con arreglo a las definiciones nacionales"
 1-3-1-definition:
-1-3-1-graph-title: 
+1-3-1-graph-title: "Tasa de cobertura de las prestaciones por desempleo"
 1-3-1-title: "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables"
 1-4-1-definition:
 1-4-1-graph-title: "Proporción de la población que vive en hogares con acceso a los servicios básicos"
@@ -111,10 +111,10 @@
 11-6-2-graph-title: "Nivel medio de partículas finas en suspensión en las ciudades ponderado según la población"
 11-6-2-title: "Niveles medios anuales de partículas finas en suspensión (por ejemplo, PM2.5 y PM10) en las ciudades (ponderados según la población)"
 11-7-1-definition:
-11-7-1-graph-title: 
+11-7-1-graph-title: "Proporción de la superficie construida que se dedica a espacios públicos abiertos y calles en las ciudades"
 11-7-1-title: "Proporción media de la superficie edificada de las ciudades que se dedica a espacios abiertos para uso público de todos, desglosada por sexo, edad y personas con discapacidad"
 11-7-2-definition:
-11-7-2-graph-title: 
+11-7-2-graph-title: "Número de personas que han sido víctimas de acoso no sexual o sexual en los últimos 12 meses por cada 100.000 habitantes"
 11-7-2-title: "Proporción de personas que han sido víctimas de acoso físico o sexual en los últimos 12 meses, desglosada por sexo, edad, grado de discapacidad y lugar del hecho"
 11-a-1-definition:
 11-a-1-graph-title: "Proporción de la población residente en municipios que disponen de plan general o normas subsidiarias de planeamiento urbanístico"
@@ -198,7 +198,7 @@
 14-2-1-graph-title: 
 14-2-1-title: "Número de países que aplican enfoques basados en los ecosistemas para gestionar las zonas marinas"
 14-3-1-definition:
-14-3-1-graph-title: 
+14-3-1-graph-title: "Acidez media del mar"
 14-3-1-title: "Acidez media del mar (pH) medida en un conjunto convenido de estaciones de muestreo representativas"
 14-4-1-definition:
 14-4-1-graph-title: 
@@ -225,7 +225,7 @@
 15-1-1-graph-title: "Superficie de bosque en proporción a la superficie total"
 15-1-1-title: "Superficie forestal en proporción a la superficie total"
 15-1-2-definition:
-15-1-2-graph-title: 
+15-1-2-graph-title: "Proporción de la superficie incluida en áreas protegidas según tipo de ecosistema"
 15-1-2-title: "Proporción de lugares importantes para la biodiversidad terrestre y del agua dulce incluidos en zonas protegidas, desglosada por tipo de ecosistema"
 15-2-1-definition:
 15-2-1-graph-title: "Superficie forestal con instrumentos de gestión sostenible vigentes"
@@ -234,10 +234,10 @@
 15-3-1-graph-title: 
 15-3-1-title: "Proporción de tierras degradadas en comparación con la superficie total"
 15-4-1-definition:
-15-4-1-graph-title: 
+15-4-1-graph-title: "Proporción de la superficie de zonas de montaña incluida en áreas protegidas según tipo de ecosistema"
 15-4-1-title: "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas"
 15-4-2-definition:
-15-4-2-graph-title: 
+15-4-2-graph-title: "Índice de cobertura verde de las montañas"
 15-4-2-title: "a) Índice de cobertura verde de las montañas y b) proporción de terreno montañoso degradado"
 15-5-1-definition:
 15-5-1-graph-title: 
@@ -436,7 +436,7 @@
 2-3-2-graph-title: 
 2-3-2-title: "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena"
 2-4-1-definition:
-2-4-1-graph-title: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible; y emisiones de amoníaco"
+2-4-1-graph-title: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible, donde se ha alcanzado un nivel de productividad y rentabilidad deseable; emisiones de amoniaco según actividad e índice de salarios agrarios"
 2-4-1-title: "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible"
 2-5-1-definition:
 2-5-1-graph-title: 
@@ -630,10 +630,10 @@
 6-1-1-graph-title: "Proporción de personas que reciben suministro de agua con cobertura del Sistema Nacional de Aguas de Consumo"
 6-1-1-title: "Proporción de la población que utiliza servicios de suministro de agua potable gestionados sin riesgos"
 6-2-1-definition:
-6-2-1-graph-title: 
+6-2-1-graph-title: "Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes conectadas a un sistema de colectores de aguas residuales"
 6-2-1-title: "Proporción de la población que utiliza: a) servicios de saneamiento gestionados sin riesgos y b) instalaciones para el lavado de manos con agua y jabón"
 6-3-1-definition:
-6-3-1-graph-title: 
+6-3-1-graph-title: "Proporción de la carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes que depuran adecuadamente sus aguas residuales"
 6-3-1-title: "Proporción de los flujos de aguas residuales domésticas e industriales tratados de manera adecuada"
 6-3-2-definition:
 6-3-2-graph-title: 
