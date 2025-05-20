@@ -15,8 +15,8 @@ definicion: subindicator.6-3-1-SERIE-A-definicion
 
 formula_teorica: '$$PCC_{depuración}^{t} = \frac{CC_{depuración}^{t}}{CC^{t}} \cdot 100$$ <br>
 donde: <br>
-$CC_{depuración}^{t} =$ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes que depuran adecuadamente sus aguas residuales en el año $t$ <br>
-$SC^{t} =$ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes en el año $t$'
+$CC_{depuración}^{t} $ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes que depuran adecuadamente sus aguas residuales en el año $t$ <br>
+$CC^{t} $ carga contaminante correspondiente a las aglomeraciones urbanas de más de 2.000 habitantes equivalentes en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Tratamiento de las aguas residuales urbanas, Ministerio para la Transición Ecológica y el Reto Demográfico"
 periodicidad: "Bienal"
