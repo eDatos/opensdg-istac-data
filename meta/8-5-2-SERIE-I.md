@@ -24,7 +24,7 @@ $P_{20-64,hombres}^{t} =$ hombres entre 20 y 64 años en el año $t$ <br>
 $E_{20-64,mujeres}^{t} =$ mujeres empleadas entre 20 y 64 años en el año $t$ <br>
 $P_{20-64,mujeres}^{t} =$ mujeres entre 20 y 64 años en el año $t$ <br>
 teniendo en cuenta que cada una de estas poblaciones se calcula como la media aritmética de los cuatro trimestres del año'
-unidad_medida: "Porcentaje"
+unidad_medida: "Puntos porcentuales"
 fuentes_informacion: "Encuesta de población activa, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
 observaciones: 
