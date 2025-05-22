@@ -34,15 +34,15 @@ Indicador,Nombre
 12-6-1-SERIE-A,Número de licencias de Etiqueta Ecológica Europea
 12-6-1-SERIE-B,Número de organizaciones con Sistema comunitario de gestión y auditoría medioambiental
 13-1-1-SERIE-A,Número de personas muertas directamente atribuido a desastres por cada 100.000 habitantes
-13-2-2-SERIE-A,Emisiones totales de gases de efecto invernadero de las unidades residentes por unidad de PIB
-13-2-2-SERIE-B,Emisiones totales de gases de efecto invernadero de las unidades residentes per cápita
+13-2-2-SERIE-A,Emisiones totales de gases de efecto invernadero por unidad de PIB
+13-2-2-SERIE-B,Emisiones totales de gases de efecto invernadero per cápita
 13-2-2-SERIE-C,Emisiones de gases de efecto invernadero respecto al año 1990
 13-2-2-SERIE-D,Emisiones de gases de efecto invernadero respecto al año 2005
 15-1-1-SERIE-A,Superficie de bosque en proporción a la superficie total
 15-2-1-SERIE-A,Superficie forestal con instrumentos de gestión sostenible vigentes
 15-2-1-SERIE-B,Proporción de la superficie forestal con instrumentos de gestión sostenible vigentes
 15-8-1-SERIE-A,Se dispone de legislación pertinente y se destinan recursos para la prevención o el control de las especies exóticas invasoras
-16-1-4-SERIE-A,Proporción de personas de 16 años y más que se sienten seguras al caminar solas en su zona de residencia
+16-1-4-SERIE-A,Proporción de personas de 16 y más años que se sienten seguras al caminar solas en su zona de residencia
 16-2-2-SERIE-A,Número de víctimas detectadas de tráfico de personas por cada 100.000 habitantes
 16-2-2-SERIE-B,Número de víctimas detectadas de tráfico de personas para explotación sexual por cada 100.000 habitantes
 16-2-2-SERIE-C,Número de víctimas detectadas de tráfico de personas para explotación laboral por cada 100.000 habitantes
@@ -68,7 +68,7 @@ Indicador,Nombre
 17-1-2-SERIE-A,Proporción de los ingresos de las administraciones públicas autonómicas y locales provenientes de impuestos
 17-1-2-SERIE-B,Proporción de los ingresos no financieros de las administraciones públicas autonómicas y locales provenientes de impuestos
 17-18-2-SERIE-A,La legislación sobre estadísticas cumple los Principios Fundamentales de las Estadísticas Oficiales
-17-18-3-SERIE-A,Se dispone de un plan estadístico autonómico plenamente financiado y en fase de aplicación
+17-18-3-SERIE-A,Se dispone de un plan estadístico plenamente financiado y en fase de aplicación
 17-19-2a-SERIE-A,Se ha realizado al menos un censo de población y vivienda en los últimos diez años
 17-19-2b-SERIE-A,Se ha registrado el 100% de los nacimientos y al menos el 80% de las defunciones
 17-3-1-SERIE-A,Inversión directa neta en los países receptores de Ayuda Oficial al Desarrollo
@@ -213,8 +213,8 @@ Indicador,Nombre
 9-2-2-SERIE-B,Empleo del sector manufacturero en proporción al empleo total (personas empleadas)
 9-2-2-SERIE-C,Empleo del sector manufacturero en proporción al empleo total (horas trabajadas)
 9-3-1-SERIE-A,Proporción del valor añadido total del sector manufacturero correspondiente a las pequeñas empresas
-9-4-1-SERIE-A,Emisiones de CO2 de las unidades residentes por unidad de PIB
-9-4-1-SERIE-B,Emisiones de CO2 de las unidades residentes por unidad de valor añadido del sector manufacturero
+9-4-1-SERIE-A,Emisiones de CO2 por unidad de PIB
+9-4-1-SERIE-B,Emisiones de CO2 por unidad de valor añadido del sector manufacturero
 9-4-1-SERIE-C,Emisiones de CO2 respecto al año 1990
 9-4-1-SERIE-D,Emisiones de CO2 respecto al año 2005
 9-5-1-SERIE-A,Gastos en investigación y desarrollo en proporción al PIB
