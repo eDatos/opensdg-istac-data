@@ -15,9 +15,9 @@ definicion: subindicator.8-2-1-SERIE-B-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$TCPIBEH^{t} = \frac{{\frac{PIB_{2015}^{t}}{EH^t}-\frac{PIB_{2015}^{t-1}}{EH^{t-1}}}}{\frac{PIB_{2015}^{t-1}}{EH^{t-1}}} \cdot 100$$ <br>
+formula_teorica: '$$TCPIBEH^{t} = \frac{{\frac{PIB_{2020}^{t}}{EH^t}-\frac{PIB_{2020}^{t-1}}{EH^{t-1}}}}{\frac{PIB_{2020}^{t-1}}{EH^{t-1}}} \cdot 100$$ <br>
 donde: <br>
-$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$ <br>
+$PIB_{2020}^{t} =$ producto interior bruto en volumen encadenado con referencia 2020 en el año $t$ <br>
 $EH^{t} =$ empleo (horas) en el año $t$ '
 unidad_medida: Porcentaje
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE)"

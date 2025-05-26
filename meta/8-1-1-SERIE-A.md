@@ -17,8 +17,8 @@ definicion: subindicator.8-1-1-SERIE-A-definicion
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
 formula_teorica: '$$TCPIBP^{t} = \frac{{\frac{PIB_{2015}^{t}}{P^t}-\frac{PIB_{2015}^{t-1}}{P^{t-1}}}}{\frac{PIB_{2015}^{t-1}}{P^{t-1}}} \cdot 100$$ <br>
 donde: <br>
-$PIB_{2015}^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$ <br>
-$P^{t} =$ población a 1 de julio del año $t$ '
+$PIB_{2015}^{t} $ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$ <br>
+$P^{t} $ población a 1 de julio del año $t$ '
 unidad_medida: Porcentaje
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE) <br>
 Cifras de población, Instituto Nacional de Estadística (INE)"

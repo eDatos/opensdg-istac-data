@@ -15,9 +15,9 @@ definicion: subindicator.9-2-1-SERIE-B-definicion
 
 # Fórmula teórica escrita en formato MathJax
 # https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference
-formula_teorica: '$$PPVAB_{manufacturero,2015}^{t} = \frac{VAB_{manufacturero,2015}^{t}}{P^{t}} $$ <br>
+formula_teorica: '$$PPVAB_{manufacturero,2020}^{t} = \frac{VAB_{manufacturero,2020}^{t}}{P^{t}} $$ <br>
 donde: <br>
-$VAB_{manufacturero,2015}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$ <br>
+$VAB_{manufacturero,2020}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2020 en el año $t$ <br>
 $P^{t} =$ población a 1 de julio del año $t$ '
 unidad_medida: Euros
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE) <br>
