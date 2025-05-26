@@ -14,10 +14,10 @@ objetivo_global: global_goals.7-title
 definicion: subindicator.7-3-1-SERIE-A-definicion
 
 # Fórmula teórica escrita en formato MathJax
-formula_teorica: '$$CEE^{t} = \frac{DEE^{t}}{PIB_{2015}^{t}}$$ <br>
+formula_teorica: '$$CEE^{t} = \frac{DEE^{t}}{PIB_{2020}^{t}}$$ <br>
 donde: <br>
 $DEE^{t} =$ demanda de energía eléctrica en barras de central en el año $t$ <br>
-$PIB^{t} =$ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$'
+$PIB^{t} =$ producto interior bruto en volumen encadenado con referencia 2020 en el año $t$'
 unidad_medida: "Toneladas equivalentes de petróleo por millón de euros"
 fuentes_informacion: "Balance eléctrico, Red Eléctrica de España<br>
 Contabilidad regional de España, Instituto Nacional de Estadística (INE)"

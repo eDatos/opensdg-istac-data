@@ -14,10 +14,10 @@ meta_global: global_targets.17-13-title
 objetivo_global: global_goals.17-title
 definicion: subindicator.17-13-1-SERIE-A-definicion
 
-formula_teorica: '$$TVPIB^{t} = \left(\frac{PIB_{2015}^{t}}{PIB_{2015}^{t-1}} - 1 \right) \cdot 100$$ <br>
+formula_teorica: '$$TVPIB^{t} = \left(\frac{PIB_{2020}^{t}}{PIB_{2020}^{t-1}} - 1 \right) \cdot 100$$ <br>
 donde: <br>
-$PIB_{2015}^{t} $ producto interior bruto en volumen encadenado con referencia 2015 en el año $t$<br>
-$PIB_{2015}^{t-1} $ producto interior bruto en volumen encadenado con referencia 2015 en el año  $t$'
+$PIB_{2020}^{t} $ producto interior bruto en volumen encadenado con referencia 2020 en el año $t$<br>
+$PIB_{2020}^{t-1} $ producto interior bruto en volumen encadenado con referencia 2020 en el año  $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"

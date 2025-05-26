@@ -14,10 +14,10 @@ meta_global: global_targets.9-4-title
 objetivo_global: global_goals.9-title
 definicion: subindicator.9-4-1-SERIE-E-definicion
 
-formula_teorica: '$$PVABEPM10_{manufacturero}^{t} = \frac{EPM10_{manufacturero}^{t}}{VAB_{manufacturero,2015}^{t}}$$ <br>
+formula_teorica: '$$PVABEPM10_{manufacturero}^{t} = \frac{EPM10_{manufacturero}^{t}}{VAB_{manufacturero,2020}^{t}}$$ <br>
 donde: <br>
 $EPM10_{manufacturero}^{t} =$ emisiones de partículas en suspensión de tamaño inferior a 10 micras (PM10) del sector manufacturero en el año $t$<br>
-$VAB_{manufacturero,2015}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2015 en el año $t$'
+$VAB_{manufacturero,2020}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2020 en el año $t$'
 unidad_medida: "Gramos por euro"
 fuentes_informacion: "Inventario nacional de contaminantes atmosféricos, Ministerio para la Transición Ecológica y el Reto Demográfico<br>
 Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
