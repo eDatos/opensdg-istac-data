@@ -16,7 +16,7 @@ definicion: subindicator.14-3-1-SERIE-A-definicion
 formula_teorica: '$$AMM^{t} = \overline{pH^{t}}$$ <br>
 donde: <br>
 $\overline{pH^{t}}$ media aritmética del pH in-situ recogido el día 15 de cada mes en las estaciones de medición en el año $t$'
-unidad_medida: "Tanto por 100.000"
+unidad_medida: "pH"
 fuentes_informacion: "Centro Superior de Investigaciones Científicas (CSIC)"
 periodicidad: "Anual"
 observaciones: "La asignación de las estaciones de medición por comunidades autónomas se realiza atendiendo a su punto de tierra más cercano"

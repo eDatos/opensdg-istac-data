@@ -16,11 +16,10 @@ definicion: subindicator.9-4-1-SERIE-A-definicion
 
 formula_teorica: '$$PPIBECO2^{t} = \frac{ECO2^{t}}{PIB_{2020}^{t}} $$ <br>
 donde: <br>
-$ECO2^{t} =$ emisiones de CO2 de las unidades económicas residentes en el año $t$ (se distribuye el total nacional de emisiones de CO2 de la Cuenta de emisiones a la atmósfera en función de las emisiones de CO2 por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
+$ECO2^{t} =$ emisiones de CO2 en el año $t$<br>
 $PIB_{2020}^{t} =$ producto interior bruto en volumen encadenado con referencia 2020 en el año $t$'
 unidad_medida: "Kilogramos por euro"
 fuentes_informacion: "Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico<br>
-Cuenta de emisiones a la atmósfera, Instituto Nacional de Estadística (INE)<br>
 Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
 observaciones: 

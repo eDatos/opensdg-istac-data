@@ -16,7 +16,7 @@ definicion: subindicator.15-4-2-SERIE-A-definicion
 # Fórmula teórica escrita en formato MathJax
 formula_teorica: '$$PSMV^{t} = \frac{SMV^{t}}{SM^{t}} \cdot 100$$<br>
 donde: <br>
-$SMV^{t}$ superficie de zonas de montaña cubierta por bosques, pastizales y tierras de cultivo en el año$t$<br>
+$SMV^{t}$ superficie de zonas de montaña cubierta por bosques, pastizales y tierras de cultivo en el año $t$<br>
 $SM^{t}$ superficie de zonas de montaña en el año $t$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Espacios naturales o de interés, Ministerio para la Transición Ecológica y el Reto Demográfico"

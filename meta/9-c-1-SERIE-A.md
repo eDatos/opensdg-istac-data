@@ -19,7 +19,7 @@ donde: <br>
 $HHSPA^{t} =$ hogares cubiertos con redes móviles del Sistema Universal de Telecomunicaciones Móviles (UMTS) con High - Speed Packet Access (HSPA) en el año $t$<br>
 $H^{t} =$ hogares en el año $t$ <br>'
 unidad_medida: "Porcentaje"
-fuentes_informacion: "Cobertura de banda ancha en España, Ministerio de Asuntos Económicos y Transformación Digital"
+fuentes_informacion: "Cobertura de banda ancha en España, Ministerio para la Transformación Digital y de la Función Pública"
 periodicidad: "Anual"
 observaciones: "La serie no se calcula a partir del año 2021 debido a la amplia implantación de esta tecnología"
 

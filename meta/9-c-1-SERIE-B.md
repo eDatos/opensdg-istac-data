@@ -19,7 +19,7 @@ donde: <br>
 $HLTE^{t} =$ hogares cubiertos con redes móviles LTE (Long Term Evolution) en el año $t$<br>
 $H^{t} =$ hogares en el año $t$ <br>'
 unidad_medida: "Porcentaje"
-fuentes_informacion: "Cobertura de banda ancha en España, Ministerio de Asuntos Económicos y Transformación Digital"
+fuentes_informacion: "Cobertura de banda ancha en España, Ministerio para la Transformación Digital y de la Función Pública"
 periodicidad: "Anual"
 observaciones: 
 

@@ -17,7 +17,7 @@ definicion: subindicator.17-13-1-SERIE-A-definicion
 formula_teorica: '$$TVPIB^{t} = \left(\frac{PIB_{2020}^{t}}{PIB_{2020}^{t-1}} - 1 \right) \cdot 100$$ <br>
 donde: <br>
 $PIB_{2020}^{t} $ producto interior bruto en volumen encadenado con referencia 2020 en el año $t$<br>
-$PIB_{2020}^{t-1} $ producto interior bruto en volumen encadenado con referencia 2020 en el año  $t$'
+$PIB_{2020}^{t-1} $ producto interior bruto en volumen encadenado con referencia 2020 en el año $t-1$'
 unidad_medida: "Porcentaje"
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
