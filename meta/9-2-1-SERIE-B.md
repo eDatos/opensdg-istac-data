@@ -21,7 +21,7 @@ $VAB_{manufacturero,2020}^{t} =$ valor añadido bruto del sector manufacturero e
 $P^{t} =$ población a 1 de julio del año $t$ '
 unidad_medida: Euros
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE) <br>
-Cifras de población, Instituto Nacional de Estadística (INE)"
+Estadística continua de población, Instituto Nacional de Estadística (INE)"
 periodicidad: Anual
 observaciones: 
 

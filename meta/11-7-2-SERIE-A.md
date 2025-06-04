@@ -14,10 +14,10 @@ meta_global: global_targets.11-7-title
 objetivo_global: global_goals.11-title
 definicion: subindicator.11-7-2-SERIE-A-definicion
 
-formula_teorica: '$$TV ACOSO^{t} = \frac{V ACOSO^{t}}{P^{t}} \cdot 100.000$$ <br>
+formula_teorica: '$$PSC^{t} = \frac{SC^{t}}{SC^{t}} \cdot 100.000$$ <br>
 donde: <br>
-$V ACOSO^{t} $ población en el año t que ha sido víctima de acoso no sexual o sexual en los últimos 12 meses <br>
-$P^{t} $ población a 1 de julio del año $t$'
+$V ACOSO^{t} =$ población en el año t que ha sido víctima de acoso no sexual o sexual en los últimos 12 meses <br>
+$P^{t} =$ población a 1 de julio del año $t$'
 unidad_medida: "Tanto por 100.000"
 fuentes_informacion: "Estadística de seguridad: actuaciones policiales, Ministerio del Interior"
 periodicidad: "Anual"

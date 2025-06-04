@@ -21,7 +21,7 @@ $PIB_{2020}^{t} $ producto interior bruto en volumen encadenado con referencia 2
 $P^{t} $ población a 1 de julio del año $t$ '
 unidad_medida: Porcentaje
 fuentes_informacion: "Contabilidad regional de España, Instituto Nacional de Estadística (INE) <br>
-Cifras de población, Instituto Nacional de Estadística (INE)"
+Estadística continua de población, Instituto Nacional de Estadística (INE)"
 periodicidad: Anual
 observaciones: 
 

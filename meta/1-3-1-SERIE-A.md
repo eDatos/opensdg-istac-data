@@ -15,9 +15,9 @@ definicion: subindicator.1-3-1-SERIE-A-definicion
 
 formula_teorica: '$$TCPD^{t} = \frac{B_{prestación\, por\, desempleo}^{t}}{D_{con\, empleo\, previo}^{t}+B_{subsidio\, eventual\, agrario}^{t}} \cdot 100$$ <br>
 donde: <br>
-$B_{prestación\, por\, desempleo}^{t} $ personas beneficiarias de una prestación por desempleo en el año $t$ <br>
-$D_{con\, empleo\, previo}^{t} $ personas desempleadas con empleo previo que están registradas en el paro en el año $t$ <br>
-$B_{subsidio\, eventual\, agrario}^{t} $ personas beneficiarias del subsidio eventual agrario en el año $t$'
+$B_{prestación\, por\, desempleo}^{t} =$ personas beneficiarias de una prestación por desempleo en el año $t$ <br>
+$D_{con\, empleo\, previo}^{t} =$ personas desempleadas con empleo previo que están registradas en el paro en el año $t$ <br>
+$B_{subsidio\, eventual\, agrario}^{t} =$ personas beneficiarias del subsidio eventual agrario en el año $t$'
 unidad_medida: "Tanto por 100"
 fuentes_informacion: "Estadística de prestaciones por desempleo, Ministerio de Trabajo y Economía Social<br>Estadística del movimiento laboral registrado, Ministerio de Trabajo y Economía Social"
 periodicidad: "Anual"

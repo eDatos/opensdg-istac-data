@@ -16,14 +16,13 @@ definicion: subindicator.9-4-1-SERIE-B-definicion
 
 formula_teorica: '$$PVABECO2_{manufacturero}^{t} = \frac{ECO2_{manufacturero}^{t}}{VAB_{manufacturero,2020}^{t}} $$ <br>
 donde: <br>
-$ECO2_{manufacturero}^{t} =$ emisiones de CO2 de las unidades económicas residentes del sector manufacturer en el año $t$ (se distribuye el total nacional de emisiones de CO2 de la Cuenta de emisiones a la atmósfera en función de las emisiones de CO2 por comunidades autónomas del Inventario nacional de gases de efecto invernadero (GEI))<br>
+$ECO2_{manufacturero}^{t} =$ emisiones de CO2 del sector manufacturero en el año $t$<br>
 $VAB_{manufacturero,2020}^{t} =$ valor añadido bruto del sector manufacturero en volumen encadenado con referencia 2020 en el año $t$ '
 unidad_medida: "Kilogramos por euro"
 fuentes_informacion: "Inventario nacional de gases de efecto invernadero (GEI), Ministerio para la Transición Ecológica y el Reto Demográfico<br>
-Cuenta de emisiones a la atmósfera, Instituto Nacional de Estadística (INE)<br>
 Contabilidad regional de España, Instituto Nacional de Estadística (INE)"
 periodicidad: "Anual"
-observaciones: "Las emisiones asignadas al sector manufacturero corresponden a los siguientes códigos en la clasificación SNAP (Selected Nomenclature for Air Pollution): 0103, 0104, 03, 04, 060101, 060105, 060106, 060107, 060108, 060201, 060203, 060204, 060301, 60302, 060303, 060304, 060305, 060306, 060307, 060308, 060309, 060311, 060312, 060313, 060314, 060401, 060402, 060403 y 060404"
+observaciones: "Las emisiones asignadas al sector manufacturero corresponden a los siguientes códigos en la clasificación SNAP (Selected Nomenclature for Air Pollution): 0103, 0104, 03, 04, 060101, 060105, 060106, 060107, 060108, 060201, 060203, 060204, 060301, 060302, 060303, 060304, 060305, 060306, 060307, 060308, 060309, 060311, 060312, 060313, 060314, 060401, 060402, 060403 y 060404"
 
 # Info de Gráficas
 graph_title: subindicator.9-4-1-SERIE-B-graph-title
